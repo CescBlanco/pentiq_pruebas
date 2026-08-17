@@ -1,0 +1,3505 @@
+matchweek,position,team,league,season
+1,1,Barcelona,LaLiga,2025/2026
+1,2,Rayo Vallecano,LaLiga,2025/2026
+1,3,Villarreal,LaLiga,2025/2026
+1,4,Getafe,LaLiga,2025/2026
+1,5,Athletic Club,LaLiga,2025/2026
+1,6,Alavés,LaLiga,2025/2026
+1,7,Espanyol,LaLiga,2025/2026
+1,8,Real Madrid,LaLiga,2025/2026
+1,9,Real Betis,LaLiga,2025/2026
+1,10,Valencia,LaLiga,2025/2026
+1,11,Elche CF,LaLiga,2025/2026
+1,12,Real Sociedad,LaLiga,2025/2026
+1,13,Sevilla FC,LaLiga,2025/2026
+1,14,Atlético,LaLiga,2025/2026
+1,15,Levante,LaLiga,2025/2026
+1,16,CA Osasuna,LaLiga,2025/2026
+1,17,Girona,LaLiga,2025/2026
+1,18,Celta de Vigo,LaLiga,2025/2026
+1,19,Real Oviedo,LaLiga,2025/2026
+1,20,RCD Mallorca,LaLiga,2025/2026
+2,1,Villarreal,LaLiga,2025/2026
+2,2,Barcelona,LaLiga,2025/2026
+2,3,Real Madrid,LaLiga,2025/2026
+2,4,Getafe,LaLiga,2025/2026
+2,5,Athletic Club,LaLiga,2025/2026
+2,6,Espanyol,LaLiga,2025/2026
+2,7,Real Betis,LaLiga,2025/2026
+2,8,Rayo Vallecano,LaLiga,2025/2026
+2,9,Alavés,LaLiga,2025/2026
+2,10,CA Osasuna,LaLiga,2025/2026
+2,11,Real Sociedad,LaLiga,2025/2026
+2,12,Elche CF,LaLiga,2025/2026
+2,13,Celta de Vigo,LaLiga,2025/2026
+2,14,RCD Mallorca,LaLiga,2025/2026
+2,15,Atlético,LaLiga,2025/2026
+2,16,Valencia,LaLiga,2025/2026
+2,17,Levante,LaLiga,2025/2026
+2,18,Sevilla FC,LaLiga,2025/2026
+2,19,Real Oviedo,LaLiga,2025/2026
+2,20,Girona,LaLiga,2025/2026
+3,1,Real Madrid,LaLiga,2025/2026
+3,2,Athletic Club,LaLiga,2025/2026
+3,3,Villarreal,LaLiga,2025/2026
+3,4,Barcelona,LaLiga,2025/2026
+3,5,Espanyol,LaLiga,2025/2026
+3,6,Getafe,LaLiga,2025/2026
+3,7,Elche CF,LaLiga,2025/2026
+3,8,Real Betis,LaLiga,2025/2026
+3,9,Valencia,LaLiga,2025/2026
+3,10,Rayo Vallecano,LaLiga,2025/2026
+3,11,Alavés,LaLiga,2025/2026
+3,12,Sevilla FC,LaLiga,2025/2026
+3,13,CA Osasuna,LaLiga,2025/2026
+3,14,Real Oviedo,LaLiga,2025/2026
+3,15,Atlético,LaLiga,2025/2026
+3,16,Real Sociedad,LaLiga,2025/2026
+3,17,Celta de Vigo,LaLiga,2025/2026
+3,18,RCD Mallorca,LaLiga,2025/2026
+3,19,Levante,LaLiga,2025/2026
+3,20,Girona,LaLiga,2025/2026
+4,1,Real Madrid,LaLiga,2025/2026
+4,2,Barcelona,LaLiga,2025/2026
+4,3,Espanyol,LaLiga,2025/2026
+4,4,Athletic Club,LaLiga,2025/2026
+4,5,Getafe,LaLiga,2025/2026
+4,6,Villarreal,LaLiga,2025/2026
+4,7,Alavés,LaLiga,2025/2026
+4,8,Elche CF,LaLiga,2025/2026
+4,9,CA Osasuna,LaLiga,2025/2026
+4,10,Atlético,LaLiga,2025/2026
+4,11,Real Betis,LaLiga,2025/2026
+4,12,Sevilla FC,LaLiga,2025/2026
+4,13,Rayo Vallecano,LaLiga,2025/2026
+4,14,Valencia,LaLiga,2025/2026
+4,15,Celta de Vigo,LaLiga,2025/2026
+4,16,Real Oviedo,LaLiga,2025/2026
+4,17,Real Sociedad,LaLiga,2025/2026
+4,18,Levante,LaLiga,2025/2026
+4,19,RCD Mallorca,LaLiga,2025/2026
+4,20,Girona,LaLiga,2025/2026
+5,1,Real Madrid,LaLiga,2025/2026
+5,2,Barcelona,LaLiga,2025/2026
+5,3,Villarreal,LaLiga,2025/2026
+5,4,Espanyol,LaLiga,2025/2026
+5,5,Elche CF,LaLiga,2025/2026
+5,6,Athletic Club,LaLiga,2025/2026
+5,7,Getafe,LaLiga,2025/2026
+5,8,Real Betis,LaLiga,2025/2026
+5,9,Sevilla FC,LaLiga,2025/2026
+5,10,Valencia,LaLiga,2025/2026
+5,11,Alavés,LaLiga,2025/2026
+5,12,Atlético,LaLiga,2025/2026
+5,13,CA Osasuna,LaLiga,2025/2026
+5,14,Rayo Vallecano,LaLiga,2025/2026
+5,15,Levante,LaLiga,2025/2026
+5,16,Celta de Vigo,LaLiga,2025/2026
+5,17,Real Oviedo,LaLiga,2025/2026
+5,18,Real Sociedad,LaLiga,2025/2026
+5,19,RCD Mallorca,LaLiga,2025/2026
+5,20,Girona,LaLiga,2025/2026
+6,1,Real Madrid,LaLiga,2025/2026
+6,2,Barcelona,LaLiga,2025/2026
+6,3,Villarreal,LaLiga,2025/2026
+6,4,Espanyol,LaLiga,2025/2026
+6,5,Elche CF,LaLiga,2025/2026
+6,6,Athletic Club,LaLiga,2025/2026
+6,7,Getafe,LaLiga,2025/2026
+6,8,Real Betis,LaLiga,2025/2026
+6,9,Atlético,LaLiga,2025/2026
+6,10,Alavés,LaLiga,2025/2026
+6,11,Valencia,LaLiga,2025/2026
+6,12,Sevilla FC,LaLiga,2025/2026
+6,13,CA Osasuna,LaLiga,2025/2026
+6,14,Rayo Vallecano,LaLiga,2025/2026
+6,15,Celta de Vigo,LaLiga,2025/2026
+6,16,Real Sociedad,LaLiga,2025/2026
+6,17,Levante,LaLiga,2025/2026
+6,18,Real Oviedo,LaLiga,2025/2026
+6,19,RCD Mallorca,LaLiga,2025/2026
+6,20,Girona,LaLiga,2025/2026
+7,1,Barcelona,LaLiga,2025/2026
+7,2,Real Madrid,LaLiga,2025/2026
+7,3,Villarreal,LaLiga,2025/2026
+7,4,Elche CF,LaLiga,2025/2026
+7,5,Espanyol,LaLiga,2025/2026
+7,6,Real Betis,LaLiga,2025/2026
+7,7,Atlético,LaLiga,2025/2026
+7,8,Getafe,LaLiga,2025/2026
+7,9,Athletic Club,LaLiga,2025/2026
+7,10,Sevilla FC,LaLiga,2025/2026
+7,11,Alavés,LaLiga,2025/2026
+7,12,Valencia,LaLiga,2025/2026
+7,13,CA Osasuna,LaLiga,2025/2026
+7,14,Real Oviedo,LaLiga,2025/2026
+7,15,Real Sociedad,LaLiga,2025/2026
+7,16,Celta de Vigo,LaLiga,2025/2026
+7,17,Rayo Vallecano,LaLiga,2025/2026
+7,18,RCD Mallorca,LaLiga,2025/2026
+7,19,Levante,LaLiga,2025/2026
+7,20,Girona,LaLiga,2025/2026
+8,1,Real Madrid,LaLiga,2025/2026
+8,2,Barcelona,LaLiga,2025/2026
+8,3,Villarreal,LaLiga,2025/2026
+8,4,Real Betis,LaLiga,2025/2026
+8,5,Athletic Club,LaLiga,2025/2026
+8,6,Elche CF,LaLiga,2025/2026
+8,7,Atlético,LaLiga,2025/2026
+8,8,Sevilla FC,LaLiga,2025/2026
+8,9,Espanyol,LaLiga,2025/2026
+8,10,Alavés,LaLiga,2025/2026
+8,11,Getafe,LaLiga,2025/2026
+8,12,CA Osasuna,LaLiga,2025/2026
+8,13,Levante,LaLiga,2025/2026
+8,14,Rayo Vallecano,LaLiga,2025/2026
+8,15,Valencia,LaLiga,2025/2026
+8,16,Celta de Vigo,LaLiga,2025/2026
+8,17,Girona,LaLiga,2025/2026
+8,18,Real Oviedo,LaLiga,2025/2026
+8,19,Real Sociedad,LaLiga,2025/2026
+8,20,RCD Mallorca,LaLiga,2025/2026
+9,1,Real Madrid,LaLiga,2025/2026
+9,2,Barcelona,LaLiga,2025/2026
+9,3,Villarreal,LaLiga,2025/2026
+9,4,Atlético,LaLiga,2025/2026
+9,5,Real Betis,LaLiga,2025/2026
+9,6,Espanyol,LaLiga,2025/2026
+9,7,Elche CF,LaLiga,2025/2026
+9,8,Athletic Club,LaLiga,2025/2026
+9,9,Sevilla FC,LaLiga,2025/2026
+9,10,Alavés,LaLiga,2025/2026
+9,11,Rayo Vallecano,LaLiga,2025/2026
+9,12,Getafe,LaLiga,2025/2026
+9,13,CA Osasuna,LaLiga,2025/2026
+9,14,Valencia,LaLiga,2025/2026
+9,15,Levante,LaLiga,2025/2026
+9,16,RCD Mallorca,LaLiga,2025/2026
+9,17,Celta de Vigo,LaLiga,2025/2026
+9,18,Real Oviedo,LaLiga,2025/2026
+9,19,Girona,LaLiga,2025/2026
+9,20,Real Sociedad,LaLiga,2025/2026
+10,1,Real Madrid,LaLiga,2025/2026
+10,2,Barcelona,LaLiga,2025/2026
+10,3,Villarreal,LaLiga,2025/2026
+10,4,Atlético,LaLiga,2025/2026
+10,5,Espanyol,LaLiga,2025/2026
+10,6,Real Betis,LaLiga,2025/2026
+10,7,Athletic Club,LaLiga,2025/2026
+10,8,Getafe,LaLiga,2025/2026
+10,9,Elche CF,LaLiga,2025/2026
+10,10,Rayo Vallecano,LaLiga,2025/2026
+10,11,Sevilla FC,LaLiga,2025/2026
+10,12,Alavés,LaLiga,2025/2026
+10,13,Celta de Vigo,LaLiga,2025/2026
+10,14,CA Osasuna,LaLiga,2025/2026
+10,15,Real Sociedad,LaLiga,2025/2026
+10,16,Levante,LaLiga,2025/2026
+10,17,Valencia,LaLiga,2025/2026
+10,18,RCD Mallorca,LaLiga,2025/2026
+10,19,Real Oviedo,LaLiga,2025/2026
+10,20,Girona,LaLiga,2025/2026
+11,1,Real Madrid,LaLiga,2025/2026
+11,2,Barcelona,LaLiga,2025/2026
+11,3,Villarreal,LaLiga,2025/2026
+11,4,Atlético,LaLiga,2025/2026
+11,5,Real Betis,LaLiga,2025/2026
+11,6,Espanyol,LaLiga,2025/2026
+11,7,Getafe,LaLiga,2025/2026
+11,8,Alavés,LaLiga,2025/2026
+11,9,Athletic Club,LaLiga,2025/2026
+11,10,Elche CF,LaLiga,2025/2026
+11,11,Rayo Vallecano,LaLiga,2025/2026
+11,12,Celta de Vigo,LaLiga,2025/2026
+11,13,Sevilla FC,LaLiga,2025/2026
+11,14,Real Sociedad,LaLiga,2025/2026
+11,15,CA Osasuna,LaLiga,2025/2026
+11,16,Levante,LaLiga,2025/2026
+11,17,RCD Mallorca,LaLiga,2025/2026
+11,18,Valencia,LaLiga,2025/2026
+11,19,Real Oviedo,LaLiga,2025/2026
+11,20,Girona,LaLiga,2025/2026
+12,1,Real Madrid,LaLiga,2025/2026
+12,2,Barcelona,LaLiga,2025/2026
+12,3,Villarreal,LaLiga,2025/2026
+12,4,Atlético,LaLiga,2025/2026
+12,5,Real Betis,LaLiga,2025/2026
+12,6,Espanyol,LaLiga,2025/2026
+12,7,Getafe,LaLiga,2025/2026
+12,8,Athletic Club,LaLiga,2025/2026
+12,9,Sevilla FC,LaLiga,2025/2026
+12,10,Alavés,LaLiga,2025/2026
+12,11,Rayo Vallecano,LaLiga,2025/2026
+12,12,Elche CF,LaLiga,2025/2026
+12,13,Celta de Vigo,LaLiga,2025/2026
+12,14,Real Sociedad,LaLiga,2025/2026
+12,15,RCD Mallorca,LaLiga,2025/2026
+12,16,CA Osasuna,LaLiga,2025/2026
+12,17,Girona,LaLiga,2025/2026
+12,18,Valencia,LaLiga,2025/2026
+12,19,Levante,LaLiga,2025/2026
+12,20,Real Oviedo,LaLiga,2025/2026
+13,1,Real Madrid,LaLiga,2025/2026
+13,2,Barcelona,LaLiga,2025/2026
+13,3,Villarreal,LaLiga,2025/2026
+13,4,Atlético,LaLiga,2025/2026
+13,5,Real Betis,LaLiga,2025/2026
+13,6,Espanyol,LaLiga,2025/2026
+13,7,Getafe,LaLiga,2025/2026
+13,8,Athletic Club,LaLiga,2025/2026
+13,9,Elche CF,LaLiga,2025/2026
+13,10,Real Sociedad,LaLiga,2025/2026
+13,11,Sevilla FC,LaLiga,2025/2026
+13,12,Rayo Vallecano,LaLiga,2025/2026
+13,13,Celta de Vigo,LaLiga,2025/2026
+13,14,Alavés,LaLiga,2025/2026
+13,15,Valencia,LaLiga,2025/2026
+13,16,RCD Mallorca,LaLiga,2025/2026
+13,17,CA Osasuna,LaLiga,2025/2026
+13,18,Girona,LaLiga,2025/2026
+13,19,Levante,LaLiga,2025/2026
+13,20,Real Oviedo,LaLiga,2025/2026
+14,1,Barcelona,LaLiga,2025/2026
+14,2,Real Madrid,LaLiga,2025/2026
+14,3,Villarreal,LaLiga,2025/2026
+14,4,Atlético,LaLiga,2025/2026
+14,5,Real Betis,LaLiga,2025/2026
+14,6,Espanyol,LaLiga,2025/2026
+14,7,Getafe,LaLiga,2025/2026
+14,8,Athletic Club,LaLiga,2025/2026
+14,9,Rayo Vallecano,LaLiga,2025/2026
+14,10,Real Sociedad,LaLiga,2025/2026
+14,11,Elche CF,LaLiga,2025/2026
+14,12,Celta de Vigo,LaLiga,2025/2026
+14,13,Sevilla FC,LaLiga,2025/2026
+14,14,Alavés,LaLiga,2025/2026
+14,15,Valencia,LaLiga,2025/2026
+14,16,RCD Mallorca,LaLiga,2025/2026
+14,17,CA Osasuna,LaLiga,2025/2026
+14,18,Girona,LaLiga,2025/2026
+14,19,Levante,LaLiga,2025/2026
+14,20,Real Oviedo,LaLiga,2025/2026
+15,1,Barcelona,LaLiga,2025/2026
+15,2,Villarreal,LaLiga,2025/2026
+15,3,Real Madrid,LaLiga,2025/2026
+15,4,Atlético,LaLiga,2025/2026
+15,5,Espanyol,LaLiga,2025/2026
+15,6,Real Betis,LaLiga,2025/2026
+15,7,Athletic Club,LaLiga,2025/2026
+15,8,Getafe,LaLiga,2025/2026
+15,9,Elche CF,LaLiga,2025/2026
+15,10,Celta de Vigo,LaLiga,2025/2026
+15,11,Alavés,LaLiga,2025/2026
+15,12,Sevilla FC,LaLiga,2025/2026
+15,13,Rayo Vallecano,LaLiga,2025/2026
+15,14,Real Sociedad,LaLiga,2025/2026
+15,15,CA Osasuna,LaLiga,2025/2026
+15,16,Valencia,LaLiga,2025/2026
+15,17,RCD Mallorca,LaLiga,2025/2026
+15,18,Girona,LaLiga,2025/2026
+15,19,Real Oviedo,LaLiga,2025/2026
+15,20,Levante,LaLiga,2025/2026
+16,1,Barcelona,LaLiga,2025/2026
+16,2,Villarreal,LaLiga,2025/2026
+16,3,Real Madrid,LaLiga,2025/2026
+16,4,Atlético,LaLiga,2025/2026
+16,5,Espanyol,LaLiga,2025/2026
+16,6,Real Betis,LaLiga,2025/2026
+16,7,Athletic Club,LaLiga,2025/2026
+16,8,Celta de Vigo,LaLiga,2025/2026
+16,9,Getafe,LaLiga,2025/2026
+16,10,Sevilla FC,LaLiga,2025/2026
+16,11,Elche CF,LaLiga,2025/2026
+16,12,Rayo Vallecano,LaLiga,2025/2026
+16,13,Alavés,LaLiga,2025/2026
+16,14,RCD Mallorca,LaLiga,2025/2026
+16,15,Real Sociedad,LaLiga,2025/2026
+16,16,CA Osasuna,LaLiga,2025/2026
+16,17,Girona,LaLiga,2025/2026
+16,18,Valencia,LaLiga,2025/2026
+16,19,Real Oviedo,LaLiga,2025/2026
+16,20,Levante,LaLiga,2025/2026
+17,1,Barcelona,LaLiga,2025/2026
+17,2,Real Madrid,LaLiga,2025/2026
+17,3,Villarreal,LaLiga,2025/2026
+17,4,Atlético,LaLiga,2025/2026
+17,5,Espanyol,LaLiga,2025/2026
+17,6,Real Betis,LaLiga,2025/2026
+17,7,Celta de Vigo,LaLiga,2025/2026
+17,8,Athletic Club,LaLiga,2025/2026
+17,9,Elche CF,LaLiga,2025/2026
+17,10,Getafe,LaLiga,2025/2026
+17,11,Sevilla FC,LaLiga,2025/2026
+17,12,CA Osasuna,LaLiga,2025/2026
+17,13,RCD Mallorca,LaLiga,2025/2026
+17,14,Rayo Vallecano,LaLiga,2025/2026
+17,15,Alavés,LaLiga,2025/2026
+17,16,Real Sociedad,LaLiga,2025/2026
+17,17,Valencia,LaLiga,2025/2026
+17,18,Girona,LaLiga,2025/2026
+17,19,Real Oviedo,LaLiga,2025/2026
+17,20,Levante,LaLiga,2025/2026
+18,1,Barcelona,LaLiga,2025/2026
+18,2,Real Madrid,LaLiga,2025/2026
+18,3,Villarreal,LaLiga,2025/2026
+18,4,Atlético,LaLiga,2025/2026
+18,5,Espanyol,LaLiga,2025/2026
+18,6,Real Betis,LaLiga,2025/2026
+18,7,Celta de Vigo,LaLiga,2025/2026
+18,8,Athletic Club,LaLiga,2025/2026
+18,9,Elche CF,LaLiga,2025/2026
+18,10,Getafe,LaLiga,2025/2026
+18,11,Sevilla FC,LaLiga,2025/2026
+18,12,CA Osasuna,LaLiga,2025/2026
+18,13,Rayo Vallecano,LaLiga,2025/2026
+18,14,Alavés,LaLiga,2025/2026
+18,15,Girona,LaLiga,2025/2026
+18,16,Real Sociedad,LaLiga,2025/2026
+18,17,RCD Mallorca,LaLiga,2025/2026
+18,18,Valencia,LaLiga,2025/2026
+18,19,Levante,LaLiga,2025/2026
+18,20,Real Oviedo,LaLiga,2025/2026
+19,1,Barcelona,LaLiga,2025/2026
+19,2,Real Madrid,LaLiga,2025/2026
+19,3,Villarreal,LaLiga,2025/2026
+19,4,Atlético,LaLiga,2025/2026
+19,5,Espanyol,LaLiga,2025/2026
+19,6,Real Betis,LaLiga,2025/2026
+19,7,Celta de Vigo,LaLiga,2025/2026
+19,8,Athletic Club,LaLiga,2025/2026
+19,9,Elche CF,LaLiga,2025/2026
+19,10,Rayo Vallecano,LaLiga,2025/2026
+19,11,Real Sociedad,LaLiga,2025/2026
+19,12,Getafe,LaLiga,2025/2026
+19,13,Girona,LaLiga,2025/2026
+19,14,Sevilla FC,LaLiga,2025/2026
+19,15,CA Osasuna,LaLiga,2025/2026
+19,16,Alavés,LaLiga,2025/2026
+19,17,RCD Mallorca,LaLiga,2025/2026
+19,18,Valencia,LaLiga,2025/2026
+19,19,Levante,LaLiga,2025/2026
+19,20,Real Oviedo,LaLiga,2025/2026
+20,1,Barcelona,LaLiga,2025/2026
+20,2,Real Madrid,LaLiga,2025/2026
+20,3,Villarreal,LaLiga,2025/2026
+20,4,Atlético,LaLiga,2025/2026
+20,5,Espanyol,LaLiga,2025/2026
+20,6,Real Betis,LaLiga,2025/2026
+20,7,Celta de Vigo,LaLiga,2025/2026
+20,8,Elche CF,LaLiga,2025/2026
+20,9,Real Sociedad,LaLiga,2025/2026
+20,10,Girona,LaLiga,2025/2026
+20,11,Athletic Club,LaLiga,2025/2026
+20,12,CA Osasuna,LaLiga,2025/2026
+20,13,Rayo Vallecano,LaLiga,2025/2026
+20,14,RCD Mallorca,LaLiga,2025/2026
+20,15,Getafe,LaLiga,2025/2026
+20,16,Sevilla FC,LaLiga,2025/2026
+20,17,Valencia,LaLiga,2025/2026
+20,18,Alavés,LaLiga,2025/2026
+20,19,Levante,LaLiga,2025/2026
+20,20,Real Oviedo,LaLiga,2025/2026
+21,1,Barcelona,LaLiga,2025/2026
+21,2,Real Madrid,LaLiga,2025/2026
+21,3,Atlético,LaLiga,2025/2026
+21,4,Villarreal,LaLiga,2025/2026
+21,5,Espanyol,LaLiga,2025/2026
+21,6,Real Betis,LaLiga,2025/2026
+21,7,Celta de Vigo,LaLiga,2025/2026
+21,8,Real Sociedad,LaLiga,2025/2026
+21,9,Girona,LaLiga,2025/2026
+21,10,CA Osasuna,LaLiga,2025/2026
+21,11,Sevilla FC,LaLiga,2025/2026
+21,12,Athletic Club,LaLiga,2025/2026
+21,13,Elche CF,LaLiga,2025/2026
+21,14,Valencia,LaLiga,2025/2026
+21,15,Rayo Vallecano,LaLiga,2025/2026
+21,16,Getafe,LaLiga,2025/2026
+21,17,Alavés,LaLiga,2025/2026
+21,18,RCD Mallorca,LaLiga,2025/2026
+21,19,Levante,LaLiga,2025/2026
+21,20,Real Oviedo,LaLiga,2025/2026
+22,1,Barcelona,LaLiga,2025/2026
+22,2,Real Madrid,LaLiga,2025/2026
+22,3,Atlético,LaLiga,2025/2026
+22,4,Villarreal,LaLiga,2025/2026
+22,5,Real Betis,LaLiga,2025/2026
+22,6,Espanyol,LaLiga,2025/2026
+22,7,Celta de Vigo,LaLiga,2025/2026
+22,8,Real Sociedad,LaLiga,2025/2026
+22,9,CA Osasuna,LaLiga,2025/2026
+22,10,Girona,LaLiga,2025/2026
+22,11,Alavés,LaLiga,2025/2026
+22,12,Athletic Club,LaLiga,2025/2026
+22,13,RCD Mallorca,LaLiga,2025/2026
+22,14,Elche CF,LaLiga,2025/2026
+22,15,Sevilla FC,LaLiga,2025/2026
+22,16,Valencia,LaLiga,2025/2026
+22,17,Getafe,LaLiga,2025/2026
+22,18,Rayo Vallecano,LaLiga,2025/2026
+22,19,Levante,LaLiga,2025/2026
+22,20,Real Oviedo,LaLiga,2025/2026
+23,1,Barcelona,LaLiga,2025/2026
+23,2,Real Madrid,LaLiga,2025/2026
+23,3,Villarreal,LaLiga,2025/2026
+23,4,Atlético,LaLiga,2025/2026
+23,5,Real Betis,LaLiga,2025/2026
+23,6,Espanyol,LaLiga,2025/2026
+23,7,Celta de Vigo,LaLiga,2025/2026
+23,8,Real Sociedad,LaLiga,2025/2026
+23,9,CA Osasuna,LaLiga,2025/2026
+23,10,Athletic Club,LaLiga,2025/2026
+23,11,Getafe,LaLiga,2025/2026
+23,12,Girona,LaLiga,2025/2026
+23,13,Sevilla FC,LaLiga,2025/2026
+23,14,Rayo Vallecano,LaLiga,2025/2026
+23,15,Alavés,LaLiga,2025/2026
+23,16,RCD Mallorca,LaLiga,2025/2026
+23,17,Elche CF,LaLiga,2025/2026
+23,18,Valencia,LaLiga,2025/2026
+23,19,Levante,LaLiga,2025/2026
+23,20,Real Oviedo,LaLiga,2025/2026
+24,1,Real Madrid,LaLiga,2025/2026
+24,2,Barcelona,LaLiga,2025/2026
+24,3,Villarreal,LaLiga,2025/2026
+24,4,Atlético,LaLiga,2025/2026
+24,5,Real Betis,LaLiga,2025/2026
+24,6,Espanyol,LaLiga,2025/2026
+24,7,Celta de Vigo,LaLiga,2025/2026
+24,8,Real Sociedad,LaLiga,2025/2026
+24,9,Athletic Club,LaLiga,2025/2026
+24,10,CA Osasuna,LaLiga,2025/2026
+24,11,Getafe,LaLiga,2025/2026
+24,12,Girona,LaLiga,2025/2026
+24,13,Rayo Vallecano,LaLiga,2025/2026
+24,14,Sevilla FC,LaLiga,2025/2026
+24,15,Valencia,LaLiga,2025/2026
+24,16,Alavés,LaLiga,2025/2026
+24,17,Elche CF,LaLiga,2025/2026
+24,18,RCD Mallorca,LaLiga,2025/2026
+24,19,Levante,LaLiga,2025/2026
+24,20,Real Oviedo,LaLiga,2025/2026
+25,1,Barcelona,LaLiga,2025/2026
+25,2,Real Madrid,LaLiga,2025/2026
+25,3,Villarreal,LaLiga,2025/2026
+25,4,Atlético,LaLiga,2025/2026
+25,5,Real Betis,LaLiga,2025/2026
+25,6,Celta de Vigo,LaLiga,2025/2026
+25,7,Espanyol,LaLiga,2025/2026
+25,8,Athletic Club,LaLiga,2025/2026
+25,9,CA Osasuna,LaLiga,2025/2026
+25,10,Real Sociedad,LaLiga,2025/2026
+25,11,Girona,LaLiga,2025/2026
+25,12,Sevilla FC,LaLiga,2025/2026
+25,13,Getafe,LaLiga,2025/2026
+25,14,Rayo Vallecano,LaLiga,2025/2026
+25,15,Alavés,LaLiga,2025/2026
+25,16,Valencia,LaLiga,2025/2026
+25,17,Elche CF,LaLiga,2025/2026
+25,18,RCD Mallorca,LaLiga,2025/2026
+25,19,Levante,LaLiga,2025/2026
+25,20,Real Oviedo,LaLiga,2025/2026
+26,1,Barcelona,LaLiga,2025/2026
+26,2,Real Madrid,LaLiga,2025/2026
+26,3,Atlético,LaLiga,2025/2026
+26,4,Villarreal,LaLiga,2025/2026
+26,5,Real Betis,LaLiga,2025/2026
+26,6,Celta de Vigo,LaLiga,2025/2026
+26,7,Espanyol,LaLiga,2025/2026
+26,8,Real Sociedad,LaLiga,2025/2026
+26,9,Athletic Club,LaLiga,2025/2026
+26,10,CA Osasuna,LaLiga,2025/2026
+26,11,Getafe,LaLiga,2025/2026
+26,12,Sevilla FC,LaLiga,2025/2026
+26,13,Rayo Vallecano,LaLiga,2025/2026
+26,14,Girona,LaLiga,2025/2026
+26,15,Valencia,LaLiga,2025/2026
+26,16,Alavés,LaLiga,2025/2026
+26,17,Elche CF,LaLiga,2025/2026
+26,18,RCD Mallorca,LaLiga,2025/2026
+26,19,Levante,LaLiga,2025/2026
+26,20,Real Oviedo,LaLiga,2025/2026
+27,1,Barcelona,LaLiga,2025/2026
+27,2,Real Madrid,LaLiga,2025/2026
+27,3,Atlético,LaLiga,2025/2026
+27,4,Villarreal,LaLiga,2025/2026
+27,5,Real Betis,LaLiga,2025/2026
+27,6,Celta de Vigo,LaLiga,2025/2026
+27,7,Espanyol,LaLiga,2025/2026
+27,8,Real Sociedad,LaLiga,2025/2026
+27,9,Getafe,LaLiga,2025/2026
+27,10,Athletic Club,LaLiga,2025/2026
+27,11,CA Osasuna,LaLiga,2025/2026
+27,12,Valencia,LaLiga,2025/2026
+27,13,Sevilla FC,LaLiga,2025/2026
+27,14,Rayo Vallecano,LaLiga,2025/2026
+27,15,Girona,LaLiga,2025/2026
+27,16,Alavés,LaLiga,2025/2026
+27,17,Elche CF,LaLiga,2025/2026
+27,18,RCD Mallorca,LaLiga,2025/2026
+27,19,Levante,LaLiga,2025/2026
+27,20,Real Oviedo,LaLiga,2025/2026
+28,1,Barcelona,LaLiga,2025/2026
+28,2,Real Madrid,LaLiga,2025/2026
+28,3,Atlético,LaLiga,2025/2026
+28,4,Villarreal,LaLiga,2025/2026
+28,5,Real Betis,LaLiga,2025/2026
+28,6,Celta de Vigo,LaLiga,2025/2026
+28,7,Real Sociedad,LaLiga,2025/2026
+28,8,Espanyol,LaLiga,2025/2026
+28,9,Getafe,LaLiga,2025/2026
+28,10,Athletic Club,LaLiga,2025/2026
+28,11,Girona,LaLiga,2025/2026
+28,12,CA Osasuna,LaLiga,2025/2026
+28,13,Rayo Vallecano,LaLiga,2025/2026
+28,14,Valencia,LaLiga,2025/2026
+28,15,Sevilla FC,LaLiga,2025/2026
+28,16,RCD Mallorca,LaLiga,2025/2026
+28,17,Alavés,LaLiga,2025/2026
+28,18,Elche CF,LaLiga,2025/2026
+28,19,Levante,LaLiga,2025/2026
+28,20,Real Oviedo,LaLiga,2025/2026
+29,1,Barcelona,LaLiga,2025/2026
+29,2,Real Madrid,LaLiga,2025/2026
+29,3,Villarreal,LaLiga,2025/2026
+29,4,Atlético,LaLiga,2025/2026
+29,5,Real Betis,LaLiga,2025/2026
+29,6,Celta de Vigo,LaLiga,2025/2026
+29,7,Real Sociedad,LaLiga,2025/2026
+29,8,Getafe,LaLiga,2025/2026
+29,9,Athletic Club,LaLiga,2025/2026
+29,10,Espanyol,LaLiga,2025/2026
+29,11,CA Osasuna,LaLiga,2025/2026
+29,12,Valencia,LaLiga,2025/2026
+29,13,Girona,LaLiga,2025/2026
+29,14,Rayo Vallecano,LaLiga,2025/2026
+29,15,Sevilla FC,LaLiga,2025/2026
+29,16,Alavés,LaLiga,2025/2026
+29,17,Elche CF,LaLiga,2025/2026
+29,18,RCD Mallorca,LaLiga,2025/2026
+29,19,Levante,LaLiga,2025/2026
+29,20,Real Oviedo,LaLiga,2025/2026
+30,1,Barcelona,LaLiga,2025/2026
+30,2,Real Madrid,LaLiga,2025/2026
+30,3,Villarreal,LaLiga,2025/2026
+30,4,Atlético,LaLiga,2025/2026
+30,5,Real Betis,LaLiga,2025/2026
+30,6,Celta de Vigo,LaLiga,2025/2026
+30,7,Real Sociedad,LaLiga,2025/2026
+30,8,Getafe,LaLiga,2025/2026
+30,9,Espanyol,LaLiga,2025/2026
+30,10,CA Osasuna,LaLiga,2025/2026
+30,11,Athletic Club,LaLiga,2025/2026
+30,12,Girona,LaLiga,2025/2026
+30,13,Rayo Vallecano,LaLiga,2025/2026
+30,14,Valencia,LaLiga,2025/2026
+30,15,Alavés,LaLiga,2025/2026
+30,16,RCD Mallorca,LaLiga,2025/2026
+30,17,Sevilla FC,LaLiga,2025/2026
+30,18,Elche CF,LaLiga,2025/2026
+30,19,Levante,LaLiga,2025/2026
+30,20,Real Oviedo,LaLiga,2025/2026
+31,1,Barcelona,LaLiga,2025/2026
+31,2,Real Madrid,LaLiga,2025/2026
+31,3,Villarreal,LaLiga,2025/2026
+31,4,Atlético,LaLiga,2025/2026
+31,5,Real Betis,LaLiga,2025/2026
+31,6,Celta de Vigo,LaLiga,2025/2026
+31,7,Real Sociedad,LaLiga,2025/2026
+31,8,Getafe,LaLiga,2025/2026
+31,9,CA Osasuna,LaLiga,2025/2026
+31,10,Girona,LaLiga,2025/2026
+31,11,Espanyol,LaLiga,2025/2026
+31,12,Athletic Club,LaLiga,2025/2026
+31,13,Rayo Vallecano,LaLiga,2025/2026
+31,14,Valencia,LaLiga,2025/2026
+31,15,RCD Mallorca,LaLiga,2025/2026
+31,16,Sevilla FC,LaLiga,2025/2026
+31,17,Alavés,LaLiga,2025/2026
+31,18,Elche CF,LaLiga,2025/2026
+31,19,Levante,LaLiga,2025/2026
+31,20,Real Oviedo,LaLiga,2025/2026
+32,1,Barcelona,LaLiga,2025/2026
+32,2,Real Madrid,LaLiga,2025/2026
+32,3,Villarreal,LaLiga,2025/2026
+32,4,Atlético,LaLiga,2025/2026
+32,5,Real Betis,LaLiga,2025/2026
+32,6,Celta de Vigo,LaLiga,2025/2026
+32,7,Real Sociedad,LaLiga,2025/2026
+32,8,CA Osasuna,LaLiga,2025/2026
+32,9,Getafe,LaLiga,2025/2026
+32,10,Espanyol,LaLiga,2025/2026
+32,11,Girona,LaLiga,2025/2026
+32,12,Valencia,LaLiga,2025/2026
+32,13,Athletic Club,LaLiga,2025/2026
+32,14,Rayo Vallecano,LaLiga,2025/2026
+32,15,Alavés,LaLiga,2025/2026
+32,16,Elche CF,LaLiga,2025/2026
+32,17,RCD Mallorca,LaLiga,2025/2026
+32,18,Sevilla FC,LaLiga,2025/2026
+32,19,Levante,LaLiga,2025/2026
+32,20,Real Oviedo,LaLiga,2025/2026
+33,1,Barcelona,LaLiga,2025/2026
+33,2,Real Madrid,LaLiga,2025/2026
+33,3,Villarreal,LaLiga,2025/2026
+33,4,Atlético,LaLiga,2025/2026
+33,5,Real Betis,LaLiga,2025/2026
+33,6,Getafe,LaLiga,2025/2026
+33,7,Celta de Vigo,LaLiga,2025/2026
+33,8,Real Sociedad,LaLiga,2025/2026
+33,9,CA Osasuna,LaLiga,2025/2026
+33,10,Athletic Club,LaLiga,2025/2026
+33,11,Valencia,LaLiga,2025/2026
+33,12,Rayo Vallecano,LaLiga,2025/2026
+33,13,Espanyol,LaLiga,2025/2026
+33,14,Elche CF,LaLiga,2025/2026
+33,15,Girona,LaLiga,2025/2026
+33,16,Alavés,LaLiga,2025/2026
+33,17,RCD Mallorca,LaLiga,2025/2026
+33,18,Sevilla FC,LaLiga,2025/2026
+33,19,Levante,LaLiga,2025/2026
+33,20,Real Oviedo,LaLiga,2025/2026
+34,1,Barcelona,LaLiga,2025/2026
+34,2,Real Madrid,LaLiga,2025/2026
+34,3,Villarreal,LaLiga,2025/2026
+34,4,Atlético,LaLiga,2025/2026
+34,5,Real Betis,LaLiga,2025/2026
+34,6,Celta de Vigo,LaLiga,2025/2026
+34,7,Getafe,LaLiga,2025/2026
+34,8,Athletic Club,LaLiga,2025/2026
+34,9,Real Sociedad,LaLiga,2025/2026
+34,10,CA Osasuna,LaLiga,2025/2026
+34,11,Rayo Vallecano,LaLiga,2025/2026
+34,12,Valencia,LaLiga,2025/2026
+34,13,Espanyol,LaLiga,2025/2026
+34,14,Elche CF,LaLiga,2025/2026
+34,15,RCD Mallorca,LaLiga,2025/2026
+34,16,Girona,LaLiga,2025/2026
+34,17,Sevilla FC,LaLiga,2025/2026
+34,18,Alavés,LaLiga,2025/2026
+34,19,Levante,LaLiga,2025/2026
+34,20,Real Oviedo,LaLiga,2025/2026
+35,1,Barcelona,LaLiga,2025/2026
+35,2,Real Madrid,LaLiga,2025/2026
+35,3,Villarreal,LaLiga,2025/2026
+35,4,Atlético,LaLiga,2025/2026
+35,5,Real Betis,LaLiga,2025/2026
+35,6,Celta de Vigo,LaLiga,2025/2026
+35,7,Getafe,LaLiga,2025/2026
+35,8,Real Sociedad,LaLiga,2025/2026
+35,9,Athletic Club,LaLiga,2025/2026
+35,10,Rayo Vallecano,LaLiga,2025/2026
+35,11,CA Osasuna,LaLiga,2025/2026
+35,12,Valencia,LaLiga,2025/2026
+35,13,Sevilla FC,LaLiga,2025/2026
+35,14,RCD Mallorca,LaLiga,2025/2026
+35,15,Espanyol,LaLiga,2025/2026
+35,16,Elche CF,LaLiga,2025/2026
+35,17,Girona,LaLiga,2025/2026
+35,18,Alavés,LaLiga,2025/2026
+35,19,Levante,LaLiga,2025/2026
+35,20,Real Oviedo,LaLiga,2025/2026
+36,1,Barcelona,LaLiga,2025/2026
+36,2,Real Madrid,LaLiga,2025/2026
+36,3,Villarreal,LaLiga,2025/2026
+36,4,Atlético,LaLiga,2025/2026
+36,5,Real Betis,LaLiga,2025/2026
+36,6,Celta de Vigo,LaLiga,2025/2026
+36,7,Getafe,LaLiga,2025/2026
+36,8,Real Sociedad,LaLiga,2025/2026
+36,9,Athletic Club,LaLiga,2025/2026
+36,10,Rayo Vallecano,LaLiga,2025/2026
+36,11,Valencia,LaLiga,2025/2026
+36,12,Sevilla FC,LaLiga,2025/2026
+36,13,Espanyol,LaLiga,2025/2026
+36,14,CA Osasuna,LaLiga,2025/2026
+36,15,Girona,LaLiga,2025/2026
+36,16,Alavés,LaLiga,2025/2026
+36,17,Elche CF,LaLiga,2025/2026
+36,18,RCD Mallorca,LaLiga,2025/2026
+36,19,Levante,LaLiga,2025/2026
+36,20,Real Oviedo,LaLiga,2025/2026
+37,1,Barcelona,LaLiga,2025/2026
+37,2,Real Madrid,LaLiga,2025/2026
+37,3,Atlético,LaLiga,2025/2026
+37,4,Villarreal,LaLiga,2025/2026
+37,5,Real Betis,LaLiga,2025/2026
+37,6,Celta de Vigo,LaLiga,2025/2026
+37,7,Getafe,LaLiga,2025/2026
+37,8,Rayo Vallecano,LaLiga,2025/2026
+37,9,Valencia,LaLiga,2025/2026
+37,10,Espanyol,LaLiga,2025/2026
+37,11,Real Sociedad,LaLiga,2025/2026
+37,12,Athletic Club,LaLiga,2025/2026
+37,13,Sevilla FC,LaLiga,2025/2026
+37,14,Alavés,LaLiga,2025/2026
+37,15,Levante,LaLiga,2025/2026
+37,16,CA Osasuna,LaLiga,2025/2026
+37,17,Elche CF,LaLiga,2025/2026
+37,18,Girona,LaLiga,2025/2026
+37,19,RCD Mallorca,LaLiga,2025/2026
+37,20,Real Oviedo,LaLiga,2025/2026
+38,1,Barcelona,LaLiga,2025/2026
+38,2,Real Madrid,LaLiga,2025/2026
+38,3,Villarreal,LaLiga,2025/2026
+38,4,Atlético,LaLiga,2025/2026
+38,5,Real Betis,LaLiga,2025/2026
+38,6,Celta de Vigo,LaLiga,2025/2026
+38,7,Getafe,LaLiga,2025/2026
+38,8,Rayo Vallecano,LaLiga,2025/2026
+38,9,Valencia,LaLiga,2025/2026
+38,10,Real Sociedad,LaLiga,2025/2026
+38,11,Espanyol,LaLiga,2025/2026
+38,12,Athletic Club,LaLiga,2025/2026
+38,13,Sevilla FC,LaLiga,2025/2026
+38,14,Alavés,LaLiga,2025/2026
+38,15,Elche CF,LaLiga,2025/2026
+38,16,Levante,LaLiga,2025/2026
+38,17,CA Osasuna,LaLiga,2025/2026
+38,18,RCD Mallorca,LaLiga,2025/2026
+38,19,Girona,LaLiga,2025/2026
+38,20,Real Oviedo,LaLiga,2025/2026
+1,1,Man City,Premier League,2025/2026
+1,2,Sunderland,Premier League,2025/2026
+1,3,Tottenham,Premier League,2025/2026
+1,4,Liverpool,Premier League,2025/2026
+1,5,Nott'm Forest,Premier League,2025/2026
+1,6,Arsenal,Premier League,2025/2026
+1,7,Leeds,Premier League,2025/2026
+1,8,Brighton,Premier League,2025/2026
+1,9,Fulham,Premier League,2025/2026
+1,10,Aston Villa,Premier League,2025/2026
+1,11,Chelsea,Premier League,2025/2026
+1,12,Crystal Palace,Premier League,2025/2026
+1,13,Newcastle,Premier League,2025/2026
+1,14,Everton,Premier League,2025/2026
+1,15,Man Utd,Premier League,2025/2026
+1,16,Bournemouth,Premier League,2025/2026
+1,17,Brentford,Premier League,2025/2026
+1,18,Burnley,Premier League,2025/2026
+1,19,West Ham,Premier League,2025/2026
+1,20,Wolves,Premier League,2025/2026
+2,1,Arsenal,Premier League,2025/2026
+2,2,Tottenham,Premier League,2025/2026
+2,3,Liverpool,Premier League,2025/2026
+2,4,Chelsea,Premier League,2025/2026
+2,5,Nott'm Forest,Premier League,2025/2026
+2,6,Man City,Premier League,2025/2026
+2,7,Sunderland,Premier League,2025/2026
+2,8,Everton,Premier League,2025/2026
+2,9,Bournemouth,Premier League,2025/2026
+2,10,Brentford,Premier League,2025/2026
+2,11,Burnley,Premier League,2025/2026
+2,12,Leeds,Premier League,2025/2026
+2,13,Fulham,Premier League,2025/2026
+2,14,Crystal Palace,Premier League,2025/2026
+2,15,Newcastle,Premier League,2025/2026
+2,16,Man Utd,Premier League,2025/2026
+2,17,Aston Villa,Premier League,2025/2026
+2,18,Brighton,Premier League,2025/2026
+2,19,Wolves,Premier League,2025/2026
+2,20,West Ham,Premier League,2025/2026
+3,1,Liverpool,Premier League,2025/2026
+3,2,Chelsea,Premier League,2025/2026
+3,3,Arsenal,Premier League,2025/2026
+3,4,Tottenham,Premier League,2025/2026
+3,5,Everton,Premier League,2025/2026
+3,6,Sunderland,Premier League,2025/2026
+3,7,Bournemouth,Premier League,2025/2026
+3,8,Crystal Palace,Premier League,2025/2026
+3,9,Man Utd,Premier League,2025/2026
+3,10,Nott'm Forest,Premier League,2025/2026
+3,11,Brighton,Premier League,2025/2026
+3,12,Leeds,Premier League,2025/2026
+3,13,Man City,Premier League,2025/2026
+3,14,Burnley,Premier League,2025/2026
+3,15,Brentford,Premier League,2025/2026
+3,16,West Ham,Premier League,2025/2026
+3,17,Newcastle,Premier League,2025/2026
+3,18,Fulham,Premier League,2025/2026
+3,19,Aston Villa,Premier League,2025/2026
+3,20,Wolves,Premier League,2025/2026
+4,1,Liverpool,Premier League,2025/2026
+4,2,Arsenal,Premier League,2025/2026
+4,3,Tottenham,Premier League,2025/2026
+4,4,Bournemouth,Premier League,2025/2026
+4,5,Chelsea,Premier League,2025/2026
+4,6,Everton,Premier League,2025/2026
+4,7,Sunderland,Premier League,2025/2026
+4,8,Man City,Premier League,2025/2026
+4,9,Crystal Palace,Premier League,2025/2026
+4,10,Newcastle,Premier League,2025/2026
+4,11,Fulham,Premier League,2025/2026
+4,12,Brentford,Premier League,2025/2026
+4,13,Brighton,Premier League,2025/2026
+4,14,Man Utd,Premier League,2025/2026
+4,15,Nott'm Forest,Premier League,2025/2026
+4,16,Leeds,Premier League,2025/2026
+4,17,Burnley,Premier League,2025/2026
+4,18,West Ham,Premier League,2025/2026
+4,19,Aston Villa,Premier League,2025/2026
+4,20,Wolves,Premier League,2025/2026
+5,1,Liverpool,Premier League,2025/2026
+5,2,Arsenal,Premier League,2025/2026
+5,3,Tottenham,Premier League,2025/2026
+5,4,Bournemouth,Premier League,2025/2026
+5,5,Crystal Palace,Premier League,2025/2026
+5,6,Chelsea,Premier League,2025/2026
+5,7,Sunderland,Premier League,2025/2026
+5,8,Fulham,Premier League,2025/2026
+5,9,Man City,Premier League,2025/2026
+5,10,Everton,Premier League,2025/2026
+5,11,Man Utd,Premier League,2025/2026
+5,12,Leeds,Premier League,2025/2026
+5,13,Newcastle,Premier League,2025/2026
+5,14,Brighton,Premier League,2025/2026
+5,15,Nott'm Forest,Premier League,2025/2026
+5,16,Burnley,Premier League,2025/2026
+5,17,Brentford,Premier League,2025/2026
+5,18,Aston Villa,Premier League,2025/2026
+5,19,West Ham,Premier League,2025/2026
+5,20,Wolves,Premier League,2025/2026
+6,1,Liverpool,Premier League,2025/2026
+6,2,Arsenal,Premier League,2025/2026
+6,3,Crystal Palace,Premier League,2025/2026
+6,4,Tottenham,Premier League,2025/2026
+6,5,Sunderland,Premier League,2025/2026
+6,6,Bournemouth,Premier League,2025/2026
+6,7,Man City,Premier League,2025/2026
+6,8,Chelsea,Premier League,2025/2026
+6,9,Everton,Premier League,2025/2026
+6,10,Brighton,Premier League,2025/2026
+6,11,Fulham,Premier League,2025/2026
+6,12,Leeds,Premier League,2025/2026
+6,13,Brentford,Premier League,2025/2026
+6,14,Man Utd,Premier League,2025/2026
+6,15,Newcastle,Premier League,2025/2026
+6,16,Aston Villa,Premier League,2025/2026
+6,17,Nott'm Forest,Premier League,2025/2026
+6,18,Burnley,Premier League,2025/2026
+6,19,West Ham,Premier League,2025/2026
+6,20,Wolves,Premier League,2025/2026
+7,1,Arsenal,Premier League,2025/2026
+7,2,Liverpool,Premier League,2025/2026
+7,3,Tottenham,Premier League,2025/2026
+7,4,Bournemouth,Premier League,2025/2026
+7,5,Man City,Premier League,2025/2026
+7,6,Crystal Palace,Premier League,2025/2026
+7,7,Chelsea,Premier League,2025/2026
+7,8,Everton,Premier League,2025/2026
+7,9,Sunderland,Premier League,2025/2026
+7,10,Man Utd,Premier League,2025/2026
+7,11,Newcastle,Premier League,2025/2026
+7,12,Brighton,Premier League,2025/2026
+7,13,Aston Villa,Premier League,2025/2026
+7,14,Fulham,Premier League,2025/2026
+7,15,Leeds,Premier League,2025/2026
+7,16,Brentford,Premier League,2025/2026
+7,17,Nott'm Forest,Premier League,2025/2026
+7,18,Burnley,Premier League,2025/2026
+7,19,West Ham,Premier League,2025/2026
+7,20,Wolves,Premier League,2025/2026
+8,1,Arsenal,Premier League,2025/2026
+8,2,Man City,Premier League,2025/2026
+8,3,Bournemouth,Premier League,2025/2026
+8,4,Liverpool,Premier League,2025/2026
+8,5,Chelsea,Premier League,2025/2026
+8,6,Tottenham,Premier League,2025/2026
+8,7,Sunderland,Premier League,2025/2026
+8,8,Crystal Palace,Premier League,2025/2026
+8,9,Man Utd,Premier League,2025/2026
+8,10,Brighton,Premier League,2025/2026
+8,11,Aston Villa,Premier League,2025/2026
+8,12,Everton,Premier League,2025/2026
+8,13,Brentford,Premier League,2025/2026
+8,14,Newcastle,Premier League,2025/2026
+8,15,Fulham,Premier League,2025/2026
+8,16,Leeds,Premier League,2025/2026
+8,17,Burnley,Premier League,2025/2026
+8,18,Nott'm Forest,Premier League,2025/2026
+8,19,West Ham,Premier League,2025/2026
+8,20,Wolves,Premier League,2025/2026
+9,1,Arsenal,Premier League,2025/2026
+9,2,Bournemouth,Premier League,2025/2026
+9,3,Tottenham,Premier League,2025/2026
+9,4,Sunderland,Premier League,2025/2026
+9,5,Man City,Premier League,2025/2026
+9,6,Man Utd,Premier League,2025/2026
+9,7,Liverpool,Premier League,2025/2026
+9,8,Aston Villa,Premier League,2025/2026
+9,9,Chelsea,Premier League,2025/2026
+9,10,Crystal Palace,Premier League,2025/2026
+9,11,Brentford,Premier League,2025/2026
+9,12,Newcastle,Premier League,2025/2026
+9,13,Brighton,Premier League,2025/2026
+9,14,Everton,Premier League,2025/2026
+9,15,Leeds,Premier League,2025/2026
+9,16,Burnley,Premier League,2025/2026
+9,17,Fulham,Premier League,2025/2026
+9,18,Nott'm Forest,Premier League,2025/2026
+9,19,West Ham,Premier League,2025/2026
+9,20,Wolves,Premier League,2025/2026
+10,1,Arsenal,Premier League,2025/2026
+10,2,Man City,Premier League,2025/2026
+10,3,Liverpool,Premier League,2025/2026
+10,4,Sunderland,Premier League,2025/2026
+10,5,Bournemouth,Premier League,2025/2026
+10,6,Tottenham,Premier League,2025/2026
+10,7,Chelsea,Premier League,2025/2026
+10,8,Man Utd,Premier League,2025/2026
+10,9,Crystal Palace,Premier League,2025/2026
+10,10,Brighton,Premier League,2025/2026
+10,11,Aston Villa,Premier League,2025/2026
+10,12,Brentford,Premier League,2025/2026
+10,13,Newcastle,Premier League,2025/2026
+10,14,Everton,Premier League,2025/2026
+10,15,Fulham,Premier League,2025/2026
+10,16,Leeds,Premier League,2025/2026
+10,17,Burnley,Premier League,2025/2026
+10,18,West Ham,Premier League,2025/2026
+10,19,Nott'm Forest,Premier League,2025/2026
+10,20,Wolves,Premier League,2025/2026
+11,1,Arsenal,Premier League,2025/2026
+11,2,Man City,Premier League,2025/2026
+11,3,Chelsea,Premier League,2025/2026
+11,4,Sunderland,Premier League,2025/2026
+11,5,Tottenham,Premier League,2025/2026
+11,6,Aston Villa,Premier League,2025/2026
+11,7,Man Utd,Premier League,2025/2026
+11,8,Liverpool,Premier League,2025/2026
+11,9,Bournemouth,Premier League,2025/2026
+11,10,Crystal Palace,Premier League,2025/2026
+11,11,Brighton,Premier League,2025/2026
+11,12,Brentford,Premier League,2025/2026
+11,13,Everton,Premier League,2025/2026
+11,14,Newcastle,Premier League,2025/2026
+11,15,Fulham,Premier League,2025/2026
+11,16,Leeds,Premier League,2025/2026
+11,17,Burnley,Premier League,2025/2026
+11,18,West Ham,Premier League,2025/2026
+11,19,Nott'm Forest,Premier League,2025/2026
+11,20,Wolves,Premier League,2025/2026
+12,1,Arsenal,Premier League,2025/2026
+12,2,Chelsea,Premier League,2025/2026
+12,3,Man City,Premier League,2025/2026
+12,4,Aston Villa,Premier League,2025/2026
+12,5,Crystal Palace,Premier League,2025/2026
+12,6,Brighton,Premier League,2025/2026
+12,7,Sunderland,Premier League,2025/2026
+12,8,Bournemouth,Premier League,2025/2026
+12,9,Tottenham,Premier League,2025/2026
+12,10,Man Utd,Premier League,2025/2026
+12,11,Everton,Premier League,2025/2026
+12,12,Liverpool,Premier League,2025/2026
+12,13,Brentford,Premier League,2025/2026
+12,14,Newcastle,Premier League,2025/2026
+12,15,Fulham,Premier League,2025/2026
+12,16,Nott'm Forest,Premier League,2025/2026
+12,17,West Ham,Premier League,2025/2026
+12,18,Leeds,Premier League,2025/2026
+12,19,Burnley,Premier League,2025/2026
+12,20,Wolves,Premier League,2025/2026
+13,1,Arsenal,Premier League,2025/2026
+13,2,Man City,Premier League,2025/2026
+13,3,Chelsea,Premier League,2025/2026
+13,4,Aston Villa,Premier League,2025/2026
+13,5,Brighton,Premier League,2025/2026
+13,6,Sunderland,Premier League,2025/2026
+13,7,Man Utd,Premier League,2025/2026
+13,8,Liverpool,Premier League,2025/2026
+13,9,Crystal Palace,Premier League,2025/2026
+13,10,Brentford,Premier League,2025/2026
+13,11,Bournemouth,Premier League,2025/2026
+13,12,Tottenham,Premier League,2025/2026
+13,13,Newcastle,Premier League,2025/2026
+13,14,Everton,Premier League,2025/2026
+13,15,Fulham,Premier League,2025/2026
+13,16,Nott'm Forest,Premier League,2025/2026
+13,17,West Ham,Premier League,2025/2026
+13,18,Leeds,Premier League,2025/2026
+13,19,Burnley,Premier League,2025/2026
+13,20,Wolves,Premier League,2025/2026
+14,1,Arsenal,Premier League,2025/2026
+14,2,Man City,Premier League,2025/2026
+14,3,Aston Villa,Premier League,2025/2026
+14,4,Chelsea,Premier League,2025/2026
+14,5,Crystal Palace,Premier League,2025/2026
+14,6,Sunderland,Premier League,2025/2026
+14,7,Brighton,Premier League,2025/2026
+14,8,Man Utd,Premier League,2025/2026
+14,9,Liverpool,Premier League,2025/2026
+14,10,Everton,Premier League,2025/2026
+14,11,Tottenham,Premier League,2025/2026
+14,12,Newcastle,Premier League,2025/2026
+14,13,Brentford,Premier League,2025/2026
+14,14,Bournemouth,Premier League,2025/2026
+14,15,Fulham,Premier League,2025/2026
+14,16,Nott'm Forest,Premier League,2025/2026
+14,17,Leeds,Premier League,2025/2026
+14,18,West Ham,Premier League,2025/2026
+14,19,Burnley,Premier League,2025/2026
+14,20,Wolves,Premier League,2025/2026
+15,1,Arsenal,Premier League,2025/2026
+15,2,Man City,Premier League,2025/2026
+15,3,Aston Villa,Premier League,2025/2026
+15,4,Crystal Palace,Premier League,2025/2026
+15,5,Chelsea,Premier League,2025/2026
+15,6,Man Utd,Premier League,2025/2026
+15,7,Everton,Premier League,2025/2026
+15,8,Brighton,Premier League,2025/2026
+15,9,Sunderland,Premier League,2025/2026
+15,10,Liverpool,Premier League,2025/2026
+15,11,Tottenham,Premier League,2025/2026
+15,12,Newcastle,Premier League,2025/2026
+15,13,Bournemouth,Premier League,2025/2026
+15,14,Brentford,Premier League,2025/2026
+15,15,Fulham,Premier League,2025/2026
+15,16,Leeds,Premier League,2025/2026
+15,17,Nott'm Forest,Premier League,2025/2026
+15,18,West Ham,Premier League,2025/2026
+15,19,Burnley,Premier League,2025/2026
+15,20,Wolves,Premier League,2025/2026
+16,1,Arsenal,Premier League,2025/2026
+16,2,Man City,Premier League,2025/2026
+16,3,Aston Villa,Premier League,2025/2026
+16,4,Chelsea,Premier League,2025/2026
+16,5,Crystal Palace,Premier League,2025/2026
+16,6,Man Utd,Premier League,2025/2026
+16,7,Liverpool,Premier League,2025/2026
+16,8,Sunderland,Premier League,2025/2026
+16,9,Everton,Premier League,2025/2026
+16,10,Brighton,Premier League,2025/2026
+16,11,Tottenham,Premier League,2025/2026
+16,12,Newcastle,Premier League,2025/2026
+16,13,Bournemouth,Premier League,2025/2026
+16,14,Fulham,Premier League,2025/2026
+16,15,Brentford,Premier League,2025/2026
+16,16,Nott'm Forest,Premier League,2025/2026
+16,17,Leeds,Premier League,2025/2026
+16,18,West Ham,Premier League,2025/2026
+16,19,Burnley,Premier League,2025/2026
+16,20,Wolves,Premier League,2025/2026
+17,1,Arsenal,Premier League,2025/2026
+17,2,Man City,Premier League,2025/2026
+17,3,Aston Villa,Premier League,2025/2026
+17,4,Chelsea,Premier League,2025/2026
+17,5,Liverpool,Premier League,2025/2026
+17,6,Sunderland,Premier League,2025/2026
+17,7,Man Utd,Premier League,2025/2026
+17,8,Crystal Palace,Premier League,2025/2026
+17,9,Brighton,Premier League,2025/2026
+17,10,Everton,Premier League,2025/2026
+17,11,Newcastle,Premier League,2025/2026
+17,12,Brentford,Premier League,2025/2026
+17,13,Fulham,Premier League,2025/2026
+17,14,Tottenham,Premier League,2025/2026
+17,15,Bournemouth,Premier League,2025/2026
+17,16,Leeds,Premier League,2025/2026
+17,17,Nott'm Forest,Premier League,2025/2026
+17,18,West Ham,Premier League,2025/2026
+17,19,Burnley,Premier League,2025/2026
+17,20,Wolves,Premier League,2025/2026
+18,1,Arsenal,Premier League,2025/2026
+18,2,Man City,Premier League,2025/2026
+18,3,Aston Villa,Premier League,2025/2026
+18,4,Liverpool,Premier League,2025/2026
+18,5,Chelsea,Premier League,2025/2026
+18,6,Man Utd,Premier League,2025/2026
+18,7,Sunderland,Premier League,2025/2026
+18,8,Brentford,Premier League,2025/2026
+18,9,Crystal Palace,Premier League,2025/2026
+18,10,Fulham,Premier League,2025/2026
+18,11,Tottenham,Premier League,2025/2026
+18,12,Everton,Premier League,2025/2026
+18,13,Brighton,Premier League,2025/2026
+18,14,Newcastle,Premier League,2025/2026
+18,15,Bournemouth,Premier League,2025/2026
+18,16,Leeds,Premier League,2025/2026
+18,17,Nott'm Forest,Premier League,2025/2026
+18,18,West Ham,Premier League,2025/2026
+18,19,Burnley,Premier League,2025/2026
+18,20,Wolves,Premier League,2025/2026
+19,1,Arsenal,Premier League,2025/2026
+19,2,Man City,Premier League,2025/2026
+19,3,Aston Villa,Premier League,2025/2026
+19,4,Liverpool,Premier League,2025/2026
+19,5,Chelsea,Premier League,2025/2026
+19,6,Man Utd,Premier League,2025/2026
+19,7,Sunderland,Premier League,2025/2026
+19,8,Everton,Premier League,2025/2026
+19,9,Brentford,Premier League,2025/2026
+19,10,Crystal Palace,Premier League,2025/2026
+19,11,Fulham,Premier League,2025/2026
+19,12,Tottenham,Premier League,2025/2026
+19,13,Newcastle,Premier League,2025/2026
+19,14,Brighton,Premier League,2025/2026
+19,15,Bournemouth,Premier League,2025/2026
+19,16,Leeds,Premier League,2025/2026
+19,17,Nott'm Forest,Premier League,2025/2026
+19,18,West Ham,Premier League,2025/2026
+19,19,Burnley,Premier League,2025/2026
+19,20,Wolves,Premier League,2025/2026
+20,1,Arsenal,Premier League,2025/2026
+20,2,Man City,Premier League,2025/2026
+20,3,Aston Villa,Premier League,2025/2026
+20,4,Liverpool,Premier League,2025/2026
+20,5,Chelsea,Premier League,2025/2026
+20,6,Man Utd,Premier League,2025/2026
+20,7,Brentford,Premier League,2025/2026
+20,8,Sunderland,Premier League,2025/2026
+20,9,Newcastle,Premier League,2025/2026
+20,10,Brighton,Premier League,2025/2026
+20,11,Fulham,Premier League,2025/2026
+20,12,Everton,Premier League,2025/2026
+20,13,Tottenham,Premier League,2025/2026
+20,14,Crystal Palace,Premier League,2025/2026
+20,15,Bournemouth,Premier League,2025/2026
+20,16,Leeds,Premier League,2025/2026
+20,17,Nott'm Forest,Premier League,2025/2026
+20,18,West Ham,Premier League,2025/2026
+20,19,Burnley,Premier League,2025/2026
+20,20,Wolves,Premier League,2025/2026
+21,1,Arsenal,Premier League,2025/2026
+21,2,Man City,Premier League,2025/2026
+21,3,Aston Villa,Premier League,2025/2026
+21,4,Liverpool,Premier League,2025/2026
+21,5,Brentford,Premier League,2025/2026
+21,6,Newcastle,Premier League,2025/2026
+21,7,Man Utd,Premier League,2025/2026
+21,8,Chelsea,Premier League,2025/2026
+21,9,Fulham,Premier League,2025/2026
+21,10,Sunderland,Premier League,2025/2026
+21,11,Brighton,Premier League,2025/2026
+21,12,Everton,Premier League,2025/2026
+21,13,Crystal Palace,Premier League,2025/2026
+21,14,Tottenham,Premier League,2025/2026
+21,15,Bournemouth,Premier League,2025/2026
+21,16,Leeds,Premier League,2025/2026
+21,17,Nott'm Forest,Premier League,2025/2026
+21,18,West Ham,Premier League,2025/2026
+21,19,Burnley,Premier League,2025/2026
+21,20,Wolves,Premier League,2025/2026
+22,1,Arsenal,Premier League,2025/2026
+22,2,Man City,Premier League,2025/2026
+22,3,Aston Villa,Premier League,2025/2026
+22,4,Liverpool,Premier League,2025/2026
+22,5,Man Utd,Premier League,2025/2026
+22,6,Chelsea,Premier League,2025/2026
+22,7,Brentford,Premier League,2025/2026
+22,8,Newcastle,Premier League,2025/2026
+22,9,Sunderland,Premier League,2025/2026
+22,10,Everton,Premier League,2025/2026
+22,11,Fulham,Premier League,2025/2026
+22,12,Brighton,Premier League,2025/2026
+22,13,Crystal Palace,Premier League,2025/2026
+22,14,Tottenham,Premier League,2025/2026
+22,15,Bournemouth,Premier League,2025/2026
+22,16,Leeds,Premier League,2025/2026
+22,17,Nott'm Forest,Premier League,2025/2026
+22,18,West Ham,Premier League,2025/2026
+22,19,Burnley,Premier League,2025/2026
+22,20,Wolves,Premier League,2025/2026
+23,1,Arsenal,Premier League,2025/2026
+23,2,Man City,Premier League,2025/2026
+23,3,Aston Villa,Premier League,2025/2026
+23,4,Man Utd,Premier League,2025/2026
+23,5,Chelsea,Premier League,2025/2026
+23,6,Liverpool,Premier League,2025/2026
+23,7,Fulham,Premier League,2025/2026
+23,8,Brentford,Premier League,2025/2026
+23,9,Newcastle,Premier League,2025/2026
+23,10,Everton,Premier League,2025/2026
+23,11,Sunderland,Premier League,2025/2026
+23,12,Brighton,Premier League,2025/2026
+23,13,Bournemouth,Premier League,2025/2026
+23,14,Tottenham,Premier League,2025/2026
+23,15,Crystal Palace,Premier League,2025/2026
+23,16,Leeds,Premier League,2025/2026
+23,17,Nott'm Forest,Premier League,2025/2026
+23,18,West Ham,Premier League,2025/2026
+23,19,Burnley,Premier League,2025/2026
+23,20,Wolves,Premier League,2025/2026
+24,1,Arsenal,Premier League,2025/2026
+24,2,Man City,Premier League,2025/2026
+24,3,Aston Villa,Premier League,2025/2026
+24,4,Man Utd,Premier League,2025/2026
+24,5,Chelsea,Premier League,2025/2026
+24,6,Liverpool,Premier League,2025/2026
+24,7,Brentford,Premier League,2025/2026
+24,8,Sunderland,Premier League,2025/2026
+24,9,Fulham,Premier League,2025/2026
+24,10,Everton,Premier League,2025/2026
+24,11,Newcastle,Premier League,2025/2026
+24,12,Bournemouth,Premier League,2025/2026
+24,13,Brighton,Premier League,2025/2026
+24,14,Tottenham,Premier League,2025/2026
+24,15,Crystal Palace,Premier League,2025/2026
+24,16,Leeds,Premier League,2025/2026
+24,17,Nott'm Forest,Premier League,2025/2026
+24,18,West Ham,Premier League,2025/2026
+24,19,Burnley,Premier League,2025/2026
+24,20,Wolves,Premier League,2025/2026
+25,1,Arsenal,Premier League,2025/2026
+25,2,Man City,Premier League,2025/2026
+25,3,Aston Villa,Premier League,2025/2026
+25,4,Man Utd,Premier League,2025/2026
+25,5,Chelsea,Premier League,2025/2026
+25,6,Liverpool,Premier League,2025/2026
+25,7,Brentford,Premier League,2025/2026
+25,8,Everton,Premier League,2025/2026
+25,9,Sunderland,Premier League,2025/2026
+25,10,Fulham,Premier League,2025/2026
+25,11,Bournemouth,Premier League,2025/2026
+25,12,Newcastle,Premier League,2025/2026
+25,13,Crystal Palace,Premier League,2025/2026
+25,14,Brighton,Premier League,2025/2026
+25,15,Tottenham,Premier League,2025/2026
+25,16,Leeds,Premier League,2025/2026
+25,17,Nott'm Forest,Premier League,2025/2026
+25,18,West Ham,Premier League,2025/2026
+25,19,Burnley,Premier League,2025/2026
+25,20,Wolves,Premier League,2025/2026
+26,1,Arsenal,Premier League,2025/2026
+26,2,Man City,Premier League,2025/2026
+26,3,Aston Villa,Premier League,2025/2026
+26,4,Man Utd,Premier League,2025/2026
+26,5,Chelsea,Premier League,2025/2026
+26,6,Liverpool,Premier League,2025/2026
+26,7,Brentford,Premier League,2025/2026
+26,8,Everton,Premier League,2025/2026
+26,9,Bournemouth,Premier League,2025/2026
+26,10,Newcastle,Premier League,2025/2026
+26,11,Sunderland,Premier League,2025/2026
+26,12,Fulham,Premier League,2025/2026
+26,13,Crystal Palace,Premier League,2025/2026
+26,14,Brighton,Premier League,2025/2026
+26,15,Leeds,Premier League,2025/2026
+26,16,Tottenham,Premier League,2025/2026
+26,17,Nott'm Forest,Premier League,2025/2026
+26,18,West Ham,Premier League,2025/2026
+26,19,Burnley,Premier League,2025/2026
+26,20,Wolves,Premier League,2025/2026
+27,1,Arsenal,Premier League,2025/2026
+27,2,Man City,Premier League,2025/2026
+27,3,Aston Villa,Premier League,2025/2026
+27,4,Man Utd,Premier League,2025/2026
+27,5,Chelsea,Premier League,2025/2026
+27,6,Liverpool,Premier League,2025/2026
+27,7,Brentford,Premier League,2025/2026
+27,8,Bournemouth,Premier League,2025/2026
+27,9,Everton,Premier League,2025/2026
+27,10,Fulham,Premier League,2025/2026
+27,11,Newcastle,Premier League,2025/2026
+27,12,Sunderland,Premier League,2025/2026
+27,13,Crystal Palace,Premier League,2025/2026
+27,14,Brighton,Premier League,2025/2026
+27,15,Leeds,Premier League,2025/2026
+27,16,Tottenham,Premier League,2025/2026
+27,17,Nott'm Forest,Premier League,2025/2026
+27,18,West Ham,Premier League,2025/2026
+27,19,Burnley,Premier League,2025/2026
+27,20,Wolves,Premier League,2025/2026
+28,1,Arsenal,Premier League,2025/2026
+28,2,Man City,Premier League,2025/2026
+28,3,Man Utd,Premier League,2025/2026
+28,4,Aston Villa,Premier League,2025/2026
+28,5,Liverpool,Premier League,2025/2026
+28,6,Chelsea,Premier League,2025/2026
+28,7,Brentford,Premier League,2025/2026
+28,8,Everton,Premier League,2025/2026
+28,9,Fulham,Premier League,2025/2026
+28,10,Bournemouth,Premier League,2025/2026
+28,11,Brighton,Premier League,2025/2026
+28,12,Sunderland,Premier League,2025/2026
+28,13,Newcastle,Premier League,2025/2026
+28,14,Crystal Palace,Premier League,2025/2026
+28,15,Leeds,Premier League,2025/2026
+28,16,Tottenham,Premier League,2025/2026
+28,17,Nott'm Forest,Premier League,2025/2026
+28,18,West Ham,Premier League,2025/2026
+28,19,Burnley,Premier League,2025/2026
+28,20,Wolves,Premier League,2025/2026
+29,1,Arsenal,Premier League,2025/2026
+29,2,Man City,Premier League,2025/2026
+29,3,Man Utd,Premier League,2025/2026
+29,4,Aston Villa,Premier League,2025/2026
+29,5,Chelsea,Premier League,2025/2026
+29,6,Liverpool,Premier League,2025/2026
+29,7,Brentford,Premier League,2025/2026
+29,8,Everton,Premier League,2025/2026
+29,9,Bournemouth,Premier League,2025/2026
+29,10,Fulham,Premier League,2025/2026
+29,11,Sunderland,Premier League,2025/2026
+29,12,Newcastle,Premier League,2025/2026
+29,13,Crystal Palace,Premier League,2025/2026
+29,14,Brighton,Premier League,2025/2026
+29,15,Leeds,Premier League,2025/2026
+29,16,Tottenham,Premier League,2025/2026
+29,17,Nott'm Forest,Premier League,2025/2026
+29,18,West Ham,Premier League,2025/2026
+29,19,Burnley,Premier League,2025/2026
+29,20,Wolves,Premier League,2025/2026
+30,1,Arsenal,Premier League,2025/2026
+30,2,Man City,Premier League,2025/2026
+30,3,Man Utd,Premier League,2025/2026
+30,4,Aston Villa,Premier League,2025/2026
+30,5,Liverpool,Premier League,2025/2026
+30,6,Chelsea,Premier League,2025/2026
+30,7,Brentford,Premier League,2025/2026
+30,8,Everton,Premier League,2025/2026
+30,9,Newcastle,Premier League,2025/2026
+30,10,Bournemouth,Premier League,2025/2026
+30,11,Fulham,Premier League,2025/2026
+30,12,Brighton,Premier League,2025/2026
+30,13,Sunderland,Premier League,2025/2026
+30,14,Crystal Palace,Premier League,2025/2026
+30,15,Leeds,Premier League,2025/2026
+30,16,Tottenham,Premier League,2025/2026
+30,17,Nott'm Forest,Premier League,2025/2026
+30,18,West Ham,Premier League,2025/2026
+30,19,Burnley,Premier League,2025/2026
+30,20,Wolves,Premier League,2025/2026
+31,1,Arsenal,Premier League,2025/2026
+31,2,Man City,Premier League,2025/2026
+31,3,Man Utd,Premier League,2025/2026
+31,4,Aston Villa,Premier League,2025/2026
+31,5,Liverpool,Premier League,2025/2026
+31,6,Chelsea,Premier League,2025/2026
+31,7,Brentford,Premier League,2025/2026
+31,8,Everton,Premier League,2025/2026
+31,9,Fulham,Premier League,2025/2026
+31,10,Brighton,Premier League,2025/2026
+31,11,Sunderland,Premier League,2025/2026
+31,12,Newcastle,Premier League,2025/2026
+31,13,Bournemouth,Premier League,2025/2026
+31,14,Crystal Palace,Premier League,2025/2026
+31,15,Leeds,Premier League,2025/2026
+31,16,Nott'm Forest,Premier League,2025/2026
+31,17,Tottenham,Premier League,2025/2026
+31,18,West Ham,Premier League,2025/2026
+31,19,Burnley,Premier League,2025/2026
+31,20,Wolves,Premier League,2025/2026
+32,1,Arsenal,Premier League,2025/2026
+32,2,Man City,Premier League,2025/2026
+32,3,Man Utd,Premier League,2025/2026
+32,4,Aston Villa,Premier League,2025/2026
+32,5,Liverpool,Premier League,2025/2026
+32,6,Chelsea,Premier League,2025/2026
+32,7,Brentford,Premier League,2025/2026
+32,8,Everton,Premier League,2025/2026
+32,9,Brighton,Premier League,2025/2026
+32,10,Sunderland,Premier League,2025/2026
+32,11,Bournemouth,Premier League,2025/2026
+32,12,Fulham,Premier League,2025/2026
+32,13,Newcastle,Premier League,2025/2026
+32,14,Crystal Palace,Premier League,2025/2026
+32,15,Leeds,Premier League,2025/2026
+32,16,Nott'm Forest,Premier League,2025/2026
+32,17,West Ham,Premier League,2025/2026
+32,18,Tottenham,Premier League,2025/2026
+32,19,Burnley,Premier League,2025/2026
+32,20,Wolves,Premier League,2025/2026
+33,1,Man City,Premier League,2025/2026
+33,2,Arsenal,Premier League,2025/2026
+33,3,Man Utd,Premier League,2025/2026
+33,4,Aston Villa,Premier League,2025/2026
+33,5,Liverpool,Premier League,2025/2026
+33,6,Chelsea,Premier League,2025/2026
+33,7,Brentford,Premier League,2025/2026
+33,8,Bournemouth,Premier League,2025/2026
+33,9,Brighton,Premier League,2025/2026
+33,10,Everton,Premier League,2025/2026
+33,11,Sunderland,Premier League,2025/2026
+33,12,Fulham,Premier League,2025/2026
+33,13,Crystal Palace,Premier League,2025/2026
+33,14,Newcastle,Premier League,2025/2026
+33,15,Leeds,Premier League,2025/2026
+33,16,Nott'm Forest,Premier League,2025/2026
+33,17,West Ham,Premier League,2025/2026
+33,18,Tottenham,Premier League,2025/2026
+33,19,Burnley,Premier League,2025/2026
+33,20,Wolves,Premier League,2025/2026
+34,1,Man City,Premier League,2025/2026
+34,2,Arsenal,Premier League,2025/2026
+34,3,Man Utd,Premier League,2025/2026
+34,4,Liverpool,Premier League,2025/2026
+34,5,Aston Villa,Premier League,2025/2026
+34,6,Brighton,Premier League,2025/2026
+34,7,Bournemouth,Premier League,2025/2026
+34,8,Chelsea,Premier League,2025/2026
+34,9,Brentford,Premier League,2025/2026
+34,10,Fulham,Premier League,2025/2026
+34,11,Everton,Premier League,2025/2026
+34,12,Sunderland,Premier League,2025/2026
+34,13,Crystal Palace,Premier League,2025/2026
+34,14,Newcastle,Premier League,2025/2026
+34,15,Leeds,Premier League,2025/2026
+34,16,Nott'm Forest,Premier League,2025/2026
+34,17,West Ham,Premier League,2025/2026
+34,18,Tottenham,Premier League,2025/2026
+34,19,Burnley,Premier League,2025/2026
+34,20,Wolves,Premier League,2025/2026
+35,1,Arsenal,Premier League,2025/2026
+35,2,Man City,Premier League,2025/2026
+35,3,Man Utd,Premier League,2025/2026
+35,4,Liverpool,Premier League,2025/2026
+35,5,Aston Villa,Premier League,2025/2026
+35,6,Bournemouth,Premier League,2025/2026
+35,7,Brentford,Premier League,2025/2026
+35,8,Brighton,Premier League,2025/2026
+35,9,Chelsea,Premier League,2025/2026
+35,10,Everton,Premier League,2025/2026
+35,11,Fulham,Premier League,2025/2026
+35,12,Sunderland,Premier League,2025/2026
+35,13,Newcastle,Premier League,2025/2026
+35,14,Leeds,Premier League,2025/2026
+35,15,Crystal Palace,Premier League,2025/2026
+35,16,Nott'm Forest,Premier League,2025/2026
+35,17,Tottenham,Premier League,2025/2026
+35,18,West Ham,Premier League,2025/2026
+35,19,Burnley,Premier League,2025/2026
+35,20,Wolves,Premier League,2025/2026
+36,1,Arsenal,Premier League,2025/2026
+36,2,Man City,Premier League,2025/2026
+36,3,Man Utd,Premier League,2025/2026
+36,4,Liverpool,Premier League,2025/2026
+36,5,Aston Villa,Premier League,2025/2026
+36,6,Bournemouth,Premier League,2025/2026
+36,7,Brighton,Premier League,2025/2026
+36,8,Brentford,Premier League,2025/2026
+36,9,Chelsea,Premier League,2025/2026
+36,10,Everton,Premier League,2025/2026
+36,11,Fulham,Premier League,2025/2026
+36,12,Sunderland,Premier League,2025/2026
+36,13,Newcastle,Premier League,2025/2026
+36,14,Leeds,Premier League,2025/2026
+36,15,Crystal Palace,Premier League,2025/2026
+36,16,Nott'm Forest,Premier League,2025/2026
+36,17,Tottenham,Premier League,2025/2026
+36,18,West Ham,Premier League,2025/2026
+36,19,Burnley,Premier League,2025/2026
+36,20,Wolves,Premier League,2025/2026
+37,1,Arsenal,Premier League,2025/2026
+37,2,Man City,Premier League,2025/2026
+37,3,Man Utd,Premier League,2025/2026
+37,4,Aston Villa,Premier League,2025/2026
+37,5,Liverpool,Premier League,2025/2026
+37,6,Bournemouth,Premier League,2025/2026
+37,7,Brighton,Premier League,2025/2026
+37,8,Chelsea,Premier League,2025/2026
+37,9,Brentford,Premier League,2025/2026
+37,10,Sunderland,Premier League,2025/2026
+37,11,Newcastle,Premier League,2025/2026
+37,12,Everton,Premier League,2025/2026
+37,13,Fulham,Premier League,2025/2026
+37,14,Leeds,Premier League,2025/2026
+37,15,Crystal Palace,Premier League,2025/2026
+37,16,Nott'm Forest,Premier League,2025/2026
+37,17,Tottenham,Premier League,2025/2026
+37,18,West Ham,Premier League,2025/2026
+37,19,Burnley,Premier League,2025/2026
+37,20,Wolves,Premier League,2025/2026
+38,1,Arsenal,Premier League,2025/2026
+38,2,Man City,Premier League,2025/2026
+38,3,Man Utd,Premier League,2025/2026
+38,4,Aston Villa,Premier League,2025/2026
+38,5,Liverpool,Premier League,2025/2026
+38,6,Bournemouth,Premier League,2025/2026
+38,7,Sunderland,Premier League,2025/2026
+38,8,Brighton,Premier League,2025/2026
+38,9,Brentford,Premier League,2025/2026
+38,10,Chelsea,Premier League,2025/2026
+38,11,Fulham,Premier League,2025/2026
+38,12,Newcastle,Premier League,2025/2026
+38,13,Everton,Premier League,2025/2026
+38,14,Leeds,Premier League,2025/2026
+38,15,Crystal Palace,Premier League,2025/2026
+38,16,Nott'm Forest,Premier League,2025/2026
+38,17,Tottenham,Premier League,2025/2026
+38,18,West Ham,Premier League,2025/2026
+38,19,Burnley,Premier League,2025/2026
+38,20,Wolves,Premier League,2025/2026
+1,1,Bayern Munich,Bundesliga,2025/2026
+1,2,Frankfurt,Bundesliga,2025/2026
+1,3,Wolfsburg,Bundesliga,2025/2026
+1,4,Augsburg,Bundesliga,2025/2026
+1,5,Hoffenheim,Bundesliga,2025/2026
+1,6,Union Berlin,Bundesliga,2025/2026
+1,7,1.FC Köln,Bundesliga,2025/2026
+1,8,Dortmund,Bundesliga,2025/2026
+1,9,St. Pauli,Bundesliga,2025/2026
+1,10,Mönchengladbach,Bundesliga,2025/2026
+1,11,Hamburg,Bundesliga,2025/2026
+1,12,Stuttgart,Bundesliga,2025/2026
+1,13,Leverkusen,Bundesliga,2025/2026
+1,14,Mainz,Bundesliga,2025/2026
+1,15,Freiburg,Bundesliga,2025/2026
+1,16,Heidenheim,Bundesliga,2025/2026
+1,17,Werder Bremen,Bundesliga,2025/2026
+1,18,Leipzig,Bundesliga,2025/2026
+2,1,Bayern Munich,Bundesliga,2025/2026
+2,2,Frankfurt,Bundesliga,2025/2026
+2,3,1.FC Köln,Bundesliga,2025/2026
+2,4,Dortmund,Bundesliga,2025/2026
+2,5,St. Pauli,Bundesliga,2025/2026
+2,6,Wolfsburg,Bundesliga,2025/2026
+2,7,Augsburg,Bundesliga,2025/2026
+2,8,Stuttgart,Bundesliga,2025/2026
+2,9,Hoffenheim,Bundesliga,2025/2026
+2,10,Union Berlin,Bundesliga,2025/2026
+2,11,Leipzig,Bundesliga,2025/2026
+2,12,Leverkusen,Bundesliga,2025/2026
+2,13,Mainz,Bundesliga,2025/2026
+2,14,Mönchengladbach,Bundesliga,2025/2026
+2,15,Hamburg,Bundesliga,2025/2026
+2,16,Werder Bremen,Bundesliga,2025/2026
+2,17,Heidenheim,Bundesliga,2025/2026
+2,18,Freiburg,Bundesliga,2025/2026
+3,1,Bayern Munich,Bundesliga,2025/2026
+3,2,Dortmund,Bundesliga,2025/2026
+3,3,1.FC Köln,Bundesliga,2025/2026
+3,4,St. Pauli,Bundesliga,2025/2026
+3,5,Frankfurt,Bundesliga,2025/2026
+3,6,Hoffenheim,Bundesliga,2025/2026
+3,7,Leipzig,Bundesliga,2025/2026
+3,8,Wolfsburg,Bundesliga,2025/2026
+3,9,Werder Bremen,Bundesliga,2025/2026
+3,10,Leverkusen,Bundesliga,2025/2026
+3,11,Augsburg,Bundesliga,2025/2026
+3,12,Stuttgart,Bundesliga,2025/2026
+3,13,Freiburg,Bundesliga,2025/2026
+3,14,Union Berlin,Bundesliga,2025/2026
+3,15,Mainz,Bundesliga,2025/2026
+3,16,Mönchengladbach,Bundesliga,2025/2026
+3,17,Hamburg,Bundesliga,2025/2026
+3,18,Heidenheim,Bundesliga,2025/2026
+4,1,Bayern Munich,Bundesliga,2025/2026
+4,2,Dortmund,Bundesliga,2025/2026
+4,3,Leipzig,Bundesliga,2025/2026
+4,4,1.FC Köln,Bundesliga,2025/2026
+4,5,St. Pauli,Bundesliga,2025/2026
+4,6,Frankfurt,Bundesliga,2025/2026
+4,7,Freiburg,Bundesliga,2025/2026
+4,8,Stuttgart,Bundesliga,2025/2026
+4,9,Hoffenheim,Bundesliga,2025/2026
+4,10,Union Berlin,Bundesliga,2025/2026
+4,11,Leverkusen,Bundesliga,2025/2026
+4,12,Wolfsburg,Bundesliga,2025/2026
+4,13,Mainz,Bundesliga,2025/2026
+4,14,Werder Bremen,Bundesliga,2025/2026
+4,15,Hamburg,Bundesliga,2025/2026
+4,16,Augsburg,Bundesliga,2025/2026
+4,17,Mönchengladbach,Bundesliga,2025/2026
+4,18,Heidenheim,Bundesliga,2025/2026
+5,1,Bayern Munich,Bundesliga,2025/2026
+5,2,Dortmund,Bundesliga,2025/2026
+5,3,Leipzig,Bundesliga,2025/2026
+5,4,Frankfurt,Bundesliga,2025/2026
+5,5,Stuttgart,Bundesliga,2025/2026
+5,6,Leverkusen,Bundesliga,2025/2026
+5,7,1.FC Köln,Bundesliga,2025/2026
+5,8,Freiburg,Bundesliga,2025/2026
+5,9,St. Pauli,Bundesliga,2025/2026
+5,10,Hoffenheim,Bundesliga,2025/2026
+5,11,Union Berlin,Bundesliga,2025/2026
+5,12,Wolfsburg,Bundesliga,2025/2026
+5,13,Hamburg,Bundesliga,2025/2026
+5,14,Mainz,Bundesliga,2025/2026
+5,15,Werder Bremen,Bundesliga,2025/2026
+5,16,Augsburg,Bundesliga,2025/2026
+5,17,Heidenheim,Bundesliga,2025/2026
+5,18,Mönchengladbach,Bundesliga,2025/2026
+6,1,Bayern Munich,Bundesliga,2025/2026
+6,2,Dortmund,Bundesliga,2025/2026
+6,3,Leipzig,Bundesliga,2025/2026
+6,4,Stuttgart,Bundesliga,2025/2026
+6,5,Leverkusen,Bundesliga,2025/2026
+6,6,1.FC Köln,Bundesliga,2025/2026
+6,7,Frankfurt,Bundesliga,2025/2026
+6,8,Freiburg,Bundesliga,2025/2026
+6,9,Hamburg,Bundesliga,2025/2026
+6,10,St. Pauli,Bundesliga,2025/2026
+6,11,Hoffenheim,Bundesliga,2025/2026
+6,12,Werder Bremen,Bundesliga,2025/2026
+6,13,Union Berlin,Bundesliga,2025/2026
+6,14,Augsburg,Bundesliga,2025/2026
+6,15,Wolfsburg,Bundesliga,2025/2026
+6,16,Mainz,Bundesliga,2025/2026
+6,17,Mönchengladbach,Bundesliga,2025/2026
+6,18,Heidenheim,Bundesliga,2025/2026
+7,1,Bayern Munich,Bundesliga,2025/2026
+7,2,Leipzig,Bundesliga,2025/2026
+7,3,Stuttgart,Bundesliga,2025/2026
+7,4,Dortmund,Bundesliga,2025/2026
+7,5,Leverkusen,Bundesliga,2025/2026
+7,6,1.FC Köln,Bundesliga,2025/2026
+7,7,Frankfurt,Bundesliga,2025/2026
+7,8,Hoffenheim,Bundesliga,2025/2026
+7,9,Union Berlin,Bundesliga,2025/2026
+7,10,Freiburg,Bundesliga,2025/2026
+7,11,Hamburg,Bundesliga,2025/2026
+7,12,Werder Bremen,Bundesliga,2025/2026
+7,13,Augsburg,Bundesliga,2025/2026
+7,14,St. Pauli,Bundesliga,2025/2026
+7,15,Wolfsburg,Bundesliga,2025/2026
+7,16,Mainz,Bundesliga,2025/2026
+7,17,Heidenheim,Bundesliga,2025/2026
+7,18,Mönchengladbach,Bundesliga,2025/2026
+8,1,Bayern Munich,Bundesliga,2025/2026
+8,2,Leipzig,Bundesliga,2025/2026
+8,3,Stuttgart,Bundesliga,2025/2026
+8,4,Dortmund,Bundesliga,2025/2026
+8,5,Leverkusen,Bundesliga,2025/2026
+8,6,Frankfurt,Bundesliga,2025/2026
+8,7,Hoffenheim,Bundesliga,2025/2026
+8,8,1.FC Köln,Bundesliga,2025/2026
+8,9,Werder Bremen,Bundesliga,2025/2026
+8,10,Union Berlin,Bundesliga,2025/2026
+8,11,Freiburg,Bundesliga,2025/2026
+8,12,Wolfsburg,Bundesliga,2025/2026
+8,13,Hamburg,Bundesliga,2025/2026
+8,14,St. Pauli,Bundesliga,2025/2026
+8,15,Augsburg,Bundesliga,2025/2026
+8,16,Mainz,Bundesliga,2025/2026
+8,17,Heidenheim,Bundesliga,2025/2026
+8,18,Mönchengladbach,Bundesliga,2025/2026
+9,1,Bayern Munich,Bundesliga,2025/2026
+9,2,Leipzig,Bundesliga,2025/2026
+9,3,Dortmund,Bundesliga,2025/2026
+9,4,Stuttgart,Bundesliga,2025/2026
+9,5,Leverkusen,Bundesliga,2025/2026
+9,6,Hoffenheim,Bundesliga,2025/2026
+9,7,1.FC Köln,Bundesliga,2025/2026
+9,8,Frankfurt,Bundesliga,2025/2026
+9,9,Werder Bremen,Bundesliga,2025/2026
+9,10,Union Berlin,Bundesliga,2025/2026
+9,11,Freiburg,Bundesliga,2025/2026
+9,12,Wolfsburg,Bundesliga,2025/2026
+9,13,Hamburg,Bundesliga,2025/2026
+9,14,Augsburg,Bundesliga,2025/2026
+9,15,St. Pauli,Bundesliga,2025/2026
+9,16,Mönchengladbach,Bundesliga,2025/2026
+9,17,Mainz,Bundesliga,2025/2026
+9,18,Heidenheim,Bundesliga,2025/2026
+10,1,Bayern Munich,Bundesliga,2025/2026
+10,2,Leipzig,Bundesliga,2025/2026
+10,3,Dortmund,Bundesliga,2025/2026
+10,4,Stuttgart,Bundesliga,2025/2026
+10,5,Leverkusen,Bundesliga,2025/2026
+10,6,Hoffenheim,Bundesliga,2025/2026
+10,7,Frankfurt,Bundesliga,2025/2026
+10,8,Werder Bremen,Bundesliga,2025/2026
+10,9,1.FC Köln,Bundesliga,2025/2026
+10,10,Freiburg,Bundesliga,2025/2026
+10,11,Union Berlin,Bundesliga,2025/2026
+10,12,Mönchengladbach,Bundesliga,2025/2026
+10,13,Hamburg,Bundesliga,2025/2026
+10,14,Wolfsburg,Bundesliga,2025/2026
+10,15,Augsburg,Bundesliga,2025/2026
+10,16,St. Pauli,Bundesliga,2025/2026
+10,17,Mainz,Bundesliga,2025/2026
+10,18,Heidenheim,Bundesliga,2025/2026
+11,1,Bayern Munich,Bundesliga,2025/2026
+11,2,Leipzig,Bundesliga,2025/2026
+11,3,Leverkusen,Bundesliga,2025/2026
+11,4,Dortmund,Bundesliga,2025/2026
+11,5,Stuttgart,Bundesliga,2025/2026
+11,6,Frankfurt,Bundesliga,2025/2026
+11,7,Hoffenheim,Bundesliga,2025/2026
+11,8,Union Berlin,Bundesliga,2025/2026
+11,9,Werder Bremen,Bundesliga,2025/2026
+11,10,1.FC Köln,Bundesliga,2025/2026
+11,11,Freiburg,Bundesliga,2025/2026
+11,12,Mönchengladbach,Bundesliga,2025/2026
+11,13,Augsburg,Bundesliga,2025/2026
+11,14,Hamburg,Bundesliga,2025/2026
+11,15,Wolfsburg,Bundesliga,2025/2026
+11,16,St. Pauli,Bundesliga,2025/2026
+11,17,Mainz,Bundesliga,2025/2026
+11,18,Heidenheim,Bundesliga,2025/2026
+12,1,Bayern Munich,Bundesliga,2025/2026
+12,2,Leipzig,Bundesliga,2025/2026
+12,3,Dortmund,Bundesliga,2025/2026
+12,4,Leverkusen,Bundesliga,2025/2026
+12,5,Hoffenheim,Bundesliga,2025/2026
+12,6,Stuttgart,Bundesliga,2025/2026
+12,7,Frankfurt,Bundesliga,2025/2026
+12,8,Freiburg,Bundesliga,2025/2026
+12,9,Werder Bremen,Bundesliga,2025/2026
+12,10,1.FC Köln,Bundesliga,2025/2026
+12,11,Union Berlin,Bundesliga,2025/2026
+12,12,Mönchengladbach,Bundesliga,2025/2026
+12,13,Hamburg,Bundesliga,2025/2026
+12,14,Augsburg,Bundesliga,2025/2026
+12,15,Wolfsburg,Bundesliga,2025/2026
+12,16,Heidenheim,Bundesliga,2025/2026
+12,17,St. Pauli,Bundesliga,2025/2026
+12,18,Mainz,Bundesliga,2025/2026
+13,1,Bayern Munich,Bundesliga,2025/2026
+13,2,Leipzig,Bundesliga,2025/2026
+13,3,Dortmund,Bundesliga,2025/2026
+13,4,Leverkusen,Bundesliga,2025/2026
+13,5,Hoffenheim,Bundesliga,2025/2026
+13,6,Stuttgart,Bundesliga,2025/2026
+13,7,Frankfurt,Bundesliga,2025/2026
+13,8,1.FC Köln,Bundesliga,2025/2026
+13,9,Freiburg,Bundesliga,2025/2026
+13,10,Mönchengladbach,Bundesliga,2025/2026
+13,11,Werder Bremen,Bundesliga,2025/2026
+13,12,Union Berlin,Bundesliga,2025/2026
+13,13,Hamburg,Bundesliga,2025/2026
+13,14,Augsburg,Bundesliga,2025/2026
+13,15,Wolfsburg,Bundesliga,2025/2026
+13,16,Heidenheim,Bundesliga,2025/2026
+13,17,St. Pauli,Bundesliga,2025/2026
+13,18,Mainz,Bundesliga,2025/2026
+14,1,Bayern Munich,Bundesliga,2025/2026
+14,2,Leipzig,Bundesliga,2025/2026
+14,3,Dortmund,Bundesliga,2025/2026
+14,4,Leverkusen,Bundesliga,2025/2026
+14,5,Hoffenheim,Bundesliga,2025/2026
+14,6,Stuttgart,Bundesliga,2025/2026
+14,7,Frankfurt,Bundesliga,2025/2026
+14,8,Union Berlin,Bundesliga,2025/2026
+14,9,Freiburg,Bundesliga,2025/2026
+14,10,1.FC Köln,Bundesliga,2025/2026
+14,11,Mönchengladbach,Bundesliga,2025/2026
+14,12,Werder Bremen,Bundesliga,2025/2026
+14,13,Wolfsburg,Bundesliga,2025/2026
+14,14,Hamburg,Bundesliga,2025/2026
+14,15,Augsburg,Bundesliga,2025/2026
+14,16,St. Pauli,Bundesliga,2025/2026
+14,17,Heidenheim,Bundesliga,2025/2026
+14,18,Mainz,Bundesliga,2025/2026
+15,1,Bayern Munich,Bundesliga,2025/2026
+15,2,Dortmund,Bundesliga,2025/2026
+15,3,Leverkusen,Bundesliga,2025/2026
+15,4,Leipzig,Bundesliga,2025/2026
+15,5,Hoffenheim,Bundesliga,2025/2026
+15,6,Stuttgart,Bundesliga,2025/2026
+15,7,Frankfurt,Bundesliga,2025/2026
+15,8,Union Berlin,Bundesliga,2025/2026
+15,9,Freiburg,Bundesliga,2025/2026
+15,10,Werder Bremen,Bundesliga,2025/2026
+15,11,1.FC Köln,Bundesliga,2025/2026
+15,12,Mönchengladbach,Bundesliga,2025/2026
+15,13,Hamburg,Bundesliga,2025/2026
+15,14,Wolfsburg,Bundesliga,2025/2026
+15,15,Augsburg,Bundesliga,2025/2026
+15,16,St. Pauli,Bundesliga,2025/2026
+15,17,Heidenheim,Bundesliga,2025/2026
+15,18,Mainz,Bundesliga,2025/2026
+16,1,Bayern Munich,Bundesliga,2025/2026
+16,2,Dortmund,Bundesliga,2025/2026
+16,3,Hoffenheim,Bundesliga,2025/2026
+16,4,Leipzig,Bundesliga,2025/2026
+16,5,Leverkusen,Bundesliga,2025/2026
+16,6,Stuttgart,Bundesliga,2025/2026
+16,7,Frankfurt,Bundesliga,2025/2026
+16,8,Freiburg,Bundesliga,2025/2026
+16,9,Union Berlin,Bundesliga,2025/2026
+16,10,Mönchengladbach,Bundesliga,2025/2026
+16,11,1.FC Köln,Bundesliga,2025/2026
+16,12,Werder Bremen,Bundesliga,2025/2026
+16,13,Hamburg,Bundesliga,2025/2026
+16,14,Wolfsburg,Bundesliga,2025/2026
+16,15,Augsburg,Bundesliga,2025/2026
+16,16,St. Pauli,Bundesliga,2025/2026
+16,17,Heidenheim,Bundesliga,2025/2026
+16,18,Mainz,Bundesliga,2025/2026
+17,1,Bayern Munich,Bundesliga,2025/2026
+17,2,Dortmund,Bundesliga,2025/2026
+17,3,Hoffenheim,Bundesliga,2025/2026
+17,4,Leipzig,Bundesliga,2025/2026
+17,5,Leverkusen,Bundesliga,2025/2026
+17,6,Stuttgart,Bundesliga,2025/2026
+17,7,Frankfurt,Bundesliga,2025/2026
+17,8,Freiburg,Bundesliga,2025/2026
+17,9,Union Berlin,Bundesliga,2025/2026
+17,10,Mönchengladbach,Bundesliga,2025/2026
+17,11,Wolfsburg,Bundesliga,2025/2026
+17,12,1.FC Köln,Bundesliga,2025/2026
+17,13,Werder Bremen,Bundesliga,2025/2026
+17,14,Hamburg,Bundesliga,2025/2026
+17,15,Augsburg,Bundesliga,2025/2026
+17,16,St. Pauli,Bundesliga,2025/2026
+17,17,Mainz,Bundesliga,2025/2026
+17,18,Heidenheim,Bundesliga,2025/2026
+18,1,Bayern Munich,Bundesliga,2025/2026
+18,2,Dortmund,Bundesliga,2025/2026
+18,3,Hoffenheim,Bundesliga,2025/2026
+18,4,Leipzig,Bundesliga,2025/2026
+18,5,Stuttgart,Bundesliga,2025/2026
+18,6,Leverkusen,Bundesliga,2025/2026
+18,7,Frankfurt,Bundesliga,2025/2026
+18,8,Freiburg,Bundesliga,2025/2026
+18,9,Union Berlin,Bundesliga,2025/2026
+18,10,1.FC Köln,Bundesliga,2025/2026
+18,11,Mönchengladbach,Bundesliga,2025/2026
+18,12,Wolfsburg,Bundesliga,2025/2026
+18,13,Werder Bremen,Bundesliga,2025/2026
+18,14,Hamburg,Bundesliga,2025/2026
+18,15,Augsburg,Bundesliga,2025/2026
+18,16,St. Pauli,Bundesliga,2025/2026
+18,17,Heidenheim,Bundesliga,2025/2026
+18,18,Mainz,Bundesliga,2025/2026
+19,1,Bayern Munich,Bundesliga,2025/2026
+19,2,Dortmund,Bundesliga,2025/2026
+19,3,Hoffenheim,Bundesliga,2025/2026
+19,4,Leipzig,Bundesliga,2025/2026
+19,5,Stuttgart,Bundesliga,2025/2026
+19,6,Leverkusen,Bundesliga,2025/2026
+19,7,Freiburg,Bundesliga,2025/2026
+19,8,Frankfurt,Bundesliga,2025/2026
+19,9,Union Berlin,Bundesliga,2025/2026
+19,10,1.FC Köln,Bundesliga,2025/2026
+19,11,Mönchengladbach,Bundesliga,2025/2026
+19,12,Wolfsburg,Bundesliga,2025/2026
+19,13,Augsburg,Bundesliga,2025/2026
+19,14,Hamburg,Bundesliga,2025/2026
+19,15,Werder Bremen,Bundesliga,2025/2026
+19,16,Mainz,Bundesliga,2025/2026
+19,17,St. Pauli,Bundesliga,2025/2026
+19,18,Heidenheim,Bundesliga,2025/2026
+20,1,Bayern Munich,Bundesliga,2025/2026
+20,2,Dortmund,Bundesliga,2025/2026
+20,3,Hoffenheim,Bundesliga,2025/2026
+20,4,Stuttgart,Bundesliga,2025/2026
+20,5,Leverkusen,Bundesliga,2025/2026
+20,6,Leipzig,Bundesliga,2025/2026
+20,7,Freiburg,Bundesliga,2025/2026
+20,8,Frankfurt,Bundesliga,2025/2026
+20,9,Union Berlin,Bundesliga,2025/2026
+20,10,1.FC Köln,Bundesliga,2025/2026
+20,11,Augsburg,Bundesliga,2025/2026
+20,12,Mönchengladbach,Bundesliga,2025/2026
+20,13,Hamburg,Bundesliga,2025/2026
+20,14,Wolfsburg,Bundesliga,2025/2026
+20,15,Werder Bremen,Bundesliga,2025/2026
+20,16,Mainz,Bundesliga,2025/2026
+20,17,St. Pauli,Bundesliga,2025/2026
+20,18,Heidenheim,Bundesliga,2025/2026
+21,1,Bayern Munich,Bundesliga,2025/2026
+21,2,Dortmund,Bundesliga,2025/2026
+21,3,Hoffenheim,Bundesliga,2025/2026
+21,4,Leverkusen,Bundesliga,2025/2026
+21,5,Leipzig,Bundesliga,2025/2026
+21,6,Stuttgart,Bundesliga,2025/2026
+21,7,Freiburg,Bundesliga,2025/2026
+21,8,Frankfurt,Bundesliga,2025/2026
+21,9,Union Berlin,Bundesliga,2025/2026
+21,10,1.FC Köln,Bundesliga,2025/2026
+21,11,Mönchengladbach,Bundesliga,2025/2026
+21,12,Hamburg,Bundesliga,2025/2026
+21,13,Augsburg,Bundesliga,2025/2026
+21,14,Mainz,Bundesliga,2025/2026
+21,15,Wolfsburg,Bundesliga,2025/2026
+21,16,Werder Bremen,Bundesliga,2025/2026
+21,17,St. Pauli,Bundesliga,2025/2026
+21,18,Heidenheim,Bundesliga,2025/2026
+22,1,Bayern Munich,Bundesliga,2025/2026
+22,2,Dortmund,Bundesliga,2025/2026
+22,3,Hoffenheim,Bundesliga,2025/2026
+22,4,Leverkusen,Bundesliga,2025/2026
+22,5,Stuttgart,Bundesliga,2025/2026
+22,6,Leipzig,Bundesliga,2025/2026
+22,7,Frankfurt,Bundesliga,2025/2026
+22,8,Freiburg,Bundesliga,2025/2026
+22,9,Hamburg,Bundesliga,2025/2026
+22,10,Union Berlin,Bundesliga,2025/2026
+22,11,Augsburg,Bundesliga,2025/2026
+22,12,1.FC Köln,Bundesliga,2025/2026
+22,13,Mönchengladbach,Bundesliga,2025/2026
+22,14,Mainz,Bundesliga,2025/2026
+22,15,Wolfsburg,Bundesliga,2025/2026
+22,16,Werder Bremen,Bundesliga,2025/2026
+22,17,St. Pauli,Bundesliga,2025/2026
+22,18,Heidenheim,Bundesliga,2025/2026
+23,1,Bayern Munich,Bundesliga,2025/2026
+23,2,Dortmund,Bundesliga,2025/2026
+23,3,Hoffenheim,Bundesliga,2025/2026
+23,4,Stuttgart,Bundesliga,2025/2026
+23,5,Leverkusen,Bundesliga,2025/2026
+23,6,Leipzig,Bundesliga,2025/2026
+23,7,Freiburg,Bundesliga,2025/2026
+23,8,Frankfurt,Bundesliga,2025/2026
+23,9,Union Berlin,Bundesliga,2025/2026
+23,10,Augsburg,Bundesliga,2025/2026
+23,11,Hamburg,Bundesliga,2025/2026
+23,12,1.FC Köln,Bundesliga,2025/2026
+23,13,Mainz,Bundesliga,2025/2026
+23,14,Mönchengladbach,Bundesliga,2025/2026
+23,15,Wolfsburg,Bundesliga,2025/2026
+23,16,St. Pauli,Bundesliga,2025/2026
+23,17,Werder Bremen,Bundesliga,2025/2026
+23,18,Heidenheim,Bundesliga,2025/2026
+24,1,Bayern Munich,Bundesliga,2025/2026
+24,2,Dortmund,Bundesliga,2025/2026
+24,3,Hoffenheim,Bundesliga,2025/2026
+24,4,Stuttgart,Bundesliga,2025/2026
+24,5,Leipzig,Bundesliga,2025/2026
+24,6,Leverkusen,Bundesliga,2025/2026
+24,7,Frankfurt,Bundesliga,2025/2026
+24,8,Freiburg,Bundesliga,2025/2026
+24,9,Augsburg,Bundesliga,2025/2026
+24,10,Union Berlin,Bundesliga,2025/2026
+24,11,Hamburg,Bundesliga,2025/2026
+24,12,Mönchengladbach,Bundesliga,2025/2026
+24,13,1.FC Köln,Bundesliga,2025/2026
+24,14,Mainz,Bundesliga,2025/2026
+24,15,St. Pauli,Bundesliga,2025/2026
+24,16,Werder Bremen,Bundesliga,2025/2026
+24,17,Wolfsburg,Bundesliga,2025/2026
+24,18,Heidenheim,Bundesliga,2025/2026
+25,1,Bayern Munich,Bundesliga,2025/2026
+25,2,Dortmund,Bundesliga,2025/2026
+25,3,Hoffenheim,Bundesliga,2025/2026
+25,4,Stuttgart,Bundesliga,2025/2026
+25,5,Leipzig,Bundesliga,2025/2026
+25,6,Leverkusen,Bundesliga,2025/2026
+25,7,Frankfurt,Bundesliga,2025/2026
+25,8,Freiburg,Bundesliga,2025/2026
+25,9,Augsburg,Bundesliga,2025/2026
+25,10,Hamburg,Bundesliga,2025/2026
+25,11,Union Berlin,Bundesliga,2025/2026
+25,12,Mönchengladbach,Bundesliga,2025/2026
+25,13,Werder Bremen,Bundesliga,2025/2026
+25,14,1.FC Köln,Bundesliga,2025/2026
+25,15,Mainz,Bundesliga,2025/2026
+25,16,St. Pauli,Bundesliga,2025/2026
+25,17,Wolfsburg,Bundesliga,2025/2026
+25,18,Heidenheim,Bundesliga,2025/2026
+26,1,Bayern Munich,Bundesliga,2025/2026
+26,2,Dortmund,Bundesliga,2025/2026
+26,3,Hoffenheim,Bundesliga,2025/2026
+26,4,Stuttgart,Bundesliga,2025/2026
+26,5,Leipzig,Bundesliga,2025/2026
+26,6,Leverkusen,Bundesliga,2025/2026
+26,7,Frankfurt,Bundesliga,2025/2026
+26,8,Freiburg,Bundesliga,2025/2026
+26,9,Union Berlin,Bundesliga,2025/2026
+26,10,Augsburg,Bundesliga,2025/2026
+26,11,Hamburg,Bundesliga,2025/2026
+26,12,Mönchengladbach,Bundesliga,2025/2026
+26,13,Mainz,Bundesliga,2025/2026
+26,14,1.FC Köln,Bundesliga,2025/2026
+26,15,Werder Bremen,Bundesliga,2025/2026
+26,16,St. Pauli,Bundesliga,2025/2026
+26,17,Wolfsburg,Bundesliga,2025/2026
+26,18,Heidenheim,Bundesliga,2025/2026
+27,1,Bayern Munich,Bundesliga,2025/2026
+27,2,Dortmund,Bundesliga,2025/2026
+27,3,Stuttgart,Bundesliga,2025/2026
+27,4,Leipzig,Bundesliga,2025/2026
+27,5,Hoffenheim,Bundesliga,2025/2026
+27,6,Leverkusen,Bundesliga,2025/2026
+27,7,Frankfurt,Bundesliga,2025/2026
+27,8,Freiburg,Bundesliga,2025/2026
+27,9,Union Berlin,Bundesliga,2025/2026
+27,10,Augsburg,Bundesliga,2025/2026
+27,11,Mainz,Bundesliga,2025/2026
+27,12,Hamburg,Bundesliga,2025/2026
+27,13,Mönchengladbach,Bundesliga,2025/2026
+27,14,Werder Bremen,Bundesliga,2025/2026
+27,15,1.FC Köln,Bundesliga,2025/2026
+27,16,St. Pauli,Bundesliga,2025/2026
+27,17,Wolfsburg,Bundesliga,2025/2026
+27,18,Heidenheim,Bundesliga,2025/2026
+28,1,Bayern Munich,Bundesliga,2025/2026
+28,2,Dortmund,Bundesliga,2025/2026
+28,3,Leipzig,Bundesliga,2025/2026
+28,4,Stuttgart,Bundesliga,2025/2026
+28,5,Hoffenheim,Bundesliga,2025/2026
+28,6,Leverkusen,Bundesliga,2025/2026
+28,7,Frankfurt,Bundesliga,2025/2026
+28,8,Freiburg,Bundesliga,2025/2026
+28,9,Mainz,Bundesliga,2025/2026
+28,10,Union Berlin,Bundesliga,2025/2026
+28,11,Augsburg,Bundesliga,2025/2026
+28,12,Hamburg,Bundesliga,2025/2026
+28,13,Mönchengladbach,Bundesliga,2025/2026
+28,14,Werder Bremen,Bundesliga,2025/2026
+28,15,1.FC Köln,Bundesliga,2025/2026
+28,16,St. Pauli,Bundesliga,2025/2026
+28,17,Wolfsburg,Bundesliga,2025/2026
+28,18,Heidenheim,Bundesliga,2025/2026
+29,1,Bayern Munich,Bundesliga,2025/2026
+29,2,Dortmund,Bundesliga,2025/2026
+29,3,Stuttgart,Bundesliga,2025/2026
+29,4,Leipzig,Bundesliga,2025/2026
+29,5,Leverkusen,Bundesliga,2025/2026
+29,6,Hoffenheim,Bundesliga,2025/2026
+29,7,Frankfurt,Bundesliga,2025/2026
+29,8,Freiburg,Bundesliga,2025/2026
+29,9,Mainz,Bundesliga,2025/2026
+29,10,Augsburg,Bundesliga,2025/2026
+29,11,Union Berlin,Bundesliga,2025/2026
+29,12,Hamburg,Bundesliga,2025/2026
+29,13,1.FC Köln,Bundesliga,2025/2026
+29,14,Mönchengladbach,Bundesliga,2025/2026
+29,15,Werder Bremen,Bundesliga,2025/2026
+29,16,St. Pauli,Bundesliga,2025/2026
+29,17,Wolfsburg,Bundesliga,2025/2026
+29,18,Heidenheim,Bundesliga,2025/2026
+30,1,Bayern Munich,Bundesliga,2025/2026
+30,2,Dortmund,Bundesliga,2025/2026
+30,3,Leipzig,Bundesliga,2025/2026
+30,4,Stuttgart,Bundesliga,2025/2026
+30,5,Hoffenheim,Bundesliga,2025/2026
+30,6,Leverkusen,Bundesliga,2025/2026
+30,7,Freiburg,Bundesliga,2025/2026
+30,8,Frankfurt,Bundesliga,2025/2026
+30,9,Augsburg,Bundesliga,2025/2026
+30,10,Mainz,Bundesliga,2025/2026
+30,11,Union Berlin,Bundesliga,2025/2026
+30,12,1.FC Köln,Bundesliga,2025/2026
+30,13,Mönchengladbach,Bundesliga,2025/2026
+30,14,Hamburg,Bundesliga,2025/2026
+30,15,Werder Bremen,Bundesliga,2025/2026
+30,16,St. Pauli,Bundesliga,2025/2026
+30,17,Wolfsburg,Bundesliga,2025/2026
+30,18,Heidenheim,Bundesliga,2025/2026
+31,1,Bayern Munich,Bundesliga,2025/2026
+31,2,Dortmund,Bundesliga,2025/2026
+31,3,Leipzig,Bundesliga,2025/2026
+31,4,Stuttgart,Bundesliga,2025/2026
+31,5,Hoffenheim,Bundesliga,2025/2026
+31,6,Leverkusen,Bundesliga,2025/2026
+31,7,Frankfurt,Bundesliga,2025/2026
+31,8,Freiburg,Bundesliga,2025/2026
+31,9,Augsburg,Bundesliga,2025/2026
+31,10,Mainz,Bundesliga,2025/2026
+31,11,Mönchengladbach,Bundesliga,2025/2026
+31,12,Werder Bremen,Bundesliga,2025/2026
+31,13,Union Berlin,Bundesliga,2025/2026
+31,14,1.FC Köln,Bundesliga,2025/2026
+31,15,Hamburg,Bundesliga,2025/2026
+31,16,St. Pauli,Bundesliga,2025/2026
+31,17,Wolfsburg,Bundesliga,2025/2026
+31,18,Heidenheim,Bundesliga,2025/2026
+32,1,Bayern Munich,Bundesliga,2025/2026
+32,2,Dortmund,Bundesliga,2025/2026
+32,3,Leipzig,Bundesliga,2025/2026
+32,4,Leverkusen,Bundesliga,2025/2026
+32,5,Stuttgart,Bundesliga,2025/2026
+32,6,Hoffenheim,Bundesliga,2025/2026
+32,7,Freiburg,Bundesliga,2025/2026
+32,8,Frankfurt,Bundesliga,2025/2026
+32,9,Augsburg,Bundesliga,2025/2026
+32,10,Mainz,Bundesliga,2025/2026
+32,11,Mönchengladbach,Bundesliga,2025/2026
+32,12,Hamburg,Bundesliga,2025/2026
+32,13,Union Berlin,Bundesliga,2025/2026
+32,14,1.FC Köln,Bundesliga,2025/2026
+32,15,Werder Bremen,Bundesliga,2025/2026
+32,16,Wolfsburg,Bundesliga,2025/2026
+32,17,St. Pauli,Bundesliga,2025/2026
+32,18,Heidenheim,Bundesliga,2025/2026
+33,1,Bayern Munich,Bundesliga,2025/2026
+33,2,Dortmund,Bundesliga,2025/2026
+33,3,Leipzig,Bundesliga,2025/2026
+33,4,Stuttgart,Bundesliga,2025/2026
+33,5,Hoffenheim,Bundesliga,2025/2026
+33,6,Leverkusen,Bundesliga,2025/2026
+33,7,Freiburg,Bundesliga,2025/2026
+33,8,Frankfurt,Bundesliga,2025/2026
+33,9,Augsburg,Bundesliga,2025/2026
+33,10,Mainz,Bundesliga,2025/2026
+33,11,Hamburg,Bundesliga,2025/2026
+33,12,Union Berlin,Bundesliga,2025/2026
+33,13,Mönchengladbach,Bundesliga,2025/2026
+33,14,1.FC Köln,Bundesliga,2025/2026
+33,15,Werder Bremen,Bundesliga,2025/2026
+33,16,Wolfsburg,Bundesliga,2025/2026
+33,17,Heidenheim,Bundesliga,2025/2026
+33,18,St. Pauli,Bundesliga,2025/2026
+34,1,Bayern Munich,Bundesliga,2025/2026
+34,2,Dortmund,Bundesliga,2025/2026
+34,3,Leipzig,Bundesliga,2025/2026
+34,4,Stuttgart,Bundesliga,2025/2026
+34,5,Hoffenheim,Bundesliga,2025/2026
+34,6,Leverkusen,Bundesliga,2025/2026
+34,7,Freiburg,Bundesliga,2025/2026
+34,8,Frankfurt,Bundesliga,2025/2026
+34,9,Augsburg,Bundesliga,2025/2026
+34,10,Mainz,Bundesliga,2025/2026
+34,11,Union Berlin,Bundesliga,2025/2026
+34,12,Mönchengladbach,Bundesliga,2025/2026
+34,13,Hamburg,Bundesliga,2025/2026
+34,14,1.FC Köln,Bundesliga,2025/2026
+34,15,Werder Bremen,Bundesliga,2025/2026
+34,16,Wolfsburg,Bundesliga,2025/2026
+34,17,Heidenheim,Bundesliga,2025/2026
+34,18,St. Pauli,Bundesliga,2025/2026
+1,1,Monaco,Ligue 1,2025/2026
+1,2,PSG,Ligue 1,2025/2026
+1,3,Lyon,Ligue 1,2025/2026
+1,4,R. Strasbourg,Ligue 1,2025/2026
+1,5,Toulouse,Ligue 1,2025/2026
+1,6,AJ Auxerre,Ligue 1,2025/2026
+1,7,Stade Rennais,Ligue 1,2025/2026
+1,8,Angers SCO,Ligue 1,2025/2026
+1,9,Lille,Ligue 1,2025/2026
+1,10,Stade Brestois,Ligue 1,2025/2026
+1,11,Marseille,Ligue 1,2025/2026
+1,12,Nice,Ligue 1,2025/2026
+1,13,Lens,Ligue 1,2025/2026
+1,14,FC Nantes,Ligue 1,2025/2026
+1,15,FC Lorient,Ligue 1,2025/2026
+1,16,Paris FC,Ligue 1,2025/2026
+1,17,FC Metz,Ligue 1,2025/2026
+1,18,Le Havre AC,Ligue 1,2025/2026
+2,1,Lyon,Ligue 1,2025/2026
+2,2,Toulouse,Ligue 1,2025/2026
+2,3,PSG,Ligue 1,2025/2026
+2,4,R. Strasbourg,Ligue 1,2025/2026
+2,5,Lille,Ligue 1,2025/2026
+2,6,FC Lorient,Ligue 1,2025/2026
+2,7,Marseille,Ligue 1,2025/2026
+2,8,Nice,Ligue 1,2025/2026
+2,9,Monaco,Ligue 1,2025/2026
+2,10,Lens,Ligue 1,2025/2026
+2,11,Angers SCO,Ligue 1,2025/2026
+2,12,AJ Auxerre,Ligue 1,2025/2026
+2,13,Stade Rennais,Ligue 1,2025/2026
+2,14,Stade Brestois,Ligue 1,2025/2026
+2,15,FC Nantes,Ligue 1,2025/2026
+2,16,Le Havre AC,Ligue 1,2025/2026
+2,17,Paris FC,Ligue 1,2025/2026
+2,18,FC Metz,Ligue 1,2025/2026
+3,1,PSG,Ligue 1,2025/2026
+3,2,Lyon,Ligue 1,2025/2026
+3,3,Lille,Ligue 1,2025/2026
+3,4,Monaco,Ligue 1,2025/2026
+3,5,Lens,Ligue 1,2025/2026
+3,6,R. Strasbourg,Ligue 1,2025/2026
+3,7,Toulouse,Ligue 1,2025/2026
+3,8,Angers SCO,Ligue 1,2025/2026
+3,9,Stade Rennais,Ligue 1,2025/2026
+3,10,Marseille,Ligue 1,2025/2026
+3,11,Le Havre AC,Ligue 1,2025/2026
+3,12,FC Nantes,Ligue 1,2025/2026
+3,13,Nice,Ligue 1,2025/2026
+3,14,AJ Auxerre,Ligue 1,2025/2026
+3,15,FC Lorient,Ligue 1,2025/2026
+3,16,Paris FC,Ligue 1,2025/2026
+3,17,Stade Brestois,Ligue 1,2025/2026
+3,18,FC Metz,Ligue 1,2025/2026
+4,1,PSG,Ligue 1,2025/2026
+4,2,Lille,Ligue 1,2025/2026
+4,3,Monaco,Ligue 1,2025/2026
+4,4,Lyon,Ligue 1,2025/2026
+4,5,R. Strasbourg,Ligue 1,2025/2026
+4,6,Stade Rennais,Ligue 1,2025/2026
+4,7,Marseille,Ligue 1,2025/2026
+4,8,Lens,Ligue 1,2025/2026
+4,9,Nice,Ligue 1,2025/2026
+4,10,Toulouse,Ligue 1,2025/2026
+4,11,Paris FC,Ligue 1,2025/2026
+4,12,Angers SCO,Ligue 1,2025/2026
+4,13,FC Nantes,Ligue 1,2025/2026
+4,14,Le Havre AC,Ligue 1,2025/2026
+4,15,AJ Auxerre,Ligue 1,2025/2026
+4,16,FC Lorient,Ligue 1,2025/2026
+4,17,Stade Brestois,Ligue 1,2025/2026
+4,18,FC Metz,Ligue 1,2025/2026
+5,1,Monaco,Ligue 1,2025/2026
+5,2,PSG,Ligue 1,2025/2026
+5,3,Lyon,Ligue 1,2025/2026
+5,4,R. Strasbourg,Ligue 1,2025/2026
+5,5,Lille,Ligue 1,2025/2026
+5,6,Marseille,Ligue 1,2025/2026
+5,7,Lens,Ligue 1,2025/2026
+5,8,Stade Rennais,Ligue 1,2025/2026
+5,9,Toulouse,Ligue 1,2025/2026
+5,10,AJ Auxerre,Ligue 1,2025/2026
+5,11,Nice,Ligue 1,2025/2026
+5,12,Paris FC,Ligue 1,2025/2026
+5,13,Angers SCO,Ligue 1,2025/2026
+5,14,Le Havre AC,Ligue 1,2025/2026
+5,15,Stade Brestois,Ligue 1,2025/2026
+5,16,FC Nantes,Ligue 1,2025/2026
+5,17,FC Lorient,Ligue 1,2025/2026
+5,18,FC Metz,Ligue 1,2025/2026
+6,1,PSG,Ligue 1,2025/2026
+6,2,Lyon,Ligue 1,2025/2026
+6,3,Marseille,Ligue 1,2025/2026
+6,4,Monaco,Ligue 1,2025/2026
+6,5,R. Strasbourg,Ligue 1,2025/2026
+6,6,Lille,Ligue 1,2025/2026
+6,7,Lens,Ligue 1,2025/2026
+6,8,Stade Rennais,Ligue 1,2025/2026
+6,9,Stade Brestois,Ligue 1,2025/2026
+6,10,Toulouse,Ligue 1,2025/2026
+6,11,Paris FC,Ligue 1,2025/2026
+6,12,Nice,Ligue 1,2025/2026
+6,13,FC Lorient,Ligue 1,2025/2026
+6,14,AJ Auxerre,Ligue 1,2025/2026
+6,15,FC Nantes,Ligue 1,2025/2026
+6,16,Le Havre AC,Ligue 1,2025/2026
+6,17,Angers SCO,Ligue 1,2025/2026
+6,18,FC Metz,Ligue 1,2025/2026
+7,1,PSG,Ligue 1,2025/2026
+7,2,Marseille,Ligue 1,2025/2026
+7,3,R. Strasbourg,Ligue 1,2025/2026
+7,4,Lyon,Ligue 1,2025/2026
+7,5,Monaco,Ligue 1,2025/2026
+7,6,Lens,Ligue 1,2025/2026
+7,7,Lille,Ligue 1,2025/2026
+7,8,Toulouse,Ligue 1,2025/2026
+7,9,Stade Rennais,Ligue 1,2025/2026
+7,10,Paris FC,Ligue 1,2025/2026
+7,11,Stade Brestois,Ligue 1,2025/2026
+7,12,Nice,Ligue 1,2025/2026
+7,13,FC Lorient,Ligue 1,2025/2026
+7,14,FC Nantes,Ligue 1,2025/2026
+7,15,Le Havre AC,Ligue 1,2025/2026
+7,16,AJ Auxerre,Ligue 1,2025/2026
+7,17,Angers SCO,Ligue 1,2025/2026
+7,18,FC Metz,Ligue 1,2025/2026
+8,1,Marseille,Ligue 1,2025/2026
+8,2,PSG,Ligue 1,2025/2026
+8,3,R. Strasbourg,Ligue 1,2025/2026
+8,4,Lens,Ligue 1,2025/2026
+8,5,Lyon,Ligue 1,2025/2026
+8,6,Lille,Ligue 1,2025/2026
+8,7,Monaco,Ligue 1,2025/2026
+8,8,Toulouse,Ligue 1,2025/2026
+8,9,Stade Rennais,Ligue 1,2025/2026
+8,10,Nice,Ligue 1,2025/2026
+8,11,Paris FC,Ligue 1,2025/2026
+8,12,Stade Brestois,Ligue 1,2025/2026
+8,13,FC Lorient,Ligue 1,2025/2026
+8,14,AJ Auxerre,Ligue 1,2025/2026
+8,15,FC Nantes,Ligue 1,2025/2026
+8,16,Le Havre AC,Ligue 1,2025/2026
+8,17,Angers SCO,Ligue 1,2025/2026
+8,18,FC Metz,Ligue 1,2025/2026
+9,1,PSG,Ligue 1,2025/2026
+9,2,Lens,Ligue 1,2025/2026
+9,3,Marseille,Ligue 1,2025/2026
+9,4,Lyon,Ligue 1,2025/2026
+9,5,Lille,Ligue 1,2025/2026
+9,6,Monaco,Ligue 1,2025/2026
+9,7,R. Strasbourg,Ligue 1,2025/2026
+9,8,Nice,Ligue 1,2025/2026
+9,9,Toulouse,Ligue 1,2025/2026
+9,10,Stade Rennais,Ligue 1,2025/2026
+9,11,Paris FC,Ligue 1,2025/2026
+9,12,Stade Brestois,Ligue 1,2025/2026
+9,13,FC Nantes,Ligue 1,2025/2026
+9,14,Le Havre AC,Ligue 1,2025/2026
+9,15,Angers SCO,Ligue 1,2025/2026
+9,16,FC Lorient,Ligue 1,2025/2026
+9,17,AJ Auxerre,Ligue 1,2025/2026
+9,18,FC Metz,Ligue 1,2025/2026
+10,1,PSG,Ligue 1,2025/2026
+10,2,Monaco,Ligue 1,2025/2026
+10,3,Marseille,Ligue 1,2025/2026
+10,4,R. Strasbourg,Ligue 1,2025/2026
+10,5,Lyon,Ligue 1,2025/2026
+10,6,Lens,Ligue 1,2025/2026
+10,7,Lille,Ligue 1,2025/2026
+10,8,Nice,Ligue 1,2025/2026
+10,9,Toulouse,Ligue 1,2025/2026
+10,10,Stade Rennais,Ligue 1,2025/2026
+10,11,Le Havre AC,Ligue 1,2025/2026
+10,12,Paris FC,Ligue 1,2025/2026
+10,13,Angers SCO,Ligue 1,2025/2026
+10,14,Stade Brestois,Ligue 1,2025/2026
+10,15,FC Nantes,Ligue 1,2025/2026
+10,16,FC Lorient,Ligue 1,2025/2026
+10,17,AJ Auxerre,Ligue 1,2025/2026
+10,18,FC Metz,Ligue 1,2025/2026
+11,1,PSG,Ligue 1,2025/2026
+11,2,Marseille,Ligue 1,2025/2026
+11,3,Lens,Ligue 1,2025/2026
+11,4,Lille,Ligue 1,2025/2026
+11,5,Monaco,Ligue 1,2025/2026
+11,6,Lyon,Ligue 1,2025/2026
+11,7,R. Strasbourg,Ligue 1,2025/2026
+11,8,Nice,Ligue 1,2025/2026
+11,9,Toulouse,Ligue 1,2025/2026
+11,10,Stade Rennais,Ligue 1,2025/2026
+11,11,Paris FC,Ligue 1,2025/2026
+11,12,Le Havre AC,Ligue 1,2025/2026
+11,13,Stade Brestois,Ligue 1,2025/2026
+11,14,Angers SCO,Ligue 1,2025/2026
+11,15,FC Nantes,Ligue 1,2025/2026
+11,16,FC Lorient,Ligue 1,2025/2026
+11,17,FC Metz,Ligue 1,2025/2026
+11,18,AJ Auxerre,Ligue 1,2025/2026
+12,1,PSG,Ligue 1,2025/2026
+12,2,Marseille,Ligue 1,2025/2026
+12,3,Lens,Ligue 1,2025/2026
+12,4,R. Strasbourg,Ligue 1,2025/2026
+12,5,Lille,Ligue 1,2025/2026
+12,6,Lyon,Ligue 1,2025/2026
+12,7,Monaco,Ligue 1,2025/2026
+12,8,Stade Rennais,Ligue 1,2025/2026
+12,9,Nice,Ligue 1,2025/2026
+12,10,Toulouse,Ligue 1,2025/2026
+12,11,Paris FC,Ligue 1,2025/2026
+12,12,Le Havre AC,Ligue 1,2025/2026
+12,13,Angers SCO,Ligue 1,2025/2026
+12,14,FC Metz,Ligue 1,2025/2026
+12,15,Stade Brestois,Ligue 1,2025/2026
+12,16,FC Nantes,Ligue 1,2025/2026
+12,17,FC Lorient,Ligue 1,2025/2026
+12,18,AJ Auxerre,Ligue 1,2025/2026
+13,1,PSG,Ligue 1,2025/2026
+13,2,Marseille,Ligue 1,2025/2026
+13,3,Lens,Ligue 1,2025/2026
+13,4,Lille,Ligue 1,2025/2026
+13,5,R. Strasbourg,Ligue 1,2025/2026
+13,6,Stade Rennais,Ligue 1,2025/2026
+13,7,Lyon,Ligue 1,2025/2026
+13,8,Monaco,Ligue 1,2025/2026
+13,9,Nice,Ligue 1,2025/2026
+13,10,Toulouse,Ligue 1,2025/2026
+13,11,Angers SCO,Ligue 1,2025/2026
+13,12,Paris FC,Ligue 1,2025/2026
+13,13,Le Havre AC,Ligue 1,2025/2026
+13,14,Stade Brestois,Ligue 1,2025/2026
+13,15,FC Nantes,Ligue 1,2025/2026
+13,16,FC Lorient,Ligue 1,2025/2026
+13,17,FC Metz,Ligue 1,2025/2026
+13,18,AJ Auxerre,Ligue 1,2025/2026
+14,1,Lens,Ligue 1,2025/2026
+14,2,PSG,Ligue 1,2025/2026
+14,3,Marseille,Ligue 1,2025/2026
+14,4,Lille,Ligue 1,2025/2026
+14,5,Stade Rennais,Ligue 1,2025/2026
+14,6,Lyon,Ligue 1,2025/2026
+14,7,Monaco,Ligue 1,2025/2026
+14,8,R. Strasbourg,Ligue 1,2025/2026
+14,9,Toulouse,Ligue 1,2025/2026
+14,10,Nice,Ligue 1,2025/2026
+14,11,Stade Brestois,Ligue 1,2025/2026
+14,12,Angers SCO,Ligue 1,2025/2026
+14,13,Paris FC,Ligue 1,2025/2026
+14,14,Le Havre AC,Ligue 1,2025/2026
+14,15,FC Lorient,Ligue 1,2025/2026
+14,16,FC Nantes,Ligue 1,2025/2026
+14,17,FC Metz,Ligue 1,2025/2026
+14,18,AJ Auxerre,Ligue 1,2025/2026
+15,1,Lens,Ligue 1,2025/2026
+15,2,PSG,Ligue 1,2025/2026
+15,3,Marseille,Ligue 1,2025/2026
+15,4,Lille,Ligue 1,2025/2026
+15,5,Lyon,Ligue 1,2025/2026
+15,6,Stade Rennais,Ligue 1,2025/2026
+15,7,Monaco,Ligue 1,2025/2026
+15,8,R. Strasbourg,Ligue 1,2025/2026
+15,9,Toulouse,Ligue 1,2025/2026
+15,10,Stade Brestois,Ligue 1,2025/2026
+15,11,Angers SCO,Ligue 1,2025/2026
+15,12,Nice,Ligue 1,2025/2026
+15,13,FC Lorient,Ligue 1,2025/2026
+15,14,Paris FC,Ligue 1,2025/2026
+15,15,Le Havre AC,Ligue 1,2025/2026
+15,16,AJ Auxerre,Ligue 1,2025/2026
+15,17,FC Nantes,Ligue 1,2025/2026
+15,18,FC Metz,Ligue 1,2025/2026
+16,1,Lens,Ligue 1,2025/2026
+16,2,PSG,Ligue 1,2025/2026
+16,3,Marseille,Ligue 1,2025/2026
+16,4,Lille,Ligue 1,2025/2026
+16,5,Lyon,Ligue 1,2025/2026
+16,6,Stade Rennais,Ligue 1,2025/2026
+16,7,Toulouse,Ligue 1,2025/2026
+16,8,R. Strasbourg,Ligue 1,2025/2026
+16,9,Monaco,Ligue 1,2025/2026
+16,10,Angers SCO,Ligue 1,2025/2026
+16,11,Stade Brestois,Ligue 1,2025/2026
+16,12,FC Lorient,Ligue 1,2025/2026
+16,13,Nice,Ligue 1,2025/2026
+16,14,Paris FC,Ligue 1,2025/2026
+16,15,Le Havre AC,Ligue 1,2025/2026
+16,16,AJ Auxerre,Ligue 1,2025/2026
+16,17,FC Nantes,Ligue 1,2025/2026
+16,18,FC Metz,Ligue 1,2025/2026
+17,1,Lens,Ligue 1,2025/2026
+17,2,PSG,Ligue 1,2025/2026
+17,3,Marseille,Ligue 1,2025/2026
+17,4,Lille,Ligue 1,2025/2026
+17,5,Lyon,Ligue 1,2025/2026
+17,6,Stade Rennais,Ligue 1,2025/2026
+17,7,R. Strasbourg,Ligue 1,2025/2026
+17,8,Toulouse,Ligue 1,2025/2026
+17,9,Monaco,Ligue 1,2025/2026
+17,10,Angers SCO,Ligue 1,2025/2026
+17,11,Stade Brestois,Ligue 1,2025/2026
+17,12,FC Lorient,Ligue 1,2025/2026
+17,13,Le Havre AC,Ligue 1,2025/2026
+17,14,Nice,Ligue 1,2025/2026
+17,15,Paris FC,Ligue 1,2025/2026
+17,16,FC Nantes,Ligue 1,2025/2026
+17,17,AJ Auxerre,Ligue 1,2025/2026
+17,18,FC Metz,Ligue 1,2025/2026
+18,1,Lens,Ligue 1,2025/2026
+18,2,PSG,Ligue 1,2025/2026
+18,3,Marseille,Ligue 1,2025/2026
+18,4,Lyon,Ligue 1,2025/2026
+18,5,Lille,Ligue 1,2025/2026
+18,6,Stade Rennais,Ligue 1,2025/2026
+18,7,R. Strasbourg,Ligue 1,2025/2026
+18,8,Toulouse,Ligue 1,2025/2026
+18,9,Monaco,Ligue 1,2025/2026
+18,10,Stade Brestois,Ligue 1,2025/2026
+18,11,Angers SCO,Ligue 1,2025/2026
+18,12,FC Lorient,Ligue 1,2025/2026
+18,13,Le Havre AC,Ligue 1,2025/2026
+18,14,Paris FC,Ligue 1,2025/2026
+18,15,Nice,Ligue 1,2025/2026
+18,16,FC Nantes,Ligue 1,2025/2026
+18,17,AJ Auxerre,Ligue 1,2025/2026
+18,18,FC Metz,Ligue 1,2025/2026
+19,1,PSG,Ligue 1,2025/2026
+19,2,Lens,Ligue 1,2025/2026
+19,3,Marseille,Ligue 1,2025/2026
+19,4,Lyon,Ligue 1,2025/2026
+19,5,Lille,Ligue 1,2025/2026
+19,6,Stade Rennais,Ligue 1,2025/2026
+19,7,R. Strasbourg,Ligue 1,2025/2026
+19,8,Toulouse,Ligue 1,2025/2026
+19,9,FC Lorient,Ligue 1,2025/2026
+19,10,Monaco,Ligue 1,2025/2026
+19,11,Angers SCO,Ligue 1,2025/2026
+19,12,Stade Brestois,Ligue 1,2025/2026
+19,13,Nice,Ligue 1,2025/2026
+19,14,Le Havre AC,Ligue 1,2025/2026
+19,15,Paris FC,Ligue 1,2025/2026
+19,16,FC Nantes,Ligue 1,2025/2026
+19,17,AJ Auxerre,Ligue 1,2025/2026
+19,18,FC Metz,Ligue 1,2025/2026
+20,1,PSG,Ligue 1,2025/2026
+20,2,Lens,Ligue 1,2025/2026
+20,3,Marseille,Ligue 1,2025/2026
+20,4,Lyon,Ligue 1,2025/2026
+20,5,Lille,Ligue 1,2025/2026
+20,6,Stade Rennais,Ligue 1,2025/2026
+20,7,Toulouse,Ligue 1,2025/2026
+20,8,R. Strasbourg,Ligue 1,2025/2026
+20,9,FC Lorient,Ligue 1,2025/2026
+20,10,Monaco,Ligue 1,2025/2026
+20,11,Angers SCO,Ligue 1,2025/2026
+20,12,Stade Brestois,Ligue 1,2025/2026
+20,13,Nice,Ligue 1,2025/2026
+20,14,Paris FC,Ligue 1,2025/2026
+20,15,Le Havre AC,Ligue 1,2025/2026
+20,16,FC Nantes,Ligue 1,2025/2026
+20,17,AJ Auxerre,Ligue 1,2025/2026
+20,18,FC Metz,Ligue 1,2025/2026
+21,1,PSG,Ligue 1,2025/2026
+21,2,Lens,Ligue 1,2025/2026
+21,3,Lyon,Ligue 1,2025/2026
+21,4,Marseille,Ligue 1,2025/2026
+21,5,Lille,Ligue 1,2025/2026
+21,6,Stade Rennais,Ligue 1,2025/2026
+21,7,Toulouse,Ligue 1,2025/2026
+21,8,R. Strasbourg,Ligue 1,2025/2026
+21,9,Angers SCO,Ligue 1,2025/2026
+21,10,Monaco,Ligue 1,2025/2026
+21,11,FC Lorient,Ligue 1,2025/2026
+21,12,Stade Brestois,Ligue 1,2025/2026
+21,13,Le Havre AC,Ligue 1,2025/2026
+21,14,Nice,Ligue 1,2025/2026
+21,15,Paris FC,Ligue 1,2025/2026
+21,16,AJ Auxerre,Ligue 1,2025/2026
+21,17,FC Nantes,Ligue 1,2025/2026
+21,18,FC Metz,Ligue 1,2025/2026
+22,1,Lens,Ligue 1,2025/2026
+22,2,PSG,Ligue 1,2025/2026
+22,3,Lyon,Ligue 1,2025/2026
+22,4,Marseille,Ligue 1,2025/2026
+22,5,Lille,Ligue 1,2025/2026
+22,6,Stade Rennais,Ligue 1,2025/2026
+22,7,R. Strasbourg,Ligue 1,2025/2026
+22,8,Monaco,Ligue 1,2025/2026
+22,9,FC Lorient,Ligue 1,2025/2026
+22,10,Toulouse,Ligue 1,2025/2026
+22,11,Angers SCO,Ligue 1,2025/2026
+22,12,Stade Brestois,Ligue 1,2025/2026
+22,13,Le Havre AC,Ligue 1,2025/2026
+22,14,Nice,Ligue 1,2025/2026
+22,15,Paris FC,Ligue 1,2025/2026
+22,16,AJ Auxerre,Ligue 1,2025/2026
+22,17,FC Nantes,Ligue 1,2025/2026
+22,18,FC Metz,Ligue 1,2025/2026
+23,1,PSG,Ligue 1,2025/2026
+23,2,Lens,Ligue 1,2025/2026
+23,3,Lyon,Ligue 1,2025/2026
+23,4,Marseille,Ligue 1,2025/2026
+23,5,Lille,Ligue 1,2025/2026
+23,6,Stade Rennais,Ligue 1,2025/2026
+23,7,R. Strasbourg,Ligue 1,2025/2026
+23,8,Monaco,Ligue 1,2025/2026
+23,9,FC Lorient,Ligue 1,2025/2026
+23,10,Toulouse,Ligue 1,2025/2026
+23,11,Stade Brestois,Ligue 1,2025/2026
+23,12,Angers SCO,Ligue 1,2025/2026
+23,13,Le Havre AC,Ligue 1,2025/2026
+23,14,Nice,Ligue 1,2025/2026
+23,15,Paris FC,Ligue 1,2025/2026
+23,16,AJ Auxerre,Ligue 1,2025/2026
+23,17,FC Nantes,Ligue 1,2025/2026
+23,18,FC Metz,Ligue 1,2025/2026
+24,1,PSG,Ligue 1,2025/2026
+24,2,Lens,Ligue 1,2025/2026
+24,3,Lyon,Ligue 1,2025/2026
+24,4,Marseille,Ligue 1,2025/2026
+24,5,Lille,Ligue 1,2025/2026
+24,6,Stade Rennais,Ligue 1,2025/2026
+24,7,Monaco,Ligue 1,2025/2026
+24,8,R. Strasbourg,Ligue 1,2025/2026
+24,9,Stade Brestois,Ligue 1,2025/2026
+24,10,FC Lorient,Ligue 1,2025/2026
+24,11,Toulouse,Ligue 1,2025/2026
+24,12,Angers SCO,Ligue 1,2025/2026
+24,13,Le Havre AC,Ligue 1,2025/2026
+24,14,Paris FC,Ligue 1,2025/2026
+24,15,Nice,Ligue 1,2025/2026
+24,16,AJ Auxerre,Ligue 1,2025/2026
+24,17,FC Nantes,Ligue 1,2025/2026
+24,18,FC Metz,Ligue 1,2025/2026
+25,1,PSG,Ligue 1,2025/2026
+25,2,Lens,Ligue 1,2025/2026
+25,3,Marseille,Ligue 1,2025/2026
+25,4,Lyon,Ligue 1,2025/2026
+25,5,Stade Rennais,Ligue 1,2025/2026
+25,6,Lille,Ligue 1,2025/2026
+25,7,Monaco,Ligue 1,2025/2026
+25,8,R. Strasbourg,Ligue 1,2025/2026
+25,9,Stade Brestois,Ligue 1,2025/2026
+25,10,FC Lorient,Ligue 1,2025/2026
+25,11,Angers SCO,Ligue 1,2025/2026
+25,12,Toulouse,Ligue 1,2025/2026
+25,13,Paris FC,Ligue 1,2025/2026
+25,14,Le Havre AC,Ligue 1,2025/2026
+25,15,Nice,Ligue 1,2025/2026
+25,16,AJ Auxerre,Ligue 1,2025/2026
+25,17,FC Nantes,Ligue 1,2025/2026
+25,18,FC Metz,Ligue 1,2025/2026
+26,1,PSG,Ligue 1,2025/2026
+26,2,Lens,Ligue 1,2025/2026
+26,3,Marseille,Ligue 1,2025/2026
+26,4,Lyon,Ligue 1,2025/2026
+26,5,Lille,Ligue 1,2025/2026
+26,6,Monaco,Ligue 1,2025/2026
+26,7,Stade Rennais,Ligue 1,2025/2026
+26,8,R. Strasbourg,Ligue 1,2025/2026
+26,9,FC Lorient,Ligue 1,2025/2026
+26,10,Stade Brestois,Ligue 1,2025/2026
+26,11,Toulouse,Ligue 1,2025/2026
+26,12,Angers SCO,Ligue 1,2025/2026
+26,13,Paris FC,Ligue 1,2025/2026
+26,14,Le Havre AC,Ligue 1,2025/2026
+26,15,Nice,Ligue 1,2025/2026
+26,16,AJ Auxerre,Ligue 1,2025/2026
+26,17,FC Nantes,Ligue 1,2025/2026
+26,18,FC Metz,Ligue 1,2025/2026
+27,1,PSG,Ligue 1,2025/2026
+27,2,Lens,Ligue 1,2025/2026
+27,3,Marseille,Ligue 1,2025/2026
+27,4,Lyon,Ligue 1,2025/2026
+27,5,Lille,Ligue 1,2025/2026
+27,6,Monaco,Ligue 1,2025/2026
+27,7,Stade Rennais,Ligue 1,2025/2026
+27,8,R. Strasbourg,Ligue 1,2025/2026
+27,9,Toulouse,Ligue 1,2025/2026
+27,10,FC Lorient,Ligue 1,2025/2026
+27,11,Stade Brestois,Ligue 1,2025/2026
+27,12,Angers SCO,Ligue 1,2025/2026
+27,13,Paris FC,Ligue 1,2025/2026
+27,14,Le Havre AC,Ligue 1,2025/2026
+27,15,Nice,Ligue 1,2025/2026
+27,16,AJ Auxerre,Ligue 1,2025/2026
+27,17,FC Nantes,Ligue 1,2025/2026
+27,18,FC Metz,Ligue 1,2025/2026
+28,1,PSG,Ligue 1,2025/2026
+28,2,Lens,Ligue 1,2025/2026
+28,3,Lille,Ligue 1,2025/2026
+28,4,Marseille,Ligue 1,2025/2026
+28,5,Monaco,Ligue 1,2025/2026
+28,6,Lyon,Ligue 1,2025/2026
+28,7,Stade Rennais,Ligue 1,2025/2026
+28,8,R. Strasbourg,Ligue 1,2025/2026
+28,9,FC Lorient,Ligue 1,2025/2026
+28,10,Toulouse,Ligue 1,2025/2026
+28,11,Stade Brestois,Ligue 1,2025/2026
+28,12,Angers SCO,Ligue 1,2025/2026
+28,13,Paris FC,Ligue 1,2025/2026
+28,14,Le Havre AC,Ligue 1,2025/2026
+28,15,Nice,Ligue 1,2025/2026
+28,16,AJ Auxerre,Ligue 1,2025/2026
+28,17,FC Nantes,Ligue 1,2025/2026
+28,18,FC Metz,Ligue 1,2025/2026
+29,1,PSG,Ligue 1,2025/2026
+29,2,Lens,Ligue 1,2025/2026
+29,3,Lille,Ligue 1,2025/2026
+29,4,Marseille,Ligue 1,2025/2026
+29,5,Lyon,Ligue 1,2025/2026
+29,6,Stade Rennais,Ligue 1,2025/2026
+29,7,Monaco,Ligue 1,2025/2026
+29,8,R. Strasbourg,Ligue 1,2025/2026
+29,9,FC Lorient,Ligue 1,2025/2026
+29,10,Toulouse,Ligue 1,2025/2026
+29,11,Stade Brestois,Ligue 1,2025/2026
+29,12,Paris FC,Ligue 1,2025/2026
+29,13,Angers SCO,Ligue 1,2025/2026
+29,14,Le Havre AC,Ligue 1,2025/2026
+29,15,Nice,Ligue 1,2025/2026
+29,16,AJ Auxerre,Ligue 1,2025/2026
+29,17,FC Nantes,Ligue 1,2025/2026
+29,18,FC Metz,Ligue 1,2025/2026
+30,1,PSG,Ligue 1,2025/2026
+30,2,Lens,Ligue 1,2025/2026
+30,3,Lyon,Ligue 1,2025/2026
+30,4,Lille,Ligue 1,2025/2026
+30,5,Stade Rennais,Ligue 1,2025/2026
+30,6,Marseille,Ligue 1,2025/2026
+30,7,Monaco,Ligue 1,2025/2026
+30,8,R. Strasbourg,Ligue 1,2025/2026
+30,9,FC Lorient,Ligue 1,2025/2026
+30,10,Paris FC,Ligue 1,2025/2026
+30,11,Toulouse,Ligue 1,2025/2026
+30,12,Stade Brestois,Ligue 1,2025/2026
+30,13,Angers SCO,Ligue 1,2025/2026
+30,14,Le Havre AC,Ligue 1,2025/2026
+30,15,Nice,Ligue 1,2025/2026
+30,16,AJ Auxerre,Ligue 1,2025/2026
+30,17,FC Nantes,Ligue 1,2025/2026
+30,18,FC Metz,Ligue 1,2025/2026
+31,1,PSG,Ligue 1,2025/2026
+31,2,Lens,Ligue 1,2025/2026
+31,3,Lyon,Ligue 1,2025/2026
+31,4,Lille,Ligue 1,2025/2026
+31,5,Stade Rennais,Ligue 1,2025/2026
+31,6,Marseille,Ligue 1,2025/2026
+31,7,Monaco,Ligue 1,2025/2026
+31,8,R. Strasbourg,Ligue 1,2025/2026
+31,9,FC Lorient,Ligue 1,2025/2026
+31,10,Toulouse,Ligue 1,2025/2026
+31,11,Paris FC,Ligue 1,2025/2026
+31,12,Stade Brestois,Ligue 1,2025/2026
+31,13,Angers SCO,Ligue 1,2025/2026
+31,14,Le Havre AC,Ligue 1,2025/2026
+31,15,Nice,Ligue 1,2025/2026
+31,16,AJ Auxerre,Ligue 1,2025/2026
+31,17,FC Nantes,Ligue 1,2025/2026
+31,18,FC Metz,Ligue 1,2025/2026
+32,1,PSG,Ligue 1,2025/2026
+32,2,Lens,Ligue 1,2025/2026
+32,3,Lyon,Ligue 1,2025/2026
+32,4,Lille,Ligue 1,2025/2026
+32,5,Stade Rennais,Ligue 1,2025/2026
+32,6,Monaco,Ligue 1,2025/2026
+32,7,Marseille,Ligue 1,2025/2026
+32,8,R. Strasbourg,Ligue 1,2025/2026
+32,9,FC Lorient,Ligue 1,2025/2026
+32,10,Toulouse,Ligue 1,2025/2026
+32,11,Paris FC,Ligue 1,2025/2026
+32,12,Stade Brestois,Ligue 1,2025/2026
+32,13,Angers SCO,Ligue 1,2025/2026
+32,14,Le Havre AC,Ligue 1,2025/2026
+32,15,Nice,Ligue 1,2025/2026
+32,16,AJ Auxerre,Ligue 1,2025/2026
+32,17,FC Nantes,Ligue 1,2025/2026
+32,18,FC Metz,Ligue 1,2025/2026
+33,1,PSG,Ligue 1,2025/2026
+33,2,Lens,Ligue 1,2025/2026
+33,3,Lille,Ligue 1,2025/2026
+33,4,Lyon,Ligue 1,2025/2026
+33,5,Stade Rennais,Ligue 1,2025/2026
+33,6,Marseille,Ligue 1,2025/2026
+33,7,Monaco,Ligue 1,2025/2026
+33,8,R. Strasbourg,Ligue 1,2025/2026
+33,9,FC Lorient,Ligue 1,2025/2026
+33,10,Toulouse,Ligue 1,2025/2026
+33,11,Paris FC,Ligue 1,2025/2026
+33,12,Stade Brestois,Ligue 1,2025/2026
+33,13,Angers SCO,Ligue 1,2025/2026
+33,14,Le Havre AC,Ligue 1,2025/2026
+33,15,AJ Auxerre,Ligue 1,2025/2026
+33,16,Nice,Ligue 1,2025/2026
+33,17,FC Nantes,Ligue 1,2025/2026
+33,18,FC Metz,Ligue 1,2025/2026
+34,1,PSG,Ligue 1,2025/2026
+34,2,Lens,Ligue 1,2025/2026
+34,3,Lille,Ligue 1,2025/2026
+34,4,Lyon,Ligue 1,2025/2026
+34,5,Marseille,Ligue 1,2025/2026
+34,6,Stade Rennais,Ligue 1,2025/2026
+34,7,Monaco,Ligue 1,2025/2026
+34,8,R. Strasbourg,Ligue 1,2025/2026
+34,9,Toulouse,Ligue 1,2025/2026
+34,10,FC Lorient,Ligue 1,2025/2026
+34,11,Paris FC,Ligue 1,2025/2026
+34,12,Stade Brestois,Ligue 1,2025/2026
+34,13,Angers SCO,Ligue 1,2025/2026
+34,14,Le Havre AC,Ligue 1,2025/2026
+34,15,AJ Auxerre,Ligue 1,2025/2026
+34,16,Nice,Ligue 1,2025/2026
+34,17,FC Nantes,Ligue 1,2025/2026
+34,18,FC Metz,Ligue 1,2025/2026
+1,1,Inter,Serie A,2025/2026
+1,2,Napoli,Serie A,2025/2026
+1,3,Juventus,Serie A,2025/2026
+1,4,Como,Serie A,2025/2026
+1,5,Cremonese,Serie A,2025/2026
+1,6,Roma,Serie A,2025/2026
+1,7,Atalanta,Serie A,2025/2026
+1,8,Fiorentina,Serie A,2025/2026
+1,9,Udinese,Serie A,2025/2026
+1,10,Hellas Verona,Serie A,2025/2026
+1,11,Cagliari,Serie A,2025/2026
+1,12,Pisa,Serie A,2025/2026
+1,13,Genoa,Serie A,2025/2026
+1,14,Lecce,Serie A,2025/2026
+1,15,AC Milan,Serie A,2025/2026
+1,16,Bologna,Serie A,2025/2026
+1,17,Lazio,Serie A,2025/2026
+1,18,Parma,Serie A,2025/2026
+1,19,Sassuolo,Serie A,2025/2026
+1,20,Torino,Serie A,2025/2026
+2,1,Napoli,Serie A,2025/2026
+2,2,Juventus,Serie A,2025/2026
+2,3,Cremonese,Serie A,2025/2026
+2,4,Roma,Serie A,2025/2026
+2,5,Udinese,Serie A,2025/2026
+2,6,Como,Serie A,2025/2026
+2,7,Bologna,Serie A,2025/2026
+2,8,Inter,Serie A,2025/2026
+2,9,Lazio,Serie A,2025/2026
+2,10,AC Milan,Serie A,2025/2026
+2,11,Atalanta,Serie A,2025/2026
+2,12,Fiorentina,Serie A,2025/2026
+2,13,Genoa,Serie A,2025/2026
+2,14,Lecce,Serie A,2025/2026
+2,15,Cagliari,Serie A,2025/2026
+2,16,Pisa,Serie A,2025/2026
+2,17,Parma,Serie A,2025/2026
+2,18,Hellas Verona,Serie A,2025/2026
+2,19,Torino,Serie A,2025/2026
+2,20,Sassuolo,Serie A,2025/2026
+3,1,Napoli,Serie A,2025/2026
+3,2,Juventus,Serie A,2025/2026
+3,3,Cremonese,Serie A,2025/2026
+3,4,Udinese,Serie A,2025/2026
+3,5,AC Milan,Serie A,2025/2026
+3,6,Roma,Serie A,2025/2026
+3,7,Atalanta,Serie A,2025/2026
+3,8,Como,Serie A,2025/2026
+3,9,Cagliari,Serie A,2025/2026
+3,10,Torino,Serie A,2025/2026
+3,11,Sassuolo,Serie A,2025/2026
+3,12,Inter,Serie A,2025/2026
+3,13,Lazio,Serie A,2025/2026
+3,14,Bologna,Serie A,2025/2026
+3,15,Genoa,Serie A,2025/2026
+3,16,Fiorentina,Serie A,2025/2026
+3,17,Hellas Verona,Serie A,2025/2026
+3,18,Pisa,Serie A,2025/2026
+3,19,Parma,Serie A,2025/2026
+3,20,Lecce,Serie A,2025/2026
+4,1,Napoli,Serie A,2025/2026
+4,2,Juventus,Serie A,2025/2026
+4,3,AC Milan,Serie A,2025/2026
+4,4,Roma,Serie A,2025/2026
+4,5,Atalanta,Serie A,2025/2026
+4,6,Cremonese,Serie A,2025/2026
+4,7,Como,Serie A,2025/2026
+4,8,Cagliari,Serie A,2025/2026
+4,9,Udinese,Serie A,2025/2026
+4,10,Inter,Serie A,2025/2026
+4,11,Bologna,Serie A,2025/2026
+4,12,Torino,Serie A,2025/2026
+4,13,Lazio,Serie A,2025/2026
+4,14,Sassuolo,Serie A,2025/2026
+4,15,Hellas Verona,Serie A,2025/2026
+4,16,Genoa,Serie A,2025/2026
+4,17,Fiorentina,Serie A,2025/2026
+4,18,Parma,Serie A,2025/2026
+4,19,Pisa,Serie A,2025/2026
+4,20,Lecce,Serie A,2025/2026
+5,1,AC Milan,Serie A,2025/2026
+5,2,Napoli,Serie A,2025/2026
+5,3,Roma,Serie A,2025/2026
+5,4,Juventus,Serie A,2025/2026
+5,5,Inter,Serie A,2025/2026
+5,6,Atalanta,Serie A,2025/2026
+5,7,Cremonese,Serie A,2025/2026
+5,8,Como,Serie A,2025/2026
+5,9,Bologna,Serie A,2025/2026
+5,10,Cagliari,Serie A,2025/2026
+5,11,Udinese,Serie A,2025/2026
+5,12,Sassuolo,Serie A,2025/2026
+5,13,Lazio,Serie A,2025/2026
+5,14,Parma,Serie A,2025/2026
+5,15,Torino,Serie A,2025/2026
+5,16,Fiorentina,Serie A,2025/2026
+5,17,Hellas Verona,Serie A,2025/2026
+5,18,Genoa,Serie A,2025/2026
+5,19,Lecce,Serie A,2025/2026
+5,20,Pisa,Serie A,2025/2026
+6,1,Napoli,Serie A,2025/2026
+6,2,Roma,Serie A,2025/2026
+6,3,AC Milan,Serie A,2025/2026
+6,4,Juventus,Serie A,2025/2026
+6,5,Inter,Serie A,2025/2026
+6,6,Atalanta,Serie A,2025/2026
+6,7,Bologna,Serie A,2025/2026
+6,8,Cremonese,Serie A,2025/2026
+6,9,Como,Serie A,2025/2026
+6,10,Sassuolo,Serie A,2025/2026
+6,11,Cagliari,Serie A,2025/2026
+6,12,Udinese,Serie A,2025/2026
+6,13,Lazio,Serie A,2025/2026
+6,14,Parma,Serie A,2025/2026
+6,15,Lecce,Serie A,2025/2026
+6,16,Torino,Serie A,2025/2026
+6,17,Fiorentina,Serie A,2025/2026
+6,18,Hellas Verona,Serie A,2025/2026
+6,19,Genoa,Serie A,2025/2026
+6,20,Pisa,Serie A,2025/2026
+7,1,AC Milan,Serie A,2025/2026
+7,2,Inter,Serie A,2025/2026
+7,3,Napoli,Serie A,2025/2026
+7,4,Roma,Serie A,2025/2026
+7,5,Bologna,Serie A,2025/2026
+7,6,Como,Serie A,2025/2026
+7,7,Juventus,Serie A,2025/2026
+7,8,Atalanta,Serie A,2025/2026
+7,9,Cremonese,Serie A,2025/2026
+7,10,Sassuolo,Serie A,2025/2026
+7,11,Udinese,Serie A,2025/2026
+7,12,Lazio,Serie A,2025/2026
+7,13,Torino,Serie A,2025/2026
+7,14,Cagliari,Serie A,2025/2026
+7,15,Lecce,Serie A,2025/2026
+7,16,Parma,Serie A,2025/2026
+7,17,Hellas Verona,Serie A,2025/2026
+7,18,Fiorentina,Serie A,2025/2026
+7,19,Pisa,Serie A,2025/2026
+7,20,Genoa,Serie A,2025/2026
+8,1,Napoli,Serie A,2025/2026
+8,2,Roma,Serie A,2025/2026
+8,3,AC Milan,Serie A,2025/2026
+8,4,Inter,Serie A,2025/2026
+8,5,Bologna,Serie A,2025/2026
+8,6,Como,Serie A,2025/2026
+8,7,Atalanta,Serie A,2025/2026
+8,8,Juventus,Serie A,2025/2026
+8,9,Udinese,Serie A,2025/2026
+8,10,Lazio,Serie A,2025/2026
+8,11,Torino,Serie A,2025/2026
+8,12,Cremonese,Serie A,2025/2026
+8,13,Sassuolo,Serie A,2025/2026
+8,14,Cagliari,Serie A,2025/2026
+8,15,Parma,Serie A,2025/2026
+8,16,Lecce,Serie A,2025/2026
+8,17,Hellas Verona,Serie A,2025/2026
+8,18,Fiorentina,Serie A,2025/2026
+8,19,Pisa,Serie A,2025/2026
+8,20,Genoa,Serie A,2025/2026
+9,1,Napoli,Serie A,2025/2026
+9,2,Roma,Serie A,2025/2026
+9,3,Inter,Serie A,2025/2026
+9,4,AC Milan,Serie A,2025/2026
+9,5,Como,Serie A,2025/2026
+9,6,Bologna,Serie A,2025/2026
+9,7,Juventus,Serie A,2025/2026
+9,8,Cremonese,Serie A,2025/2026
+9,9,Atalanta,Serie A,2025/2026
+9,10,Sassuolo,Serie A,2025/2026
+9,11,Lazio,Serie A,2025/2026
+9,12,Torino,Serie A,2025/2026
+9,13,Udinese,Serie A,2025/2026
+9,14,Cagliari,Serie A,2025/2026
+9,15,Parma,Serie A,2025/2026
+9,16,Lecce,Serie A,2025/2026
+9,17,Pisa,Serie A,2025/2026
+9,18,Hellas Verona,Serie A,2025/2026
+9,19,Fiorentina,Serie A,2025/2026
+9,20,Genoa,Serie A,2025/2026
+10,1,Napoli,Serie A,2025/2026
+10,2,Inter,Serie A,2025/2026
+10,3,AC Milan,Serie A,2025/2026
+10,4,Roma,Serie A,2025/2026
+10,5,Bologna,Serie A,2025/2026
+10,6,Juventus,Serie A,2025/2026
+10,7,Como,Serie A,2025/2026
+10,8,Lazio,Serie A,2025/2026
+10,9,Udinese,Serie A,2025/2026
+10,10,Cremonese,Serie A,2025/2026
+10,11,Atalanta,Serie A,2025/2026
+10,12,Sassuolo,Serie A,2025/2026
+10,13,Torino,Serie A,2025/2026
+10,14,Cagliari,Serie A,2025/2026
+10,15,Lecce,Serie A,2025/2026
+10,16,Parma,Serie A,2025/2026
+10,17,Pisa,Serie A,2025/2026
+10,18,Genoa,Serie A,2025/2026
+10,19,Hellas Verona,Serie A,2025/2026
+10,20,Fiorentina,Serie A,2025/2026
+11,1,Inter,Serie A,2025/2026
+11,2,Roma,Serie A,2025/2026
+11,3,AC Milan,Serie A,2025/2026
+11,4,Napoli,Serie A,2025/2026
+11,5,Bologna,Serie A,2025/2026
+11,6,Juventus,Serie A,2025/2026
+11,7,Como,Serie A,2025/2026
+11,8,Sassuolo,Serie A,2025/2026
+11,9,Lazio,Serie A,2025/2026
+11,10,Udinese,Serie A,2025/2026
+11,11,Cremonese,Serie A,2025/2026
+11,12,Torino,Serie A,2025/2026
+11,13,Atalanta,Serie A,2025/2026
+11,14,Cagliari,Serie A,2025/2026
+11,15,Lecce,Serie A,2025/2026
+11,16,Pisa,Serie A,2025/2026
+11,17,Parma,Serie A,2025/2026
+11,18,Genoa,Serie A,2025/2026
+11,19,Hellas Verona,Serie A,2025/2026
+11,20,Fiorentina,Serie A,2025/2026
+12,1,Roma,Serie A,2025/2026
+12,2,AC Milan,Serie A,2025/2026
+12,3,Napoli,Serie A,2025/2026
+12,4,Inter,Serie A,2025/2026
+12,5,Bologna,Serie A,2025/2026
+12,6,Como,Serie A,2025/2026
+12,7,Juventus,Serie A,2025/2026
+12,8,Lazio,Serie A,2025/2026
+12,9,Sassuolo,Serie A,2025/2026
+12,10,Udinese,Serie A,2025/2026
+12,11,Cremonese,Serie A,2025/2026
+12,12,Torino,Serie A,2025/2026
+12,13,Atalanta,Serie A,2025/2026
+12,14,Cagliari,Serie A,2025/2026
+12,15,Parma,Serie A,2025/2026
+12,16,Pisa,Serie A,2025/2026
+12,17,Lecce,Serie A,2025/2026
+12,18,Genoa,Serie A,2025/2026
+12,19,Fiorentina,Serie A,2025/2026
+12,20,Hellas Verona,Serie A,2025/2026
+13,1,AC Milan,Serie A,2025/2026
+13,2,Napoli,Serie A,2025/2026
+13,3,Inter,Serie A,2025/2026
+13,4,Roma,Serie A,2025/2026
+13,5,Bologna,Serie A,2025/2026
+13,6,Como,Serie A,2025/2026
+13,7,Juventus,Serie A,2025/2026
+13,8,Lazio,Serie A,2025/2026
+13,9,Udinese,Serie A,2025/2026
+13,10,Cremonese,Serie A,2025/2026
+13,11,Sassuolo,Serie A,2025/2026
+13,12,Atalanta,Serie A,2025/2026
+13,13,Torino,Serie A,2025/2026
+13,14,Lecce,Serie A,2025/2026
+13,15,Cagliari,Serie A,2025/2026
+13,16,Genoa,Serie A,2025/2026
+13,17,Parma,Serie A,2025/2026
+13,18,Pisa,Serie A,2025/2026
+13,19,Fiorentina,Serie A,2025/2026
+13,20,Hellas Verona,Serie A,2025/2026
+14,1,AC Milan,Serie A,2025/2026
+14,2,Napoli,Serie A,2025/2026
+14,3,Inter,Serie A,2025/2026
+14,4,Roma,Serie A,2025/2026
+14,5,Bologna,Serie A,2025/2026
+14,6,Como,Serie A,2025/2026
+14,7,Juventus,Serie A,2025/2026
+14,8,Cremonese,Serie A,2025/2026
+14,9,Sassuolo,Serie A,2025/2026
+14,10,Lazio,Serie A,2025/2026
+14,11,Udinese,Serie A,2025/2026
+14,12,Atalanta,Serie A,2025/2026
+14,13,Cagliari,Serie A,2025/2026
+14,14,Parma,Serie A,2025/2026
+14,15,Torino,Serie A,2025/2026
+14,16,Genoa,Serie A,2025/2026
+14,17,Lecce,Serie A,2025/2026
+14,18,Pisa,Serie A,2025/2026
+14,19,Hellas Verona,Serie A,2025/2026
+14,20,Fiorentina,Serie A,2025/2026
+15,1,Inter,Serie A,2025/2026
+15,2,AC Milan,Serie A,2025/2026
+15,3,Napoli,Serie A,2025/2026
+15,4,Roma,Serie A,2025/2026
+15,5,Juventus,Serie A,2025/2026
+15,6,Bologna,Serie A,2025/2026
+15,7,Como,Serie A,2025/2026
+15,8,Lazio,Serie A,2025/2026
+15,9,Sassuolo,Serie A,2025/2026
+15,10,Udinese,Serie A,2025/2026
+15,11,Cremonese,Serie A,2025/2026
+15,12,Atalanta,Serie A,2025/2026
+15,13,Torino,Serie A,2025/2026
+15,14,Lecce,Serie A,2025/2026
+15,15,Cagliari,Serie A,2025/2026
+15,16,Genoa,Serie A,2025/2026
+15,17,Parma,Serie A,2025/2026
+15,18,Hellas Verona,Serie A,2025/2026
+15,19,Pisa,Serie A,2025/2026
+15,20,Fiorentina,Serie A,2025/2026
+16,1,Inter,Serie A,2025/2026
+16,2,AC Milan,Serie A,2025/2026
+16,3,Napoli,Serie A,2025/2026
+16,4,Roma,Serie A,2025/2026
+16,5,Juventus,Serie A,2025/2026
+16,6,Bologna,Serie A,2025/2026
+16,7,Como,Serie A,2025/2026
+16,8,Lazio,Serie A,2025/2026
+16,9,Atalanta,Serie A,2025/2026
+16,10,Cremonese,Serie A,2025/2026
+16,11,Sassuolo,Serie A,2025/2026
+16,12,Udinese,Serie A,2025/2026
+16,13,Torino,Serie A,2025/2026
+16,14,Lecce,Serie A,2025/2026
+16,15,Cagliari,Serie A,2025/2026
+16,16,Parma,Serie A,2025/2026
+16,17,Genoa,Serie A,2025/2026
+16,18,Hellas Verona,Serie A,2025/2026
+16,19,Pisa,Serie A,2025/2026
+16,20,Fiorentina,Serie A,2025/2026
+17,1,Inter,Serie A,2025/2026
+17,2,AC Milan,Serie A,2025/2026
+17,3,Napoli,Serie A,2025/2026
+17,4,Roma,Serie A,2025/2026
+17,5,Juventus,Serie A,2025/2026
+17,6,Bologna,Serie A,2025/2026
+17,7,Como,Serie A,2025/2026
+17,8,Lazio,Serie A,2025/2026
+17,9,Sassuolo,Serie A,2025/2026
+17,10,Udinese,Serie A,2025/2026
+17,11,Atalanta,Serie A,2025/2026
+17,12,Cremonese,Serie A,2025/2026
+17,13,Torino,Serie A,2025/2026
+17,14,Cagliari,Serie A,2025/2026
+17,15,Parma,Serie A,2025/2026
+17,16,Lecce,Serie A,2025/2026
+17,17,Genoa,Serie A,2025/2026
+17,18,Hellas Verona,Serie A,2025/2026
+17,19,Pisa,Serie A,2025/2026
+17,20,Fiorentina,Serie A,2025/2026
+18,1,Inter,Serie A,2025/2026
+18,2,AC Milan,Serie A,2025/2026
+18,3,Napoli,Serie A,2025/2026
+18,4,Juventus,Serie A,2025/2026
+18,5,Roma,Serie A,2025/2026
+18,6,Como,Serie A,2025/2026
+18,7,Bologna,Serie A,2025/2026
+18,8,Atalanta,Serie A,2025/2026
+18,9,Lazio,Serie A,2025/2026
+18,10,Torino,Serie A,2025/2026
+18,11,Sassuolo,Serie A,2025/2026
+18,12,Udinese,Serie A,2025/2026
+18,13,Cremonese,Serie A,2025/2026
+18,14,Parma,Serie A,2025/2026
+18,15,Cagliari,Serie A,2025/2026
+18,16,Lecce,Serie A,2025/2026
+18,17,Genoa,Serie A,2025/2026
+18,18,Hellas Verona,Serie A,2025/2026
+18,19,Pisa,Serie A,2025/2026
+18,20,Fiorentina,Serie A,2025/2026
+19,1,Inter,Serie A,2025/2026
+19,2,AC Milan,Serie A,2025/2026
+19,3,Napoli,Serie A,2025/2026
+19,4,Juventus,Serie A,2025/2026
+19,5,Roma,Serie A,2025/2026
+19,6,Como,Serie A,2025/2026
+19,7,Bologna,Serie A,2025/2026
+19,8,Atalanta,Serie A,2025/2026
+19,9,Lazio,Serie A,2025/2026
+19,10,Udinese,Serie A,2025/2026
+19,11,Torino,Serie A,2025/2026
+19,12,Sassuolo,Serie A,2025/2026
+19,13,Cremonese,Serie A,2025/2026
+19,14,Cagliari,Serie A,2025/2026
+19,15,Parma,Serie A,2025/2026
+19,16,Lecce,Serie A,2025/2026
+19,17,Genoa,Serie A,2025/2026
+19,18,Hellas Verona,Serie A,2025/2026
+19,19,Fiorentina,Serie A,2025/2026
+19,20,Pisa,Serie A,2025/2026
+20,1,Inter,Serie A,2025/2026
+20,2,AC Milan,Serie A,2025/2026
+20,3,Napoli,Serie A,2025/2026
+20,4,Juventus,Serie A,2025/2026
+20,5,Roma,Serie A,2025/2026
+20,6,Como,Serie A,2025/2026
+20,7,Atalanta,Serie A,2025/2026
+20,8,Bologna,Serie A,2025/2026
+20,9,Lazio,Serie A,2025/2026
+20,10,Udinese,Serie A,2025/2026
+20,11,Torino,Serie A,2025/2026
+20,12,Sassuolo,Serie A,2025/2026
+20,13,Cremonese,Serie A,2025/2026
+20,14,Parma,Serie A,2025/2026
+20,15,Genoa,Serie A,2025/2026
+20,16,Cagliari,Serie A,2025/2026
+20,17,Lecce,Serie A,2025/2026
+20,18,Fiorentina,Serie A,2025/2026
+20,19,Pisa,Serie A,2025/2026
+20,20,Hellas Verona,Serie A,2025/2026
+21,1,Inter,Serie A,2025/2026
+21,2,AC Milan,Serie A,2025/2026
+21,3,Napoli,Serie A,2025/2026
+21,4,Roma,Serie A,2025/2026
+21,5,Juventus,Serie A,2025/2026
+21,6,Como,Serie A,2025/2026
+21,7,Atalanta,Serie A,2025/2026
+21,8,Bologna,Serie A,2025/2026
+21,9,Lazio,Serie A,2025/2026
+21,10,Udinese,Serie A,2025/2026
+21,11,Torino,Serie A,2025/2026
+21,12,Parma,Serie A,2025/2026
+21,13,Cremonese,Serie A,2025/2026
+21,14,Sassuolo,Serie A,2025/2026
+21,15,Cagliari,Serie A,2025/2026
+21,16,Genoa,Serie A,2025/2026
+21,17,Lecce,Serie A,2025/2026
+21,18,Fiorentina,Serie A,2025/2026
+21,19,Pisa,Serie A,2025/2026
+21,20,Hellas Verona,Serie A,2025/2026
+22,1,Inter,Serie A,2025/2026
+22,2,AC Milan,Serie A,2025/2026
+22,3,Napoli,Serie A,2025/2026
+22,4,Roma,Serie A,2025/2026
+22,5,Juventus,Serie A,2025/2026
+22,6,Como,Serie A,2025/2026
+22,7,Atalanta,Serie A,2025/2026
+22,8,Bologna,Serie A,2025/2026
+22,9,Lazio,Serie A,2025/2026
+22,10,Udinese,Serie A,2025/2026
+22,11,Sassuolo,Serie A,2025/2026
+22,12,Cagliari,Serie A,2025/2026
+22,13,Torino,Serie A,2025/2026
+22,14,Parma,Serie A,2025/2026
+22,15,Cremonese,Serie A,2025/2026
+22,16,Genoa,Serie A,2025/2026
+22,17,Lecce,Serie A,2025/2026
+22,18,Fiorentina,Serie A,2025/2026
+22,19,Hellas Verona,Serie A,2025/2026
+22,20,Pisa,Serie A,2025/2026
+23,1,Inter,Serie A,2025/2026
+23,2,AC Milan,Serie A,2025/2026
+23,3,Napoli,Serie A,2025/2026
+23,4,Juventus,Serie A,2025/2026
+23,5,Roma,Serie A,2025/2026
+23,6,Como,Serie A,2025/2026
+23,7,Atalanta,Serie A,2025/2026
+23,8,Lazio,Serie A,2025/2026
+23,9,Udinese,Serie A,2025/2026
+23,10,Bologna,Serie A,2025/2026
+23,11,Sassuolo,Serie A,2025/2026
+23,12,Cagliari,Serie A,2025/2026
+23,13,Torino,Serie A,2025/2026
+23,14,Cremonese,Serie A,2025/2026
+23,15,Parma,Serie A,2025/2026
+23,16,Genoa,Serie A,2025/2026
+23,17,Lecce,Serie A,2025/2026
+23,18,Fiorentina,Serie A,2025/2026
+23,19,Pisa,Serie A,2025/2026
+23,20,Hellas Verona,Serie A,2025/2026
+24,1,Inter,Serie A,2025/2026
+24,2,AC Milan,Serie A,2025/2026
+24,3,Napoli,Serie A,2025/2026
+24,4,Juventus,Serie A,2025/2026
+24,5,Roma,Serie A,2025/2026
+24,6,Como,Serie A,2025/2026
+24,7,Atalanta,Serie A,2025/2026
+24,8,Lazio,Serie A,2025/2026
+24,9,Udinese,Serie A,2025/2026
+24,10,Bologna,Serie A,2025/2026
+24,11,Sassuolo,Serie A,2025/2026
+24,12,Cagliari,Serie A,2025/2026
+24,13,Torino,Serie A,2025/2026
+24,14,Parma,Serie A,2025/2026
+24,15,Cremonese,Serie A,2025/2026
+24,16,Genoa,Serie A,2025/2026
+24,17,Lecce,Serie A,2025/2026
+24,18,Fiorentina,Serie A,2025/2026
+24,19,Pisa,Serie A,2025/2026
+24,20,Hellas Verona,Serie A,2025/2026
+25,1,Inter,Serie A,2025/2026
+25,2,AC Milan,Serie A,2025/2026
+25,3,Napoli,Serie A,2025/2026
+25,4,Roma,Serie A,2025/2026
+25,5,Juventus,Serie A,2025/2026
+25,6,Como,Serie A,2025/2026
+25,7,Atalanta,Serie A,2025/2026
+25,8,Bologna,Serie A,2025/2026
+25,9,Lazio,Serie A,2025/2026
+25,10,Sassuolo,Serie A,2025/2026
+25,11,Udinese,Serie A,2025/2026
+25,12,Parma,Serie A,2025/2026
+25,13,Cagliari,Serie A,2025/2026
+25,14,Torino,Serie A,2025/2026
+25,15,Cremonese,Serie A,2025/2026
+25,16,Genoa,Serie A,2025/2026
+25,17,Lecce,Serie A,2025/2026
+25,18,Fiorentina,Serie A,2025/2026
+25,19,Pisa,Serie A,2025/2026
+25,20,Hellas Verona,Serie A,2025/2026
+26,1,Inter,Serie A,2025/2026
+26,2,AC Milan,Serie A,2025/2026
+26,3,Napoli,Serie A,2025/2026
+26,4,Roma,Serie A,2025/2026
+26,5,Juventus,Serie A,2025/2026
+26,6,Como,Serie A,2025/2026
+26,7,Atalanta,Serie A,2025/2026
+26,8,Bologna,Serie A,2025/2026
+26,9,Sassuolo,Serie A,2025/2026
+26,10,Lazio,Serie A,2025/2026
+26,11,Udinese,Serie A,2025/2026
+26,12,Parma,Serie A,2025/2026
+26,13,Cagliari,Serie A,2025/2026
+26,14,Genoa,Serie A,2025/2026
+26,15,Torino,Serie A,2025/2026
+26,16,Cremonese,Serie A,2025/2026
+26,17,Fiorentina,Serie A,2025/2026
+26,18,Lecce,Serie A,2025/2026
+26,19,Pisa,Serie A,2025/2026
+26,20,Hellas Verona,Serie A,2025/2026
+27,1,Inter,Serie A,2025/2026
+27,2,AC Milan,Serie A,2025/2026
+27,3,Napoli,Serie A,2025/2026
+27,4,Roma,Serie A,2025/2026
+27,5,Como,Serie A,2025/2026
+27,6,Juventus,Serie A,2025/2026
+27,7,Atalanta,Serie A,2025/2026
+27,8,Bologna,Serie A,2025/2026
+27,9,Sassuolo,Serie A,2025/2026
+27,10,Udinese,Serie A,2025/2026
+27,11,Lazio,Serie A,2025/2026
+27,12,Parma,Serie A,2025/2026
+27,13,Cagliari,Serie A,2025/2026
+27,14,Torino,Serie A,2025/2026
+27,15,Genoa,Serie A,2025/2026
+27,16,Cremonese,Serie A,2025/2026
+27,17,Fiorentina,Serie A,2025/2026
+27,18,Lecce,Serie A,2025/2026
+27,19,Pisa,Serie A,2025/2026
+27,20,Hellas Verona,Serie A,2025/2026
+28,1,Inter,Serie A,2025/2026
+28,2,AC Milan,Serie A,2025/2026
+28,3,Napoli,Serie A,2025/2026
+28,4,Roma,Serie A,2025/2026
+28,5,Como,Serie A,2025/2026
+28,6,Juventus,Serie A,2025/2026
+28,7,Atalanta,Serie A,2025/2026
+28,8,Bologna,Serie A,2025/2026
+28,9,Sassuolo,Serie A,2025/2026
+28,10,Lazio,Serie A,2025/2026
+28,11,Udinese,Serie A,2025/2026
+28,12,Parma,Serie A,2025/2026
+28,13,Genoa,Serie A,2025/2026
+28,14,Cagliari,Serie A,2025/2026
+28,15,Torino,Serie A,2025/2026
+28,16,Lecce,Serie A,2025/2026
+28,17,Fiorentina,Serie A,2025/2026
+28,18,Cremonese,Serie A,2025/2026
+28,19,Hellas Verona,Serie A,2025/2026
+28,20,Pisa,Serie A,2025/2026
+29,1,Inter,Serie A,2025/2026
+29,2,AC Milan,Serie A,2025/2026
+29,3,Napoli,Serie A,2025/2026
+29,4,Como,Serie A,2025/2026
+29,5,Juventus,Serie A,2025/2026
+29,6,Roma,Serie A,2025/2026
+29,7,Atalanta,Serie A,2025/2026
+29,8,Bologna,Serie A,2025/2026
+29,9,Lazio,Serie A,2025/2026
+29,10,Sassuolo,Serie A,2025/2026
+29,11,Udinese,Serie A,2025/2026
+29,12,Parma,Serie A,2025/2026
+29,13,Genoa,Serie A,2025/2026
+29,14,Torino,Serie A,2025/2026
+29,15,Cagliari,Serie A,2025/2026
+29,16,Fiorentina,Serie A,2025/2026
+29,17,Lecce,Serie A,2025/2026
+29,18,Cremonese,Serie A,2025/2026
+29,19,Pisa,Serie A,2025/2026
+29,20,Hellas Verona,Serie A,2025/2026
+30,1,Inter,Serie A,2025/2026
+30,2,AC Milan,Serie A,2025/2026
+30,3,Napoli,Serie A,2025/2026
+30,4,Como,Serie A,2025/2026
+30,5,Juventus,Serie A,2025/2026
+30,6,Roma,Serie A,2025/2026
+30,7,Atalanta,Serie A,2025/2026
+30,8,Lazio,Serie A,2025/2026
+30,9,Bologna,Serie A,2025/2026
+30,10,Sassuolo,Serie A,2025/2026
+30,11,Udinese,Serie A,2025/2026
+30,12,Parma,Serie A,2025/2026
+30,13,Genoa,Serie A,2025/2026
+30,14,Torino,Serie A,2025/2026
+30,15,Cagliari,Serie A,2025/2026
+30,16,Fiorentina,Serie A,2025/2026
+30,17,Cremonese,Serie A,2025/2026
+30,18,Lecce,Serie A,2025/2026
+30,19,Hellas Verona,Serie A,2025/2026
+30,20,Pisa,Serie A,2025/2026
+31,1,Inter,Serie A,2025/2026
+31,2,Napoli,Serie A,2025/2026
+31,3,AC Milan,Serie A,2025/2026
+31,4,Como,Serie A,2025/2026
+31,5,Juventus,Serie A,2025/2026
+31,6,Roma,Serie A,2025/2026
+31,7,Atalanta,Serie A,2025/2026
+31,8,Bologna,Serie A,2025/2026
+31,9,Lazio,Serie A,2025/2026
+31,10,Sassuolo,Serie A,2025/2026
+31,11,Udinese,Serie A,2025/2026
+31,12,Torino,Serie A,2025/2026
+31,13,Parma,Serie A,2025/2026
+31,14,Genoa,Serie A,2025/2026
+31,15,Fiorentina,Serie A,2025/2026
+31,16,Cagliari,Serie A,2025/2026
+31,17,Cremonese,Serie A,2025/2026
+31,18,Lecce,Serie A,2025/2026
+31,19,Hellas Verona,Serie A,2025/2026
+31,20,Pisa,Serie A,2025/2026
+32,1,Inter,Serie A,2025/2026
+32,2,Napoli,Serie A,2025/2026
+32,3,AC Milan,Serie A,2025/2026
+32,4,Juventus,Serie A,2025/2026
+32,5,Como,Serie A,2025/2026
+32,6,Roma,Serie A,2025/2026
+32,7,Atalanta,Serie A,2025/2026
+32,8,Bologna,Serie A,2025/2026
+32,9,Lazio,Serie A,2025/2026
+32,10,Udinese,Serie A,2025/2026
+32,11,Sassuolo,Serie A,2025/2026
+32,12,Torino,Serie A,2025/2026
+32,13,Genoa,Serie A,2025/2026
+32,14,Parma,Serie A,2025/2026
+32,15,Fiorentina,Serie A,2025/2026
+32,16,Cagliari,Serie A,2025/2026
+32,17,Cremonese,Serie A,2025/2026
+32,18,Lecce,Serie A,2025/2026
+32,19,Hellas Verona,Serie A,2025/2026
+32,20,Pisa,Serie A,2025/2026
+33,1,Inter,Serie A,2025/2026
+33,2,AC Milan,Serie A,2025/2026
+33,3,Napoli,Serie A,2025/2026
+33,4,Juventus,Serie A,2025/2026
+33,5,Como,Serie A,2025/2026
+33,6,Roma,Serie A,2025/2026
+33,7,Atalanta,Serie A,2025/2026
+33,8,Bologna,Serie A,2025/2026
+33,9,Lazio,Serie A,2025/2026
+33,10,Sassuolo,Serie A,2025/2026
+33,11,Udinese,Serie A,2025/2026
+33,12,Torino,Serie A,2025/2026
+33,13,Genoa,Serie A,2025/2026
+33,14,Parma,Serie A,2025/2026
+33,15,Fiorentina,Serie A,2025/2026
+33,16,Cagliari,Serie A,2025/2026
+33,17,Cremonese,Serie A,2025/2026
+33,18,Lecce,Serie A,2025/2026
+33,19,Hellas Verona,Serie A,2025/2026
+33,20,Pisa,Serie A,2025/2026
+34,1,Inter,Serie A,2025/2026
+34,2,Napoli,Serie A,2025/2026
+34,3,AC Milan,Serie A,2025/2026
+34,4,Juventus,Serie A,2025/2026
+34,5,Como,Serie A,2025/2026
+34,6,Roma,Serie A,2025/2026
+34,7,Atalanta,Serie A,2025/2026
+34,8,Lazio,Serie A,2025/2026
+34,9,Bologna,Serie A,2025/2026
+34,10,Sassuolo,Serie A,2025/2026
+34,11,Udinese,Serie A,2025/2026
+34,12,Parma,Serie A,2025/2026
+34,13,Torino,Serie A,2025/2026
+34,14,Genoa,Serie A,2025/2026
+34,15,Fiorentina,Serie A,2025/2026
+34,16,Cagliari,Serie A,2025/2026
+34,17,Lecce,Serie A,2025/2026
+34,18,Cremonese,Serie A,2025/2026
+34,19,Hellas Verona,Serie A,2025/2026
+34,20,Pisa,Serie A,2025/2026
+35,1,Inter,Serie A,2025/2026
+35,2,Napoli,Serie A,2025/2026
+35,3,AC Milan,Serie A,2025/2026
+35,4,Juventus,Serie A,2025/2026
+35,5,Roma,Serie A,2025/2026
+35,6,Como,Serie A,2025/2026
+35,7,Atalanta,Serie A,2025/2026
+35,8,Lazio,Serie A,2025/2026
+35,9,Bologna,Serie A,2025/2026
+35,10,Sassuolo,Serie A,2025/2026
+35,11,Udinese,Serie A,2025/2026
+35,12,Parma,Serie A,2025/2026
+35,13,Torino,Serie A,2025/2026
+35,14,Genoa,Serie A,2025/2026
+35,15,Cagliari,Serie A,2025/2026
+35,16,Fiorentina,Serie A,2025/2026
+35,17,Lecce,Serie A,2025/2026
+35,18,Cremonese,Serie A,2025/2026
+35,19,Hellas Verona,Serie A,2025/2026
+35,20,Pisa,Serie A,2025/2026
+36,1,Inter,Serie A,2025/2026
+36,2,Napoli,Serie A,2025/2026
+36,3,Juventus,Serie A,2025/2026
+36,4,AC Milan,Serie A,2025/2026
+36,5,Roma,Serie A,2025/2026
+36,6,Como,Serie A,2025/2026
+36,7,Atalanta,Serie A,2025/2026
+36,8,Bologna,Serie A,2025/2026
+36,9,Lazio,Serie A,2025/2026
+36,10,Udinese,Serie A,2025/2026
+36,11,Sassuolo,Serie A,2025/2026
+36,12,Torino,Serie A,2025/2026
+36,13,Parma,Serie A,2025/2026
+36,14,Genoa,Serie A,2025/2026
+36,15,Fiorentina,Serie A,2025/2026
+36,16,Cagliari,Serie A,2025/2026
+36,17,Lecce,Serie A,2025/2026
+36,18,Cremonese,Serie A,2025/2026
+36,19,Hellas Verona,Serie A,2025/2026
+36,20,Pisa,Serie A,2025/2026
+37,1,Inter,Serie A,2025/2026
+37,2,Napoli,Serie A,2025/2026
+37,3,AC Milan,Serie A,2025/2026
+37,4,Roma,Serie A,2025/2026
+37,5,Como,Serie A,2025/2026
+37,6,Juventus,Serie A,2025/2026
+37,7,Atalanta,Serie A,2025/2026
+37,8,Bologna,Serie A,2025/2026
+37,9,Lazio,Serie A,2025/2026
+37,10,Udinese,Serie A,2025/2026
+37,11,Sassuolo,Serie A,2025/2026
+37,12,Torino,Serie A,2025/2026
+37,13,Parma,Serie A,2025/2026
+37,14,Genoa,Serie A,2025/2026
+37,15,Fiorentina,Serie A,2025/2026
+37,16,Cagliari,Serie A,2025/2026
+37,17,Lecce,Serie A,2025/2026
+37,18,Cremonese,Serie A,2025/2026
+37,19,Hellas Verona,Serie A,2025/2026
+37,20,Pisa,Serie A,2025/2026
+38,1,Inter,Serie A,2025/2026
+38,2,Napoli,Serie A,2025/2026
+38,3,Roma,Serie A,2025/2026
+38,4,Como,Serie A,2025/2026
+38,5,AC Milan,Serie A,2025/2026
+38,6,Juventus,Serie A,2025/2026
+38,7,Atalanta,Serie A,2025/2026
+38,8,Bologna,Serie A,2025/2026
+38,9,Lazio,Serie A,2025/2026
+38,10,Udinese,Serie A,2025/2026
+38,11,Sassuolo,Serie A,2025/2026
+38,12,Torino,Serie A,2025/2026
+38,13,Parma,Serie A,2025/2026
+38,14,Cagliari,Serie A,2025/2026
+38,15,Fiorentina,Serie A,2025/2026
+38,16,Genoa,Serie A,2025/2026
+38,17,Lecce,Serie A,2025/2026
+38,18,Cremonese,Serie A,2025/2026
+38,19,Hellas Verona,Serie A,2025/2026
+38,20,Pisa,Serie A,2025/2026

@@ -1,0 +1,193 @@
+position,team_name_besoccer,team_id_besoccer,elo_besoccer,url_team_besoccer,league,season
+1,Bayern München,449,94,https://www.besoccer.com/team/bayern-munchen,Bundesliga,2026
+2,Borussia Dortmund,530,90,https://www.besoccer.com/team/borussia-dortmund,Bundesliga,2026
+3,RB Leipzig,9750,89,https://www.besoccer.com/team/rb-leipzig,Bundesliga,2026
+4,VfB Stuttgart,2433,88,https://www.besoccer.com/team/stuttgart,Bundesliga,2026
+5,Hoffenheim,2542,84,https://www.besoccer.com/team/tsg-1899-hoffenheim,Bundesliga,2026
+6,Bayer Leverkusen,3668,93,https://www.besoccer.com/team/bayer-leverkusen,Bundesliga,2026
+7,Freiburg,2286,85,https://www.besoccer.com/team/sc-freiburg,Bundesliga,2026
+8,Eintracht Frankfurt,960,88,https://www.besoccer.com/team/eintracht-frankfurt,Bundesliga,2026
+9,Augsburg,1039,82,https://www.besoccer.com/team/fc-augsburg,Bundesliga,2026
+10,Mainz 05,2987,86,https://www.besoccer.com/team/mainz-amat,Bundesliga,2026
+11,Union Berlin,8,82,https://www.besoccer.com/team/1-fc-union-berlin,Bundesliga,2026
+12,Borussia Mönchengladbach,5623,85,https://www.besoccer.com/team/borussia-monchengla,Bundesliga,2026
+13,Hamburger SV,1286,80,https://www.besoccer.com/team/hamburger-sv,Bundesliga,2026
+14,1. FC Köln,4,82,https://www.besoccer.com/team/1-fc-koln,Bundesliga,2026
+15,Werder Bremen,2746,84,https://www.besoccer.com/team/werder-bremen,Bundesliga,2026
+16,Wolfsburg,2760,86,https://www.besoccer.com/team/wolfsburg,Bundesliga,2026
+17,FC Heidenheim,4094,80,https://www.besoccer.com/team/heidenheim,Bundesliga,2026
+18,St. Pauli,2418,81,https://www.besoccer.com/team/st-pauli,Bundesliga,2026
+1,Barcelona,429,95,https://www.besoccer.com/team/barcelona,LaLiga,2026
+2,Real Madrid,2107,95,https://www.besoccer.com/team/real-madrid,LaLiga,2026
+3,Villarreal,2716,89,https://www.besoccer.com/team/villarreal,LaLiga,2026
+4,Atletico Madrid,369,92,https://www.besoccer.com/team/atletico-madrid,LaLiga,2026
+5,Real Betis,486,88,https://www.besoccer.com/team/betis,LaLiga,2026
+6,Celta Vigo,712,85,https://www.besoccer.com/team/celta,LaLiga,2026
+7,Getafe,1217,83,https://www.besoccer.com/team/getafe,LaLiga,2026
+8,Rayo Vallecano,2080,83,https://www.besoccer.com/team/rayo-vallecano,LaLiga,2026
+9,Valencia,2647,85,https://www.besoccer.com/team/valencia-cf,LaLiga,2026
+10,Real Sociedad,2120,88,https://www.besoccer.com/team/real-sociedad,LaLiga,2026
+11,Espanyol,998,82,https://www.besoccer.com/team/espanyol,LaLiga,2026
+12,Athletic Club,347,90,https://www.besoccer.com/team/athletic-bilbao,LaLiga,2026
+13,Sevilla,1102,85,https://www.besoccer.com/team/sevilla,LaLiga,2026
+14,Deportivo Alaves,137,82,https://www.besoccer.com/team/alaves,LaLiga,2026
+15,Elche,975,80,https://www.besoccer.com/team/elche,LaLiga,2026
+16,Levante,1547,80,https://www.besoccer.com/team/levante,LaLiga,2026
+17,Osasuna,1887,84,https://www.besoccer.com/team/osasuna,LaLiga,2026
+18,Mallorca,1623,83,https://www.besoccer.com/team/mallorca,LaLiga,2026
+19,Girona,1236,85,https://www.besoccer.com/team/girona-fc,LaLiga,2026
+20,Real Oviedo,2115,79,https://www.besoccer.com/team/real-oviedo,LaLiga,2026
+1,Paris Saint-Germain,1924,94,https://www.besoccer.com/team/paris-saint-germain-fc,Ligue 1,2026
+2,Lens,1544,86,https://www.besoccer.com/team/lens,Ligue 1,2026
+3,Lille,3015,90,https://www.besoccer.com/team/losc-lille,Ligue 1,2026
+4,Lyon,1866,89,https://www.besoccer.com/team/olympique-lyonnais,Ligue 1,2026
+5,Marseille,5117,89,https://www.besoccer.com/team/olympique-marsella,Ligue 1,2026
+6,Rennes,3863,86,https://www.besoccer.com/team/stade-rennes,Ligue 1,2026
+7,Monaco,1713,89,https://www.besoccer.com/team/monaco,Ligue 1,2026
+8,Strasbourg,2430,85,https://www.besoccer.com/team/strasbourg,Ligue 1,2026
+9,Toulouse,2524,84,https://www.besoccer.com/team/toulouse-fc,Ligue 1,2026
+10,Lorient,1586,82,https://www.besoccer.com/team/lorient,Ligue 1,2026
+11,Paris FC,1925,80,https://www.besoccer.com/team/paris-sg,Ligue 1,2026
+12,Brest,2420,85,https://www.besoccer.com/team/stade-brestois-29,Ligue 1,2026
+13,Angers,224,79,https://www.besoccer.com/team/angers-sco,Ligue 1,2026
+14,Le Havre,1527,76,https://www.besoccer.com/team/havre-ac,Ligue 1,2026
+15,Auxerre,399,82,https://www.besoccer.com/team/auxerre,Ligue 1,2026
+16,Nice,1799,86,https://www.besoccer.com/team/nice,Ligue 1,2026
+17,Nantes,1776,80,https://www.besoccer.com/team/nantes,Ligue 1,2026
+18,Metz,1682,80,https://www.besoccer.com/team/metz,Ligue 1,2026
+1,Inter,1381,94,https://www.besoccer.com/team/internazionale,Serie a,2026
+2,Napoli,1777,90,https://www.besoccer.com/team/napoli,Serie a,2026
+3,Roma,2176,90,https://www.besoccer.com/team/roma,Serie a,2026
+4,Como,822,82,https://www.besoccer.com/team/como,Serie a,2026
+5,Milan,1692,91,https://www.besoccer.com/team/milan,Serie a,2026
+6,Juventus,1430,91,https://www.besoccer.com/team/juventus-fc,Serie a,2026
+7,Atalanta,339,91,https://www.besoccer.com/team/atalanta,Serie a,2026
+8,Bologna,522,89,https://www.besoccer.com/team/bologna,Serie a,2026
+9,Lazio,1526,89,https://www.besoccer.com/team/lazio,Serie a,2026
+10,Udinese,2573,83,https://www.besoccer.com/team/udinese,Serie a,2026
+11,Sassuolo,2634,83,https://www.besoccer.com/team/us-sassuolo-calcio,Serie a,2026
+12,Torino,2508,85,https://www.besoccer.com/team/torino-fc,Serie a,2026
+13,Parma,1927,81,https://www.besoccer.com/team/parma-fc,Serie a,2026
+14,Cagliari,609,80,https://www.besoccer.com/team/cagliari,Serie a,2026
+15,Fiorentina,1142,88,https://www.besoccer.com/team/fiorentina,Serie a,2026
+16,Genoa,4101,83,https://www.besoccer.com/team/genoa,Serie a,2026
+17,Lecce,1531,79,https://www.besoccer.com/team/lecce,Serie a,2026
+18,Cremonese,2625,81,https://www.besoccer.com/team/us-cremonese,Serie a,2026
+19,Hellas Verona,1305,79,https://www.besoccer.com/team/hellas-verona-fc,Serie a,2026
+20,Pisa,1973,80,https://www.besoccer.com/team/pisa-calcio,Serie a,2026
+1,Arsenal,263,94,https://www.besoccer.com/team/arsenal,Premier League,2026
+2,Manchester City,1633,93,https://www.besoccer.com/team/manchester-city-fc,Premier League,2026
+3,Manchester United,1635,89,https://www.besoccer.com/team/manchester-united-fc,Premier League,2026
+4,Aston Villa,297,89,https://www.besoccer.com/team/aston-villa-fc,Premier League,2026
+5,Liverpool,3845,95,https://www.besoccer.com/team/liverpool,Premier League,2026
+6,AFC Bournemouth,80,86,https://www.besoccer.com/team/afc-bournemouth,Premier League,2026
+7,Sunderland,2438,77,https://www.besoccer.com/team/sunderland-afc,Premier League,2026
+8,Brighton & Hove Albion,5652,88,https://www.besoccer.com/team/brighton-amp-hov,Premier League,2026
+9,Brentford,9179,86,https://www.besoccer.com/team/brentford,Premier League,2026
+10,Chelsea,752,91,https://www.besoccer.com/team/chelsea-fc,Premier League,2026
+11,Fulham,1183,86,https://www.besoccer.com/team/fulham,Premier League,2026
+12,Newcastle United,1796,90,https://www.besoccer.com/team/newcastle-united-fc,Premier League,2026
+13,Everton,1017,85,https://www.besoccer.com/team/everton-fc,Premier League,2026
+14,Leeds United,1533,84,https://www.besoccer.com/team/leeds-united-afc,Premier League,2026
+15,Crystal Palace,860,88,https://www.besoccer.com/team/crystal-palace-fc,Premier League,2026
+16,Nottingham Forest,1825,85,https://www.besoccer.com/team/nottingham-forest-fc,Premier League,2026
+17,Tottenham Hotspur,2523,88,https://www.besoccer.com/team/tottenham-hotspur-fc,Premier League,2026
+18,West Ham United,2804,84,https://www.besoccer.com/team/west-ham-united,Premier League,2026
+19,Burnley,569,84,https://www.besoccer.com/team/burnley-fc,Premier League,2026
+20,Wolverhampton Wanderers,5651,84,https://www.besoccer.com/team/wolverhampton,Premier League,2026
+1,Borussia Dortmund,530,90,https://www.besoccer.com/team/borussia-dortmund,Bundesliga,2027
+2,Bayer Leverkusen,3668,93,https://www.besoccer.com/team/bayer-leverkusen,Bundesliga,2027
+3,Borussia Mönchengladbach,5623,85,https://www.besoccer.com/team/borussia-monchengla,Bundesliga,2027
+4,Bayern München,449,94,https://www.besoccer.com/team/bayern-munchen,Bundesliga,2027
+5,Eintracht Frankfurt,960,88,https://www.besoccer.com/team/eintracht-frankfurt,Bundesliga,2027
+6,Augsburg,1039,82,https://www.besoccer.com/team/fc-augsburg,Bundesliga,2027
+7,Hamburger SV,1286,80,https://www.besoccer.com/team/hamburger-sv,Bundesliga,2027
+8,Hoffenheim,2542,84,https://www.besoccer.com/team/tsg-1899-hoffenheim,Bundesliga,2027
+9,1. FC Köln,4,82,https://www.besoccer.com/team/1-fc-koln,Bundesliga,2027
+10,Mainz 05,2987,86,https://www.besoccer.com/team/mainz-amat,Bundesliga,2027
+11,Paderborn,4800,78,https://www.besoccer.com/team/paderborn,Bundesliga,2027
+12,RB Leipzig,9750,89,https://www.besoccer.com/team/rb-leipzig,Bundesliga,2027
+13,Freiburg,2286,85,https://www.besoccer.com/team/sc-freiburg,Bundesliga,2027
+14,Schalke 04,2294,73,https://www.besoccer.com/team/schalke-04,Bundesliga,2027
+15,VfB Stuttgart,2433,88,https://www.besoccer.com/team/stuttgart,Bundesliga,2027
+16,Elversberg,2900,76,https://www.besoccer.com/team/elversberg,Bundesliga,2027
+17,Union Berlin,8,82,https://www.besoccer.com/team/1-fc-union-berlin,Bundesliga,2027
+18,Werder Bremen,2746,84,https://www.besoccer.com/team/werder-bremen,Bundesliga,2027
+1,Deportivo Alaves,137,82,https://www.besoccer.com/team/alaves,LaLiga,2027
+2,Sevilla,1102,85,https://www.besoccer.com/team/sevilla,LaLiga,2027
+3,Athletic Club,347,90,https://www.besoccer.com/team/athletic-bilbao,LaLiga,2027
+4,Atletico Madrid,369,92,https://www.besoccer.com/team/atletico-madrid,LaLiga,2027
+5,Celta Vigo,712,85,https://www.besoccer.com/team/celta,LaLiga,2027
+6,Elche,975,80,https://www.besoccer.com/team/elche,LaLiga,2027
+7,Espanyol,998,82,https://www.besoccer.com/team/espanyol,LaLiga,2027
+8,Barcelona,429,95,https://www.besoccer.com/team/barcelona,LaLiga,2027
+9,Levante,1547,80,https://www.besoccer.com/team/levante,LaLiga,2027
+10,Malaga,1617,73,https://www.besoccer.com/team/malaga,LaLiga,2027
+11,Osasuna,1887,84,https://www.besoccer.com/team/osasuna,LaLiga,2027
+12,Racing Santander,2052,77,https://www.besoccer.com/team/racing,LaLiga,2027
+13,Deportivo A Coruña,901,75,https://www.besoccer.com/team/deportivo,LaLiga,2027
+14,Real Betis,486,88,https://www.besoccer.com/team/betis,LaLiga,2027
+15,Real Madrid,2107,95,https://www.besoccer.com/team/real-madrid,LaLiga,2027
+16,Real Sociedad,2120,88,https://www.besoccer.com/team/real-sociedad,LaLiga,2027
+17,Valencia,2647,85,https://www.besoccer.com/team/valencia-cf,LaLiga,2027
+18,Villarreal,2716,89,https://www.besoccer.com/team/villarreal,LaLiga,2027
+19,Rayo Vallecano,2080,83,https://www.besoccer.com/team/rayo-vallecano,LaLiga,2027
+20,Getafe,1217,83,https://www.besoccer.com/team/getafe,LaLiga,2027
+1,Angers,224,79,https://www.besoccer.com/team/angers-sco,Ligue 1,2027
+2,Auxerre,399,82,https://www.besoccer.com/team/auxerre,Ligue 1,2027
+3,Le Havre,1527,76,https://www.besoccer.com/team/havre-ac,Ligue 1,2027
+4,Le Mans,1528,72,https://www.besoccer.com/team/mans-uc-72,Ligue 1,2027
+5,Lens,1544,86,https://www.besoccer.com/team/lens,Ligue 1,2027
+6,Lille,3015,90,https://www.besoccer.com/team/losc-lille,Ligue 1,2027
+7,Lorient,1586,82,https://www.besoccer.com/team/lorient,Ligue 1,2027
+8,Monaco,1713,89,https://www.besoccer.com/team/monaco,Ligue 1,2027
+9,Nice,1799,86,https://www.besoccer.com/team/nice,Ligue 1,2027
+10,Lyon,1866,89,https://www.besoccer.com/team/olympique-lyonnais,Ligue 1,2027
+11,Marseille,5117,89,https://www.besoccer.com/team/olympique-marsella,Ligue 1,2027
+12,Paris FC,1925,80,https://www.besoccer.com/team/paris-sg,Ligue 1,2027
+13,Paris Saint-Germain,1924,94,https://www.besoccer.com/team/paris-saint-germain-fc,Ligue 1,2027
+14,Brest,2420,85,https://www.besoccer.com/team/stade-brestois-29,Ligue 1,2027
+15,Rennes,3863,86,https://www.besoccer.com/team/stade-rennes,Ligue 1,2027
+16,Strasbourg,2430,85,https://www.besoccer.com/team/strasbourg,Ligue 1,2027
+17,Toulouse,2524,84,https://www.besoccer.com/team/toulouse-fc,Ligue 1,2027
+18,Troyes,2539,75,https://www.besoccer.com/team/troyes,Ligue 1,2027
+1,Monza,47,78,https://www.besoccer.com/team/ac-monza-brianza-1912,Serie a,2027
+2,Atalanta,339,91,https://www.besoccer.com/team/atalanta,Serie a,2027
+3,Bologna,522,89,https://www.besoccer.com/team/bologna,Serie a,2027
+4,Cagliari,609,80,https://www.besoccer.com/team/cagliari,Serie a,2027
+5,Como,822,82,https://www.besoccer.com/team/como,Serie a,2027
+6,Fiorentina,1142,88,https://www.besoccer.com/team/fiorentina,Serie a,2027
+7,Frosinone,1174,77,https://www.besoccer.com/team/frosinone-calcio,Serie a,2027
+8,Genoa,4101,83,https://www.besoccer.com/team/genoa,Serie a,2027
+9,Inter,1381,94,https://www.besoccer.com/team/internazionale,Serie a,2027
+10,Juventus,1430,91,https://www.besoccer.com/team/juventus-fc,Serie a,2027
+11,Lazio,1526,89,https://www.besoccer.com/team/lazio,Serie a,2027
+12,Lecce,1531,79,https://www.besoccer.com/team/lecce,Serie a,2027
+13,Milan,1692,91,https://www.besoccer.com/team/milan,Serie a,2027
+14,Napoli,1777,90,https://www.besoccer.com/team/napoli,Serie a,2027
+15,Parma,1927,81,https://www.besoccer.com/team/parma-fc,Serie a,2027
+16,Roma,2176,90,https://www.besoccer.com/team/roma,Serie a,2027
+17,Sassuolo,2634,83,https://www.besoccer.com/team/us-sassuolo-calcio,Serie a,2027
+18,Torino,2508,85,https://www.besoccer.com/team/torino-fc,Serie a,2027
+19,Udinese,2573,83,https://www.besoccer.com/team/udinese,Serie a,2027
+20,Venezia,2673,80,https://www.besoccer.com/team/venezia,Serie a,2027
+1,AFC Bournemouth,80,86,https://www.besoccer.com/team/afc-bournemouth,Premier League,2027
+2,Arsenal,263,94,https://www.besoccer.com/team/arsenal,Premier League,2027
+3,Aston Villa,297,89,https://www.besoccer.com/team/aston-villa-fc,Premier League,2027
+4,Brentford,9179,86,https://www.besoccer.com/team/brentford,Premier League,2027
+5,Brighton & Hove Albion,5652,88,https://www.besoccer.com/team/brighton-amp-hov,Premier League,2027
+6,Chelsea,752,91,https://www.besoccer.com/team/chelsea-fc,Premier League,2027
+7,Coventry City,9189,78,https://www.besoccer.com/team/coventry-city,Premier League,2027
+8,Crystal Palace,860,88,https://www.besoccer.com/team/crystal-palace-fc,Premier League,2027
+9,Everton,1017,85,https://www.besoccer.com/team/everton-fc,Premier League,2027
+10,Fulham,1183,86,https://www.besoccer.com/team/fulham,Premier League,2027
+11,Hull City,1341,73,https://www.besoccer.com/team/hull-city,Premier League,2027
+12,Ipswich Town,1387,80,https://www.besoccer.com/team/ipswich-town-fc,Premier League,2027
+13,Leeds United,1533,84,https://www.besoccer.com/team/leeds-united-afc,Premier League,2027
+14,Liverpool,3845,95,https://www.besoccer.com/team/liverpool,Premier League,2027
+15,Manchester City,1633,93,https://www.besoccer.com/team/manchester-city-fc,Premier League,2027
+16,Manchester United,1635,89,https://www.besoccer.com/team/manchester-united-fc,Premier League,2027
+17,Newcastle United,1796,90,https://www.besoccer.com/team/newcastle-united-fc,Premier League,2027
+18,Nottingham Forest,1825,85,https://www.besoccer.com/team/nottingham-forest-fc,Premier League,2027
+19,Sunderland,2438,77,https://www.besoccer.com/team/sunderland-afc,Premier League,2027
+20,Tottenham Hotspur,2523,88,https://www.besoccer.com/team/tottenham-hotspur-fc,Premier League,2027
